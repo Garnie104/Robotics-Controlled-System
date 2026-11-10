@@ -42,4 +42,4 @@ Robotics & Controlled System/
 ### 4. `Tubes Robot`
 * **Topik Resmi:** *Shortest Path Implementation on Robotic*
 * **Judul Proyek:** Perancangan Sistem Navigasi Otonom Berbasis Algoritma Shortest Path A* pada Mobile Robot
-* **Dokumen:** Dokumen perencanaan sistem formal (Tahap 1) dalam format `.docx` dan `.md`.
+* **Dokumen:** [Laporan_Tahap_1_Perencanaan_Sistem.docx](Tubes%20Robot/Laporan_Tahap_1_Perencanaan_Sistem.docx) (Dokumen perencanaan sistem resmi versi 1 algoritma A*).
