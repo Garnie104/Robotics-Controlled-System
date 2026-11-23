@@ -1,0 +1,1240 @@
+{
+  "id": "https://openalex.org/W4411580898",
+  "doi": "https://doi.org/10.3390/eng6070138",
+  "title": "Efficient and Effective Irrigation Water Management Using Sprinkler Robot",
+  "display_name": "Efficient and Effective Irrigation Water Management Using Sprinkler Robot",
+  "publication_year": 2025,
+  "publication_date": "2025-06-24",
+  "ids": {
+    "openalex": "https://openalex.org/W4411580898",
+    "doi": "https://doi.org/10.3390/eng6070138"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/eng6070138",
+    "doi": "https://doi.org/10.3390/eng6070138",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/eng6070138",
+    "pdf_url": "https://www.mdpi.com/2673-4117/6/7/138/pdf?version=1750762522",
+    "source": {
+      "id": "https://openalex.org/S4210179454",
+      "display_name": "Eng—Advances in Engineering",
+      "issn_l": "2673-4117",
+      "issn": [
+        "2673-4117"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Eng",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2673-4117/6/7/138/pdf?version=1750762522",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025799177",
+        "display_name": "Nabil Elkaoud",
+        "orcid": "https://orcid.org/0000-0001-7291-8564",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-7291-8564"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184834183",
+          "display_name": "Al-Azhar University",
+          "ror": "https://ror.org/05fnp1145",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184834183"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nabil Elkaoud",
+      "raw_affiliation_strings": [
+        "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt",
+        "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7291-8564",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I184834183"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031281860",
+        "display_name": "Saleh Mahmoud Ismail",
+        "orcid": "https://orcid.org/0000-0003-4329-3037",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-4329-3037"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91041137",
+          "display_name": "Assiut University",
+          "ror": "https://ror.org/01jaj8n65",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91041137"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Saleh Ismail",
+      "raw_affiliation_strings": [
+        "Soil and Water Department, Faculty of Agriculture, Assiut University, Assiut 71515, Egypt"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Department, Faculty of Agriculture, Assiut University, Assiut 71515, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I91041137"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056779719",
+        "display_name": "R. K. Mahmoud",
+        "orcid": "https://orcid.org/0000-0002-9568-6951",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-9568-6951"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184834183",
+          "display_name": "Al-Azhar University",
+          "ror": "https://ror.org/05fnp1145",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184834183"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ragab Mahmoud",
+      "raw_affiliation_strings": [
+        "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I184834183"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093462256",
+        "display_name": "Hassan Taraby",
+        "orcid": "https://orcid.org/0000-0001-7052-0739",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-7052-0739"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86310350",
+          "display_name": "Aswan University",
+          "ror": "https://ror.org/048qnr849",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86310350"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hassan Taraby",
+      "raw_affiliation_strings": [
+        "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I86310350"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101002839",
+        "display_name": "Shuqi Shang",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146773158",
+          "display_name": "Qingdao Agricultural University",
+          "ror": "https://ror.org/051qwcj72",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146773158"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shuqi Shang",
+      "raw_affiliation_strings": [
+        "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China",
+        "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China",
+          "institution_ids": [
+            "https://openalex.org/I146773158"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100735739",
+        "display_name": "Dongwei Wang",
+        "orcid": "https://orcid.org/0000-0001-9365-1854",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-9365-1854"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146773158",
+          "display_name": "Qingdao Agricultural University",
+          "ror": "https://ror.org/051qwcj72",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146773158"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dongwei Wang",
+      "raw_affiliation_strings": [
+        "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China",
+        "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China",
+          "institution_ids": [
+            "https://openalex.org/I146773158"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069497795",
+        "display_name": "Mostafa Rayan",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86310350",
+          "display_name": "Aswan University",
+          "ror": "https://ror.org/048qnr849",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86310350"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mostafa Rayan",
+      "raw_affiliation_strings": [
+        "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt",
+        "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I86310350"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025799177"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I184834183"
+  ],
+  "apc_list": {
+    "value": 1200,
+    "currency": "CHF",
+    "value_usd": 1448
+  },
+  "apc_paid": {
+    "value": 1200,
+    "currency": "CHF",
+    "value_usd": 1448
+  },
+  "fwci": 1.5313,
+  "has_fulltext": true,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.79279093,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": "7",
+    "first_page": "138",
+    "last_page": "138"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11404",
+    "display_name": "Irrigation Practices and Water Management",
+    "score": 0.6187000274658203,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1111",
+      "display_name": "Soil Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11404",
+      "display_name": "Irrigation Practices and Water Management",
+      "score": 0.6187000274658203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1111",
+        "display_name": "Soil Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12710",
+      "display_name": "Engineering and Agricultural Innovations",
+      "score": 0.3411000072956085,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12201",
+      "display_name": "Agricultural Engineering and Mechanization",
+      "score": 0.016300000250339508,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sprinkler-irrigation",
+      "display_name": "sprinkler irrigation",
+      "score": 0.8050000071525574
+    },
+    {
+      "id": "https://openalex.org/keywords/irrigation-management",
+      "display_name": "irrigation management",
+      "score": 0.7200000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/precision-irrigation",
+      "display_name": "precision irrigation",
+      "score": 0.7850000262260437
+    },
+    {
+      "id": "https://openalex.org/keywords/water-application-efficiency",
+      "display_name": "water application efficiency",
+      "score": 0.7599999904632568
+    },
+    {
+      "id": "https://openalex.org/keywords/nozzle-size",
+      "display_name": "nozzle size",
+      "score": 0.8050000071525574
+    },
+    {
+      "id": "https://openalex.org/keywords/forward-velocity",
+      "display_name": "forward speed",
+      "score": 0.9480000138282776
+    },
+    {
+      "id": "https://openalex.org/keywords/evaporation-losses",
+      "display_name": "evaporation losses",
+      "score": 0.8700000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/variable-rate-irrigation",
+      "display_name": "variable rate irrigation",
+      "score": 0.6499999761581421
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C88862950",
+      "wikidata": "https://www.wikidata.org/wiki/Q11453",
+      "display_name": "Irrigation",
+      "level": 2,
+      "score": 0.6201921701431274
+    },
+    {
+      "id": "https://openalex.org/C88463610",
+      "wikidata": "https://www.wikidata.org/wiki/Q194118",
+      "display_name": "Agricultural engineering",
+      "level": 1,
+      "score": 0.5434281229972839
+    },
+    {
+      "id": "https://openalex.org/C112077630",
+      "wikidata": "https://www.wikidata.org/wiki/Q2623678",
+      "display_name": "Irrigation management",
+      "level": 3,
+      "score": 0.5100458264350891
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5022382736206055
+    },
+    {
+      "id": "https://openalex.org/C524765639",
+      "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+      "display_name": "Water resource management",
+      "level": 1,
+      "score": 0.46042346954345703
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41671112179756165
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.22028595209121704
+    },
+    {
+      "id": "https://openalex.org/C6557445",
+      "wikidata": "https://www.wikidata.org/wiki/Q173113",
+      "display_name": "Agronomy",
+      "level": 1,
+      "score": 0.1404385268688202
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.05966120958328247
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/eng6070138",
+      "doi": "https://doi.org/10.3390/eng6070138",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/eng6070138",
+      "pdf_url": "https://www.mdpi.com/2673-4117/6/7/138/pdf?version=1750762522",
+      "source": {
+        "id": "https://openalex.org/S4210179454",
+        "display_name": "Eng—Advances in Engineering",
+        "issn_l": "2673-4117",
+        "issn": [
+          "2673-4117"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj"
+        ],
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Eng",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:566cb39ebbe34af689e30376370a5567",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/566cb39ebbe34af689e30376370a5567",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Eng, Vol 6, Iss 7, p 138 (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/eng6070138",
+    "doi": "https://doi.org/10.3390/eng6070138",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/eng6070138",
+    "pdf_url": "https://www.mdpi.com/2673-4117/6/7/138/pdf?version=1750762522",
+    "source": {
+      "id": "https://openalex.org/S4210179454",
+      "display_name": "Eng—Advances in Engineering",
+      "issn_l": "2673-4117",
+      "issn": [
+        "2673-4117"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Eng",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.40450000762939453,
+      "id": "https://metadata.un.org/sdg/2",
+      "display_name": "Zero hunger"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4411580898.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4411580898.grobid-xml"
+  },
+  "referenced_works_count": 46,
+  "referenced_works": [
+    "https://openalex.org/W1498195923",
+    "https://openalex.org/W1984529387",
+    "https://openalex.org/W2014628517",
+    "https://openalex.org/W2045370504",
+    "https://openalex.org/W2071774740",
+    "https://openalex.org/W2155218262",
+    "https://openalex.org/W2180601789",
+    "https://openalex.org/W2183314553",
+    "https://openalex.org/W2335378172",
+    "https://openalex.org/W2592194291",
+    "https://openalex.org/W2742638272",
+    "https://openalex.org/W2797149892",
+    "https://openalex.org/W2801222978",
+    "https://openalex.org/W2889147466",
+    "https://openalex.org/W2983777855",
+    "https://openalex.org/W3014405987",
+    "https://openalex.org/W3092691478",
+    "https://openalex.org/W3104863838",
+    "https://openalex.org/W3117370077",
+    "https://openalex.org/W3137876125",
+    "https://openalex.org/W3186782742",
+    "https://openalex.org/W3211286149",
+    "https://openalex.org/W3216479846",
+    "https://openalex.org/W4225254114",
+    "https://openalex.org/W4240016075",
+    "https://openalex.org/W4243138043",
+    "https://openalex.org/W4283776923",
+    "https://openalex.org/W4283780633",
+    "https://openalex.org/W4284966038",
+    "https://openalex.org/W4303832987",
+    "https://openalex.org/W4307114622",
+    "https://openalex.org/W4309637248",
+    "https://openalex.org/W4312591777",
+    "https://openalex.org/W4362583649",
+    "https://openalex.org/W4366287719",
+    "https://openalex.org/W4385464036",
+    "https://openalex.org/W4386006928",
+    "https://openalex.org/W4389802286",
+    "https://openalex.org/W4390175035",
+    "https://openalex.org/W4390331975",
+    "https://openalex.org/W4392202257",
+    "https://openalex.org/W4399534794",
+    "https://openalex.org/W4403186267",
+    "https://openalex.org/W4406985738",
+    "https://openalex.org/W4407263598",
+    "https://openalex.org/W4409196251"
+  ],
+  "related_works": [
+    "https://openalex.org/W4413598015",
+    "https://openalex.org/W4386981148",
+    "https://openalex.org/W4386845755",
+    "https://openalex.org/W4283776923",
+    "https://openalex.org/W7169876020",
+    "https://openalex.org/W7151488020",
+    "https://openalex.org/W2183314553",
+    "https://openalex.org/W2947007415",
+    "https://openalex.org/W7104279669",
+    "https://openalex.org/W1980196512"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      27
+    ],
+    "manuscript": [
+      1
+    ],
+    "addresses": [
+      2
+    ],
+    "the": [
+      3,
+      34,
+      50,
+      98,
+      106,
+      154,
+      197,
+      201
+    ],
+    "issue": [
+      4
+    ],
+    "of": [
+      5,
+      36,
+      52,
+      112,
+      136
+    ],
+    "irrigation": [
+      6,
+      38,
+      187
+    ],
+    "water": [
+      7,
+      21,
+      169
+    ],
+    "management": [
+      8
+    ],
+    "with": [
+      9,
+      19
+    ],
+    "high": [
+      10
+    ],
+    "efficiency": [
+      11,
+      150,
+      171
+    ],
+    "and": [
+      12,
+      14,
+      54,
+      68,
+      73,
+      79,
+      88,
+      138,
+      160,
+      175,
+      182,
+      191
+    ],
+    "effectiveness": [
+      13
+    ],
+    "focuses": [
+      15
+    ],
+    "on": [
+      16
+    ],
+    "systems": [
+      17
+    ],
+    "associated": [
+      18
+    ],
+    "significant": [
+      20
+    ],
+    "losses,": [
+      22
+    ],
+    "which": [
+      23
+    ],
+    "is": [
+      24
+    ],
+    "sprinkler": [
+      25,
+      42,
+      45
+    ],
+    "irrigation.": [
+      26
+    ],
+    "article": [
+      28
+    ],
+    "presents": [
+      29
+    ],
+    "mathematical": [
+      30
+    ],
+    "modeling": [
+      31
+    ],
+    "that": [
+      32,
+      94
+    ],
+    "enables": [
+      33
+    ],
+    "application": [
+      35,
+      170
+    ],
+    "precision": [
+      37
+    ],
+    "using": [
+      39,
+      65,
+      161,
+      177,
+      189
+    ],
+    "a": [
+      40,
+      110,
+      162
+    ],
+    "gun": [
+      41,
+      75,
+      165
+    ],
+    "robot.": [
+      43
+    ],
+    "The": [
+      44,
+      61,
+      91,
+      134,
+      148,
+      167
+    ],
+    "robot": [
+      46
+    ],
+    "was": [
+      47,
+      151,
+      172
+    ],
+    "fabricated": [
+      48
+    ],
+    "in": [
+      49,
+      200
+    ],
+    "Faculty": [
+      51
+    ],
+    "Agriculture": [
+      53
+    ],
+    "Natural": [
+      55
+    ],
+    "Resources": [
+      56
+    ],
+    "workshop": [
+      57
+    ],
+    "at": [
+      58,
+      82,
+      95,
+      115,
+      125,
+      153
+    ],
+    "As-wan": [
+      59
+    ],
+    "University.": [
+      60
+    ],
+    "experiments": [
+      62
+    ],
+    "were": [
+      63,
+      142
+    ],
+    "conducted": [
+      64
+    ],
+    "12,": [
+      66,
+      97,
+      179
+    ],
+    "14,": [
+      67,
+      117,
+      181
+    ],
+    "16": [
+      69
+    ],
+    "mm": [
+      70
+    ],
+    "nozzle": [
+      71,
+      96,
+      116,
+      126,
+      178,
+      180,
+      183
+    ],
+    "sizes": [
+      72
+    ],
+    "three": [
+      74,
+      83
+    ],
+    "heights,": [
+      76
+    ],
+    "1.25,": [
+      77
+    ],
+    "1.5,": [
+      78
+    ],
+    "2": [
+      80,
+      121
+    ],
+    "m,": [
+      81
+    ],
+    "forward": [
+      84,
+      156
+    ],
+    "speeds,": [
+      85
+    ],
+    "25,": [
+      86
+    ],
+    "50,": [
+      87
+    ],
+    "75": [
+      89
+    ],
+    "m/h.": [
+      90
+    ],
+    "results": [
+      92
+    ],
+    "revealed": [
+      93
+    ],
+    "actual": [
+      99
+    ],
+    "wetted": [
+      100
+    ],
+    "diameter": [
+      101,
+      108
+    ],
+    "would": [
+      102
+    ],
+    "be": [
+      103,
+      196
+    ],
+    "less": [
+      104,
+      144
+    ],
+    "than": [
+      105,
+      145
+    ],
+    "theoretical": [
+      107
+    ],
+    "by": [
+      109
+    ],
+    "percentage": [
+      111
+    ],
+    "2–5%,": [
+      113
+    ],
+    "while": [
+      114
+    ],
+    "it": [
+      118,
+      128
+    ],
+    "ranged": [
+      119
+    ],
+    "from": [
+      120,
+      130
+    ],
+    "to": [
+      122,
+      132
+    ],
+    "7%,": [
+      123
+    ],
+    "but": [
+      124
+    ],
+    "16,": [
+      127,
+      184
+    ],
+    "increased": [
+      129
+    ],
+    "6": [
+      131
+    ],
+    "9%.": [
+      133
+    ],
+    "values": [
+      135
+    ],
+    "evaporation": [
+      137
+    ],
+    "wind": [
+      139
+    ],
+    "drift": [
+      140
+    ],
+    "losses": [
+      141
+    ],
+    "always": [
+      143
+    ],
+    "2.8": [
+      146
+    ],
+    "mm.": [
+      147
+    ],
+    "highest": [
+      149,
+      168
+    ],
+    "achieved": [
+      152
+    ],
+    "lowest": [
+      155
+    ],
+    "speed": [
+      157
+    ],
+    "(25": [
+      158
+    ],
+    "m/h)": [
+      159
+    ],
+    "1.5": [
+      163
+    ],
+    "m": [
+      164
+    ],
+    "height.": [
+      166
+    ],
+    "81.8,": [
+      173
+    ],
+    "82.5,": [
+      174
+    ],
+    "81.1%": [
+      176
+    ],
+    "respectively.": [
+      185
+    ],
+    "Precise": [
+      186
+    ],
+    "control": [
+      188
+    ],
+    "sensor": [
+      190
+    ],
+    "variable": [
+      192
+    ],
+    "rate": [
+      193
+    ],
+    "technology": [
+      194
+    ],
+    "will": [
+      195
+    ],
+    "preferred": [
+      198
+    ],
+    "option": [
+      199
+    ],
+    "future.": [
+      202
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-05T12:25:35.769452",
+  "created_date": "2025-10-10T00:00:00"
+}

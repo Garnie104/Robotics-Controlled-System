@@ -1,0 +1,755 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        6
+      ]
+    ],
+    "date-time": "2026-11-06T01:10:04Z",
+    "timestamp": 1793927404345,
+    "version": "4.8.0"
+  },
+  "reference-count": 47,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            8
+          ]
+        ],
+        "date-time": "2023-07-08T00:00:00Z",
+        "timestamp": 1688774400000
+      },
+      "content-version": "am",
+      "delay-in-days": 280,
+      "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2022-10-01T00:00:00Z",
+        "timestamp": 1664582400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Applied Energy"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.apenergy.2022.119563",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        8
+      ]
+    ],
+    "date-time": "2022-07-08T05:44:09Z",
+    "timestamp": 1657259049000
+  },
+  "page": "119563",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 54,
+  "special_numbering": "C",
+  "title": [
+    "Creating a Solar-Powered Drip Irrigation Optimal Performance model (SDrOP) to lower the cost of drip irrigation systems for smallholder farmers"
+  ],
+  "prefix": "10.1016",
+  "volume": "323",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0629-4164",
+      "authenticated-orcid": false,
+      "given": "Fiona",
+      "family": "Grant",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6787-703X",
+      "authenticated-orcid": false,
+      "given": "Carolyn",
+      "family": "Sheline",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3481-1835",
+      "authenticated-orcid": false,
+      "given": "Julia",
+      "family": "Sokol",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8037-1690",
+      "authenticated-orcid": false,
+      "given": "Susan",
+      "family": "Amrose",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1236-4835",
+      "authenticated-orcid": false,
+      "given": "Elizabeth",
+      "family": "Brownell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5148-8614",
+      "authenticated-orcid": false,
+      "given": "Vinay",
+      "family": "Nangia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "suffix": "V",
+      "given": "Amos G.",
+      "family": "Winter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b1",
+      "series-title": "Smallholders, food security and the environment",
+      "author": "International Fund for Agricultural Development (IFAD)",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b2",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.worlddev.2015.10.041",
+      "article-title": "The number, size, and distribution of farms, smallholder farms, and family farms worldwide",
+      "volume": "87",
+      "author": "Lowder",
+      "year": "2016",
+      "journal-title": "World Dev"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b3",
+      "series-title": "The economic lives of smallholder farmers",
+      "author": "Rapsomanikis",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b4",
+      "series-title": "Should african rural development strategies depend on smallholder farms? An exploration of the inverse productivity hypothesis",
+      "author": "Larson",
+      "year": "2012"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.apenergy.2022.119563_b5",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1057/palgrave.development.1110149",
+      "article-title": "The multiple functions and benefits of small farm agriculture in the context of global trade negotiations",
+      "volume": "43",
+      "author": "Rosset",
+      "year": "2000",
+      "journal-title": "Development"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.apenergy.2022.119563_b6",
+      "doi-asserted-by": "crossref",
+      "first-page": "1848",
+      "DOI": "10.1073/pnas.0909678107",
+      "article-title": "Solar-powered drip irrigation enhances food security in the sudano-sahel",
+      "volume": "107",
+      "author": "Burney",
+      "year": "2010",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.apenergy.2022.119563_b7",
+      "first-page": "45",
+      "article-title": "Low-cost irrigation technology, in the context of sustainable land management and adaptation to climate change in the Kilimanjaro region",
+      "volume": "5",
+      "author": "Nkya",
+      "year": "2015",
+      "journal-title": "J Environ Earth Sci"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.apenergy.2022.119563_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "3073",
+      "DOI": "10.5194/hess-19-3073-2015",
+      "article-title": "Water savings potentials of irrigation systems: global simulation of processes and linkages",
+      "volume": "19",
+      "author": "Jägermeyr",
+      "year": "2015",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/j.agwat.2013.04.014",
+      "article-title": "Technical considerations affecting adoption of drip irrigation in sub-Saharan Africa",
+      "volume": "126",
+      "author": "Friedlander",
+      "year": "2013",
+      "journal-title": "Agricult Water Manag"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b10",
+      "series-title": "Ultra-low energy drip irrigation for MENA countries: Drip irrigation in Morocco",
+      "author": "Nangia",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b11",
+      "series-title": "EPANet",
+      "author": "Agency",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b12",
+      "series-title": "Management of irrigation and drainage systems: integrated perspectives",
+      "first-page": "835",
+      "article-title": "IRRICAD: Computerized irrigation design",
+      "author": "Hutchinson",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b13",
+      "series-title": "International conference on agricultural and biosystem engineering for a sustainable world, vol. 1",
+      "first-page": "1",
+      "article-title": "IRRIPRO: A Powerful software to graphic and hydraulic design of irrigation plants",
+      "author": "Di Dio",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b14",
+      "series-title": "Compass",
+      "author": "Lorentz",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b15",
+      "series-title": "Xylect",
+      "author": "Xylem",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b16",
+      "unstructured": "Grundfos. Grundfos Product Selection, https://product-selection.grundfos.com/."
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b17",
+      "series-title": "Volume 2B: 44th design automation conference",
+      "article-title": "Development of a system model for low-cost, solar-powered drip irrigation systems in the MENA region",
+      "author": "Sokol",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b18",
+      "series-title": "Volume 11B: 46th design automation conference",
+      "article-title": "Validation of an analytical model to lower the cost of solar-powered drip irrigation systems for smallholder farmers in the MENA region",
+      "author": "Grant",
+      "year": "2020"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.apenergy.2022.119563_b19",
+      "doi-asserted-by": "crossref",
+      "first-page": "2669",
+      "DOI": "10.1016/j.rser.2010.07.061",
+      "article-title": "On the feasibility of solar-powered irrigation",
+      "volume": "14",
+      "author": "Kelley",
+      "year": "2010",
+      "journal-title": "Renew Sustain Energy Rev"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b20",
+      "doi-asserted-by": "crossref",
+      "first-page": "406",
+      "DOI": "10.1016/j.compag.2018.11.038",
+      "article-title": "Agricultural technology assessment for smallholder farms: An analysis using a farm simulation model (FARMSIM)",
+      "volume": "156",
+      "author": "Bizimana",
+      "year": "2019",
+      "journal-title": "Comput Electron Agric"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b21",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.solener.2010.11.023",
+      "article-title": "Optimal sizing of photovoltaic pumping system with water tank storage using LPSP concept",
+      "volume": "85",
+      "author": "Bakelli",
+      "year": "2011",
+      "journal-title": "Sol Energy"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1003",
+      "DOI": "10.1016/j.solener.2017.11.044",
+      "article-title": "Sizing of a standalone photovoltaic water pumping system using hybrid multi-criteria decision making methods",
+      "volume": "159",
+      "author": "Muhsen",
+      "year": "2017",
+      "journal-title": "Sol Energy"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.apenergy.2022.119563_b23",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1115/1.4038211",
+      "article-title": "Shape and form optimization of on-line pressure-compensating drip emitters to achieve lower activation pressure",
+      "volume": "140",
+      "author": "Shamshery",
+      "year": "2017",
+      "journal-title": "J Mech Des"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.apenergy.2022.119563_b24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1195",
+      "DOI": "10.3390/w11061195",
+      "article-title": "Energy reduction and uniformity of low-pressure online drip irrigation emitters in field tests",
+      "volume": "11",
+      "author": "Sokol",
+      "year": "2019",
+      "journal-title": "Water"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b25",
+      "unstructured": "Allen RG, Pereira LS, Raes D, Smith M. FAO Irrigation and Drainage Paper No. 56, 1998."
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b26",
+      "series-title": "Weather data for energy calculations",
+      "author": "White Box Technologies",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b27",
+      "unstructured": "ASHRAE. International weather files for energy calculations 2.0 (IWEC2), https://www.ashrae.org/technical-resources/bookstore/ashrae-international-weather-files-for-energy-calculations-2-0-iwec2."
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b28",
+      "series-title": "Fluid mechanics",
+      "author": "White",
+      "year": "2011"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.apenergy.2022.119563_b29",
+      "doi-asserted-by": "crossref",
+      "first-page": "657",
+      "DOI": "10.1061/JYCEAJ.0004542",
+      "article-title": "Explicit equations for pipe-flow problems",
+      "volume": "102",
+      "author": "Swamee",
+      "year": "1976",
+      "journal-title": "J Hydraul Div"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b30",
+      "series-title": "Jain super flow silver",
+      "year": "2009"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b31",
+      "series-title": "Jain fertilizer tank gold",
+      "year": "2009"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b32",
+      "series-title": "Efficiency Island technical review",
+      "author": "Xylem Applied Water Systems",
+      "year": "2014"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b33",
+      "series-title": "Centrifugal pumps ch. 3.4 dimensionless coefficients, similarity laws and specific speed",
+      "author": "Gülich",
+      "year": "2007"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b34",
+      "series-title": "Centrifugal pumps ch. 2 pump types and performance data",
+      "author": "Gülich",
+      "year": "2007"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b35",
+      "article-title": "Centrifugal pumps ch. 6.3 determination of the required NPSH",
+      "author": "Gülich",
+      "year": "2007"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.apenergy.2022.119563_b36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1198",
+      "DOI": "10.1109/TPEL.2009.2013862",
+      "article-title": "Comprehensive approach to modeling and simulation of photovoltaic arrays",
+      "volume": "24",
+      "author": "Villalva",
+      "year": "2009",
+      "journal-title": "IEEE Trans Power Electron"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Doorenbos J, Kassam AH. Yield response to water. FAO Irrigation and Drainage Paper No. 33, 1979.",
+      "DOI": "10.1016/B978-0-08-025675-7.50021-2"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.apenergy.2022.119563_b38",
+      "doi-asserted-by": "crossref",
+      "first-page": "425",
+      "DOI": "10.21273/JASHS.128.3.425",
+      "article-title": "Yield responses of a mature olive orchard to water deficits",
+      "volume": "128",
+      "author": "Moriana",
+      "year": "2003",
+      "journal-title": "J Am Soc Hortic Sci"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b39",
+      "unstructured": "Steduto P, Hsiao TC, Fereres E, Raes D. Crop yield response to water. 2012, FAO Irrigation and Drainage Paper No. 66."
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b40",
+      "series-title": "FAOSTAT",
+      "author": "Food and Agriculture Organization of the United Nations (FAO)",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b41",
+      "series-title": "Development and validation of a systems-level cost optimization tool for solar-powered drip irrigation systems for smallholder farms",
+      "author": "Grant",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b42",
+      "series-title": "Lowering the cost of solar-powered drip irrigation systems for smallholder farmers through systems-level modeling, optimization, and field testing",
+      "author": "Sheline",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b43",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/j.desal.2018.09.004",
+      "article-title": "Optimization and design of a low-cost, village-scale, photovoltaic-powered, electrodialysis reversal desalination system for rural India",
+      "volume": "452",
+      "author": "Bian",
+      "year": "2019",
+      "journal-title": "Desalination"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b44",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hassan R, Cohanim B, de Weck O. A comparison of particle swarm optimization and the genetic algorithm. In: 46th AIAA/ASME/ASCE/AHS/ASC structures, structural dynamics and materials conference. 2005, p. 1897.",
+      "DOI": "10.2514/6.2005-1897"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b45",
+      "series-title": "Middle east drought a threat to global food prices",
+      "author": "Al-Khalidi",
+      "year": "2014"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b46",
+      "series-title": "Morocco grain production down 70% on severe drought",
+      "author": "Demaree-Saddler",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.apenergy.2022.119563_b47",
+      "series-title": "CS6P-270P",
+      "year": "2016"
+    }
+  ],
+  "container-title": [
+    "Applied Energy"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0306261922008741?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0306261922008741?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2025-10-05T14:18:34Z",
+    "timestamp": 1759673914000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0306261922008741"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "references-count": 47,
+  "alternative-id": [
+    "S0306261922008741"
+  ],
+  "URL": "https://doi.org/10.1016/j.apenergy.2022.119563",
+  "relation": {},
+  "ISSN": [
+    "0306-2619"
+  ],
+  "issn-type": [
+    {
+      "value": "0306-2619",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Creating a Solar-Powered Drip Irrigation Optimal Performance model (SDrOP) to lower the cost of drip irrigation systems for smallholder farmers",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Applied Energy",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.apenergy.2022.119563",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2022 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "119563"
+}

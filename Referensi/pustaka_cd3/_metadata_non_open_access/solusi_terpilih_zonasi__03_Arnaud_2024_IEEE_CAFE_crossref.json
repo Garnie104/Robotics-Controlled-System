@@ -1,0 +1,408 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        10
+      ]
+    ],
+    "date-time": "2026-06-10T16:23:37Z",
+    "timestamp": 1781108617610,
+    "version": "3.54.1"
+  },
+  "reference-count": 22,
+  "publisher": "IEEE",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2024-09-26T00:00:00Z",
+        "timestamp": 1727308800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2024-09-26T00:00:00Z",
+        "timestamp": 1727308800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        26
+      ]
+    ]
+  },
+  "DOI": "10.1109/cafe63183.2024.11069348",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        8
+      ]
+    ],
+    "date-time": "2025-07-08T13:36:19Z",
+    "timestamp": 1751981779000
+  },
+  "page": "85-89",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Power Management for a Wireless Solenoid Irrigation Valve"
+  ],
+  "prefix": "10.1109",
+  "author": [
+    {
+      "given": "Alfredo",
+      "family": "Arnaud",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Universidad Cat&#x00F3;lica del Uruguay,Engineering Department"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Augusto",
+      "family": "Sbarbaro",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Cat&#x00F3;lica del Uruguay,Engineering Department"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Nicolas",
+      "family": "Calarco",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Cat&#x00F3;lica del Uruguay,Engineering Department"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joel",
+      "family": "Gak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Cat&#x00F3;lica del Uruguay,Engineering Department"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hever",
+      "family": "Gudiño",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Aut&#x00F3;noma de Chapingo,M&#x00E9;xico"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andy",
+      "family": "Tepezila",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Aut&#x00F3;noma de Chapingo,M&#x00E9;xico"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Luis Arturo",
+      "family": "Soriano",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Aut&#x00F3;noma de Chapingo,M&#x00E9;xico"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matías",
+      "family": "Miguez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Universidad Cat&#x00F3;lica del Uruguay,Engineering Department"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "263",
+  "reference": [
+    {
+      "key": "ref1",
+      "article-title": "IoT in Agriculture Market",
+      "volume-title": "Allied Market Research",
+      "author": "Samriddhi",
+      "year": "2023"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JIOT.2020.3036126"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-981-16-5168-7_20"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/s110100329"
+    },
+    {
+      "key": "ref5",
+      "volume-title": "LoRaWAN® Solenoid Valve Controller",
+      "year": "2024"
+    },
+    {
+      "key": "ref7",
+      "volume-title": "Latching Solenoid Valve",
+      "year": "2024"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/les.2024.3394446"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/LES.2024.3387310"
+    },
+    {
+      "key": "ref10",
+      "volume-title": "How to Extend Operating Time of a LiSOCl2 Powered System",
+      "author": "Hagedorn",
+      "year": "2024"
+    },
+    {
+      "key": "ref11",
+      "volume-title": "BQ25570 Ultra Low power Harvester power Management IC",
+      "year": "2024"
+    },
+    {
+      "key": "ref12",
+      "volume-title": "How to design a VBAT system based on STM32L0/L1 series",
+      "year": "2024"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JSEN.2017.2665680"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.procs.2019.08.049"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JIOT.2018.2844296"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CAFE58535.2023.10291369"
+    },
+    {
+      "key": "ref17",
+      "volume-title": "Fully Integrated Synchronous High-Power Boost Converter",
+      "year": "2024"
+    },
+    {
+      "key": "ref18",
+      "volume-title": "PHV-5R4V155-R 1.5F supercapacitor datasheet",
+      "year": "2024"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TIE.2019.2896321"
+    },
+    {
+      "key": "ref20",
+      "article-title": "Supercapacitor Leakage Self Discharge Characteristics",
+      "volume-title": "Kemet Tech. Document",
+      "author": "Hoffman",
+      "year": "2018"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/PESGM41954.2020.9281738"
+    },
+    {
+      "key": "ref22",
+      "article-title": "A 5 μA wireless platform for cattle heat detection",
+      "volume-title": "VIII IEEE LASCAS",
+      "author": "Bellini"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JETCAS.2021.3101367"
+    }
+  ],
+  "event": {
+    "name": "2024 IEEE 2nd Conference on AgriFood Electronics (CAFE)",
+    "location": "Xanthi, Greece",
+    "start": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          26
+        ]
+      ]
+    },
+    "end": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          28
+        ]
+      ]
+    }
+  },
+  "container-title": [
+    "2024 IEEE 2nd Conference on AgriFood Electronics (CAFE)"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx8/11069255/11069312/11069348.pdf?arnumber=11069348",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        9
+      ]
+    ],
+    "date-time": "2025-07-09T23:04:52Z",
+    "timestamp": 1752102292000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/11069348/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        26
+      ]
+    ]
+  },
+  "references-count": 22,
+  "URL": "https://doi.org/10.1109/cafe63183.2024.11069348",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        26
+      ]
+    ]
+  }
+}

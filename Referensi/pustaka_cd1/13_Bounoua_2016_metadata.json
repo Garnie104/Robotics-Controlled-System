@@ -1,0 +1,995 @@
+﻿{
+    "id":  "https://openalex.org/W2343994485",
+    "doi":  "https://doi.org/10.1007/s00271-016-0506-8",
+    "title":  "Understanding physical clogging in drip irrigation: in situ, in-lab and numerical approaches",
+    "display_name":  "Understanding physical clogging in drip irrigation: in situ, in-lab and numerical approaches",
+    "publication_year":  2016,
+    "publication_date":  "2016-04-30",
+    "ids":  {
+                "openalex":  "https://openalex.org/W2343994485",
+                "doi":  "https://doi.org/10.1007/s00271-016-0506-8",
+                "mag":  "2343994485"
+            },
+    "language":  "en",
+    "primary_location":  {
+                             "id":  "doi:10.1007/s00271-016-0506-8",
+                             "doi":  "https://doi.org/10.1007/s00271-016-0506-8",
+                             "is_oa":  false,
+                             "landing_page_url":  "https://doi.org/10.1007/s00271-016-0506-8",
+                             "pdf_url":  null,
+                             "source":  {
+                                            "id":  "https://openalex.org/S84263908",
+                                            "display_name":  "Irrigation Science",
+                                            "issn_l":  "0342-7188",
+                                            "issn":  [
+                                                         "0342-7188",
+                                                         "1432-1319"
+                                                     ],
+                                            "is_oa":  false,
+                                            "is_in_doaj":  false,
+                                            "is_core":  true,
+                                            "listed_in":  [
+                                                              "cwts-core",
+                                                              "dongbi-b",
+                                                              "jufo-1",
+                                                              "norway-1",
+                                                              "poland-100",
+                                                              "russia-white-list-1",
+                                                              "vabb-shw"
+                                                          ],
+                                            "host_organization":  "https://openalex.org/P4310319900",
+                                            "host_organization_name":  "Springer Science+Business Media",
+                                            "host_organization_lineage":  [
+                                                                              "https://openalex.org/P4310319900",
+                                                                              "https://openalex.org/P4310319965"
+                                                                          ],
+                                            "host_organization_lineage_names":  [
+                                                                                    "Springer Science+Business Media",
+                                                                                    "Springer Nature"
+                                                                                ],
+                                            "type":  "journal"
+                                        },
+                             "license":  null,
+                             "license_id":  null,
+                             "version":  "publishedVersion",
+                             "is_accepted":  true,
+                             "is_published":  true,
+                             "raw_source_name":  "Irrigation Science",
+                             "raw_type":  "journal-article"
+                         },
+    "volume":  null,
+    "type":  "article",
+    "indexed_in":  [
+                       "crossref"
+                   ],
+    "open_access":  {
+                        "is_oa":  false,
+                        "oa_status":  "closed",
+                        "oa_url":  null,
+                        "any_repository_has_fulltext":  false
+                    },
+    "authorships":  [
+                        {
+                            "author_position":  "first",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5089403180",
+                                           "display_name":  "Salim Bounoua",
+                                           "orcid":  null,
+                                           "observed_orcids":  [
+
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I4210112109",
+                                                     "display_name":  "Gestion de l\u0027Eau, Acteurs, Usages",
+                                                     "ror":  "https://ror.org/020g0rw41",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I131077856",
+                                                                     "https://openalex.org/I19894307",
+                                                                     "https://openalex.org/I22248866",
+                                                                     "https://openalex.org/I24906876",
+                                                                     "https://openalex.org/I277688954",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210112109",
+                                                                     "https://openalex.org/I4210117091",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210158893",
+                                                                     "https://openalex.org/I4210166444",
+                                                                     "https://openalex.org/I4399657933"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Salim Bounoua",
+                            "raw_affiliation_strings":  [
+                                                            "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I4210112109"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "middle",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5059300406",
+                                           "display_name":  "Séverine Tomas",
+                                           "orcid":  "https://orcid.org/0000-0002-8139-1810",
+                                           "observed_orcids":  [
+                                                                   "https://orcid.org/0000-0002-8139-1810"
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I4210112109",
+                                                     "display_name":  "Gestion de l\u0027Eau, Acteurs, Usages",
+                                                     "ror":  "https://ror.org/020g0rw41",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I131077856",
+                                                                     "https://openalex.org/I19894307",
+                                                                     "https://openalex.org/I22248866",
+                                                                     "https://openalex.org/I24906876",
+                                                                     "https://openalex.org/I277688954",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210112109",
+                                                                     "https://openalex.org/I4210117091",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210158893",
+                                                                     "https://openalex.org/I4210166444",
+                                                                     "https://openalex.org/I4399657933"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  true,
+                            "raw_author_name":  "Séverine Tomas",
+                            "raw_affiliation_strings":  [
+                                                            "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I4210112109"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "middle",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5046089573",
+                                           "display_name":  "Jérôme Labille",
+                                           "orcid":  "https://orcid.org/0000-0002-4033-537X",
+                                           "observed_orcids":  [
+                                                                   "https://orcid.org/0000-0002-4033-537X"
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I1294671590",
+                                                     "display_name":  "Centre National de la Recherche Scientifique",
+                                                     "ror":  "https://ror.org/02feahw73",
+                                                     "country_code":  "FR",
+                                                     "type":  "government",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I1294671590"
+                                                                 ]
+                                                 },
+                                                 {
+                                                     "id":  "https://openalex.org/I4210104942",
+                                                     "display_name":  "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
+                                                     "ror":  "https://ror.org/01pa4h393",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I1294671590",
+                                                                     "https://openalex.org/I187986737",
+                                                                     "https://openalex.org/I21491767",
+                                                                     "https://openalex.org/I2746051580",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210093025",
+                                                                     "https://openalex.org/I4210104942",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210148025",
+                                                                     "https://openalex.org/I4210166444"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Jérôme Labille",
+                            "raw_affiliation_strings":  [
+                                                            "CEREGE UMR 6635, CNRS, Aix-Marseille Universit, 13545, Aix-en-Provence, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "CEREGE UMR 6635, CNRS, Aix-Marseille Universit, 13545, Aix-en-Provence, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I1294671590",
+                                                                             "https://openalex.org/I4210104942"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "middle",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5051353934",
+                                           "display_name":  "Bruno Molle",
+                                           "orcid":  "https://orcid.org/0000-0003-0268-6117",
+                                           "observed_orcids":  [
+                                                                   "https://orcid.org/0000-0003-0268-6117"
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I4210112109",
+                                                     "display_name":  "Gestion de l\u0027Eau, Acteurs, Usages",
+                                                     "ror":  "https://ror.org/020g0rw41",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I131077856",
+                                                                     "https://openalex.org/I19894307",
+                                                                     "https://openalex.org/I22248866",
+                                                                     "https://openalex.org/I24906876",
+                                                                     "https://openalex.org/I277688954",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210112109",
+                                                                     "https://openalex.org/I4210117091",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210158893",
+                                                                     "https://openalex.org/I4210166444",
+                                                                     "https://openalex.org/I4399657933"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Bruno Molle",
+                            "raw_affiliation_strings":  [
+                                                            "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I4210112109"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "middle",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5109485681",
+                                           "display_name":  "J. Granier",
+                                           "orcid":  null,
+                                           "observed_orcids":  [
+
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I4210112109",
+                                                     "display_name":  "Gestion de l\u0027Eau, Acteurs, Usages",
+                                                     "ror":  "https://ror.org/020g0rw41",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I131077856",
+                                                                     "https://openalex.org/I19894307",
+                                                                     "https://openalex.org/I22248866",
+                                                                     "https://openalex.org/I24906876",
+                                                                     "https://openalex.org/I277688954",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210112109",
+                                                                     "https://openalex.org/I4210117091",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210158893",
+                                                                     "https://openalex.org/I4210166444",
+                                                                     "https://openalex.org/I4399657933"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Jacques Granier",
+                            "raw_affiliation_strings":  [
+                                                            "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I4210112109"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "middle",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5080656291",
+                                           "display_name":  "Pierre Haldenwang",
+                                           "orcid":  "https://orcid.org/0000-0001-9126-1721",
+                                           "observed_orcids":  [
+                                                                   "https://orcid.org/0000-0001-9126-1721"
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I1294671590",
+                                                     "display_name":  "Centre National de la Recherche Scientifique",
+                                                     "ror":  "https://ror.org/02feahw73",
+                                                     "country_code":  "FR",
+                                                     "type":  "government",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I1294671590"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Pierre Haldenwang",
+                            "raw_affiliation_strings":  [
+                                                            "FRE 2405 du CNRS, IMT/La Jetée/L3M, Modélisation et simulation numérique en mécanique, 38, avenue Joliot Curie, 13451, Marseille Cedex 20, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "FRE 2405 du CNRS, IMT/La Jetée/L3M, Modélisation et simulation numérique en mécanique, 38, avenue Joliot Curie, 13451, Marseille Cedex 20, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I1294671590"
+                                                                         ]
+                                                 }
+                                             ]
+                        },
+                        {
+                            "author_position":  "last",
+                            "author":  {
+                                           "id":  "https://openalex.org/A5018346877",
+                                           "display_name":  "S.N. Izzati",
+                                           "orcid":  null,
+                                           "observed_orcids":  [
+
+                                                               ]
+                                       },
+                            "institutions":  [
+                                                 {
+                                                     "id":  "https://openalex.org/I4210112109",
+                                                     "display_name":  "Gestion de l\u0027Eau, Acteurs, Usages",
+                                                     "ror":  "https://ror.org/020g0rw41",
+                                                     "country_code":  "FR",
+                                                     "type":  "facility",
+                                                     "lineage":  [
+                                                                     "https://openalex.org/I131077856",
+                                                                     "https://openalex.org/I19894307",
+                                                                     "https://openalex.org/I22248866",
+                                                                     "https://openalex.org/I24906876",
+                                                                     "https://openalex.org/I277688954",
+                                                                     "https://openalex.org/I2802818602",
+                                                                     "https://openalex.org/I4210088668",
+                                                                     "https://openalex.org/I4210090127",
+                                                                     "https://openalex.org/I4210112109",
+                                                                     "https://openalex.org/I4210117091",
+                                                                     "https://openalex.org/I4210131494",
+                                                                     "https://openalex.org/I4210158893",
+                                                                     "https://openalex.org/I4210166444",
+                                                                     "https://openalex.org/I4399657933"
+                                                                 ]
+                                                 }
+                                             ],
+                            "countries":  [
+                                              "FR"
+                                          ],
+                            "is_corresponding":  false,
+                            "raw_author_name":  "Surani Nuur Izzati",
+                            "raw_affiliation_strings":  [
+                                                            "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France"
+                                                        ],
+                            "raw_orcid":  null,
+                            "affiliations":  [
+                                                 {
+                                                     "raw_affiliation_string":  "UMR G-EAU, IRSTEA Montpellier, 361 rue Jean-François Breton, BP 5095, 34196, Montpellier Cedex 5, France",
+                                                     "institution_ids":  [
+                                                                             "https://openalex.org/I4210112109"
+                                                                         ]
+                                                 }
+                                             ]
+                        }
+                    ],
+    "institutions":  [
+
+                     ],
+    "countries_distinct_count":  1,
+    "institutions_distinct_count":  3,
+    "corresponding_author_ids":  [
+                                     "https://openalex.org/A5059300406"
+                                 ],
+    "corresponding_institution_ids":  [
+                                          "https://openalex.org/I4210112109"
+                                      ],
+    "apc_list":  {
+                     "value":  3990,
+                     "currency":  "USD",
+                     "value_usd":  3990
+                 },
+    "apc_paid":  null,
+    "fwci":  7.3015,
+    "has_fulltext":  false,
+    "cited_by_count":  86,
+    "citation_normalized_percentile":  {
+                                           "value":  0.96479879,
+                                           "is_in_top_1_percent":  false,
+                                           "is_in_top_10_percent":  true
+                                       },
+    "cited_by_percentile_year":  {
+                                     "min":  97,
+                                     "max":  100
+                                 },
+    "biblio":  {
+                   "volume":  "34",
+                   "issue":  "4",
+                   "first_page":  "327",
+                   "last_page":  "342"
+               },
+    "is_retracted":  false,
+    "is_paratext":  false,
+    "is_xpac":  false,
+    "primary_topic":  {
+                          "id":  "https://openalex.org/T11404",
+                          "display_name":  "Irrigation Practices and Water Management",
+                          "score":  0.7813000082969666,
+                          "subfield":  {
+                                           "id":  "https://openalex.org/subfields/1111",
+                                           "display_name":  "Soil Science"
+                                       },
+                          "field":  {
+                                        "id":  "https://openalex.org/fields/11",
+                                        "display_name":  "Agricultural and Biological Sciences"
+                                    },
+                          "domain":  {
+                                         "id":  "https://openalex.org/domains/1",
+                                         "display_name":  "Life Sciences"
+                                     }
+                      },
+    "topics":  [
+                   {
+                       "id":  "https://openalex.org/T11404",
+                       "display_name":  "Irrigation Practices and Water Management",
+                       "score":  0.7813000082969666,
+                       "subfield":  {
+                                        "id":  "https://openalex.org/subfields/1111",
+                                        "display_name":  "Soil Science"
+                                    },
+                       "field":  {
+                                     "id":  "https://openalex.org/fields/11",
+                                     "display_name":  "Agricultural and Biological Sciences"
+                                 },
+                       "domain":  {
+                                      "id":  "https://openalex.org/domains/1",
+                                      "display_name":  "Life Sciences"
+                                  }
+                   },
+                   {
+                       "id":  "https://openalex.org/T12710",
+                       "display_name":  "Engineering and Agricultural Innovations",
+                       "score":  0.20020000636577606,
+                       "subfield":  {
+                                        "id":  "https://openalex.org/subfields/1104",
+                                        "display_name":  "Aquatic Science"
+                                    },
+                       "field":  {
+                                     "id":  "https://openalex.org/fields/11",
+                                     "display_name":  "Agricultural and Biological Sciences"
+                                 },
+                       "domain":  {
+                                      "id":  "https://openalex.org/domains/1",
+                                      "display_name":  "Life Sciences"
+                                  }
+                   },
+                   {
+                       "id":  "https://openalex.org/T11781",
+                       "display_name":  "Wastewater Treatment and Reuse",
+                       "score":  0.0017000000225380063,
+                       "subfield":  {
+                                        "id":  "https://openalex.org/subfields/2311",
+                                        "display_name":  "Waste Management and Disposal"
+                                    },
+                       "field":  {
+                                     "id":  "https://openalex.org/fields/23",
+                                     "display_name":  "Environmental Science"
+                                 },
+                       "domain":  {
+                                      "id":  "https://openalex.org/domains/3",
+                                      "display_name":  "Physical Sciences"
+                                  }
+                   }
+               ],
+    "keywords":  [
+                     {
+                         "id":  "https://openalex.org/keywords/drip-irrigation",
+                         "display_name":  "drip irrigation",
+                         "score":  0.8199999928474426
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/micro-irrigation",
+                         "display_name":  "micro-irrigation",
+                         "score":  0.8429999947547913
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/biological-clogging",
+                         "display_name":  "biological clogging",
+                         "score":  0.9739999771118164
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/smectite",
+                         "display_name":  "smectite",
+                         "score":  0.8169999718666077
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/salt-concentration",
+                         "display_name":  "salt concentration",
+                         "score":  0.6489999890327454
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/particle-agglomeration",
+                         "display_name":  "particle agglomeration",
+                         "score":  0.8550000190734863
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/clay-particles",
+                         "display_name":  "clay particles",
+                         "score":  0.4020000100135803
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/filter-clogging",
+                         "display_name":  "filter clogging",
+                         "score":  0.5529999732971191
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/computational-fluid-dynamics",
+                         "display_name":  "computational fluid dynamics",
+                         "score":  0.718999981880188
+                     },
+                     {
+                         "id":  "https://openalex.org/keywords/irrigation-water-quality",
+                         "display_name":  "irrigation water quality",
+                         "score":  0.5699999928474426
+                     }
+                 ],
+    "concepts":  [
+                     {
+                         "id":  "https://openalex.org/C2778152828",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q488656",
+                         "display_name":  "Clogging",
+                         "level":  2,
+                         "score":  0.9945095777511597
+                     },
+                     {
+                         "id":  "https://openalex.org/C152453397",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q746694",
+                         "display_name":  "Drip irrigation",
+                         "level":  3,
+                         "score":  0.6129347681999207
+                     },
+                     {
+                         "id":  "https://openalex.org/C87717796",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q146326",
+                         "display_name":  "Environmental engineering",
+                         "level":  1,
+                         "score":  0.5167586207389832
+                     },
+                     {
+                         "id":  "https://openalex.org/C39432304",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q188847",
+                         "display_name":  "Environmental science",
+                         "level":  0,
+                         "score":  0.5053074955940247
+                     },
+                     {
+                         "id":  "https://openalex.org/C2779429093",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q1145804",
+                         "display_name":  "Illite",
+                         "level":  3,
+                         "score":  0.5038201212882996
+                     },
+                     {
+                         "id":  "https://openalex.org/C88862950",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q11453",
+                         "display_name":  "Irrigation",
+                         "level":  2,
+                         "score":  0.4750749468803406
+                     },
+                     {
+                         "id":  "https://openalex.org/C75622301",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q208791",
+                         "display_name":  "Aquifer",
+                         "level":  3,
+                         "score":  0.4462616443634033
+                     },
+                     {
+                         "id":  "https://openalex.org/C136325355",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q6692750",
+                         "display_name":  "Low-flow irrigation systems",
+                         "level":  4,
+                         "score":  0.4439806044101715
+                     },
+                     {
+                         "id":  "https://openalex.org/C2988574769",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q2259545",
+                         "display_name":  "Water flow",
+                         "level":  2,
+                         "score":  0.42508330941200256
+                     },
+                     {
+                         "id":  "https://openalex.org/C19570952",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q905309",
+                         "display_name":  "Suspended solids",
+                         "level":  3,
+                         "score":  0.42498287558555603
+                     },
+                     {
+                         "id":  "https://openalex.org/C76886044",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q2883300",
+                         "display_name":  "Hydrology (agriculture)",
+                         "level":  2,
+                         "score":  0.4133642911911011
+                     },
+                     {
+                         "id":  "https://openalex.org/C187320778",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q1349130",
+                         "display_name":  "Geotechnical engineering",
+                         "level":  1,
+                         "score":  0.40570923686027527
+                     },
+                     {
+                         "id":  "https://openalex.org/C159390177",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q9161265",
+                         "display_name":  "Soil science",
+                         "level":  1,
+                         "score":  0.3679163157939911
+                     },
+                     {
+                         "id":  "https://openalex.org/C127313418",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q1069",
+                         "display_name":  "Geology",
+                         "level":  0,
+                         "score":  0.33798855543136597
+                     },
+                     {
+                         "id":  "https://openalex.org/C199289684",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q83353",
+                         "display_name":  "Mineralogy",
+                         "level":  1,
+                         "score":  0.24231821298599243
+                     },
+                     {
+                         "id":  "https://openalex.org/C40212044",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q1799034",
+                         "display_name":  "Clay minerals",
+                         "level":  2,
+                         "score":  0.23568668961524963
+                     },
+                     {
+                         "id":  "https://openalex.org/C76177295",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q161598",
+                         "display_name":  "Groundwater",
+                         "level":  2,
+                         "score":  0.15476518869400024
+                     },
+                     {
+                         "id":  "https://openalex.org/C94061648",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q336191",
+                         "display_name":  "Wastewater",
+                         "level":  2,
+                         "score":  0.11946529150009155
+                     },
+                     {
+                         "id":  "https://openalex.org/C6557445",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q173113",
+                         "display_name":  "Agronomy",
+                         "level":  1,
+                         "score":  0.08787322044372559
+                     },
+                     {
+                         "id":  "https://openalex.org/C166957645",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q23498",
+                         "display_name":  "Archaeology",
+                         "level":  1,
+                         "score":  0.0
+                     },
+                     {
+                         "id":  "https://openalex.org/C86803240",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q420",
+                         "display_name":  "Biology",
+                         "level":  0,
+                         "score":  0.0
+                     },
+                     {
+                         "id":  "https://openalex.org/C95457728",
+                         "wikidata":  "https://www.wikidata.org/wiki/Q309",
+                         "display_name":  "History",
+                         "level":  0,
+                         "score":  0.0
+                     }
+                 ],
+    "mesh":  [
+
+             ],
+    "locations_count":  3,
+    "locations":  [
+                      {
+                          "id":  "doi:10.1007/s00271-016-0506-8",
+                          "doi":  "https://doi.org/10.1007/s00271-016-0506-8",
+                          "is_oa":  false,
+                          "landing_page_url":  "https://doi.org/10.1007/s00271-016-0506-8",
+                          "pdf_url":  null,
+                          "source":  {
+                                         "id":  "https://openalex.org/S84263908",
+                                         "display_name":  "Irrigation Science",
+                                         "issn_l":  "0342-7188",
+                                         "issn":  [
+                                                      "0342-7188",
+                                                      "1432-1319"
+                                                  ],
+                                         "is_oa":  false,
+                                         "is_in_doaj":  false,
+                                         "is_core":  true,
+                                         "listed_in":  [
+                                                           "cwts-core",
+                                                           "dongbi-b",
+                                                           "jufo-1",
+                                                           "norway-1",
+                                                           "poland-100",
+                                                           "russia-white-list-1",
+                                                           "vabb-shw"
+                                                       ],
+                                         "host_organization":  "https://openalex.org/P4310319900",
+                                         "host_organization_name":  "Springer Science+Business Media",
+                                         "host_organization_lineage":  [
+                                                                           "https://openalex.org/P4310319900",
+                                                                           "https://openalex.org/P4310319965"
+                                                                       ],
+                                         "host_organization_lineage_names":  [
+                                                                                 "Springer Science+Business Media",
+                                                                                 "Springer Nature"
+                                                                             ],
+                                         "type":  "journal"
+                                     },
+                          "license":  null,
+                          "license_id":  null,
+                          "version":  "publishedVersion",
+                          "is_accepted":  true,
+                          "is_published":  true,
+                          "raw_source_name":  "Irrigation Science",
+                          "raw_type":  "journal-article"
+                      },
+                      {
+                          "id":  "pmh:oai:HAL:hal-01519534v1",
+                          "doi":  null,
+                          "is_oa":  false,
+                          "landing_page_url":  "https://amu.hal.science/hal-01519534",
+                          "pdf_url":  null,
+                          "source":  {
+                                         "id":  "https://openalex.org/S4306402512",
+                                         "display_name":  "HAL",
+                                         "issn_l":  null,
+                                         "issn":  null,
+                                         "is_oa":  false,
+                                         "is_in_doaj":  false,
+                                         "is_core":  false,
+                                         "listed_in":  [
+
+                                                       ],
+                                         "host_organization":  "https://openalex.org/I4405252976",
+                                         "host_organization_name":  "Centre pour la Communication Scientifique Directe",
+                                         "host_organization_lineage":  [
+                                                                           "https://openalex.org/I4405252976"
+                                                                       ],
+                                         "host_organization_lineage_names":  [
+
+                                                                             ],
+                                         "type":  "repository"
+                                     },
+                          "license":  null,
+                          "license_id":  null,
+                          "version":  "submittedVersion",
+                          "is_accepted":  false,
+                          "is_published":  false,
+                          "raw_source_name":  "Irrigation Science, 2016, 34 (4), pp.327-342. \u0026#x27E8;10.1007/s00271-016-0506-8\u0026#x27E9;",
+                          "raw_type":  "info:eu-repo/semantics/article"
+                      },
+                      {
+                          "id":  "pmh:oai:irsteadoc.irstea.fr:PUB00051296",
+                          "doi":  null,
+                          "is_oa":  false,
+                          "landing_page_url":  "https://irsteadoc.irstea.fr/cemoa/PUB00051296",
+                          "pdf_url":  null,
+                          "source":  {
+                                         "id":  "https://openalex.org/S7407064358",
+                                         "display_name":  "Cemadoc (Cemagref / IRSTEA)",
+                                         "issn_l":  null,
+                                         "issn":  null,
+                                         "is_oa":  false,
+                                         "is_in_doaj":  false,
+                                         "is_core":  false,
+                                         "listed_in":  [
+
+                                                       ],
+                                         "host_organization":  null,
+                                         "host_organization_name":  null,
+                                         "host_organization_lineage":  [
+
+                                                                       ],
+                                         "host_organization_lineage_names":  [
+
+                                                                             ],
+                                         "type":  "repository"
+                                     },
+                          "license":  null,
+                          "license_id":  null,
+                          "version":  "submittedVersion",
+                          "is_accepted":  false,
+                          "is_published":  false,
+                          "raw_source_name":  "45858",
+                          "raw_type":  "Article de revue scientifique à comité de lecture"
+                      }
+                  ],
+    "best_oa_location":  null,
+    "sustainable_development_goals":  [
+                                          {
+                                              "score":  0.7778000235557556,
+                                              "display_name":  "Clean water and sanitation",
+                                              "id":  "https://metadata.un.org/sdg/6"
+                                          }
+                                      ],
+    "sustainable_development_goals_aurora":  [
+                                                 {
+                                                     "score":  0.7599999904632568,
+                                                     "display_name":  "Clean water and sanitation",
+                                                     "id":  "https://metadata.un.org/sdg/6"
+                                                 }
+                                             ],
+    "study_designs":  [
+
+                      ],
+    "awards":  [
+
+               ],
+    "funders":  [
+
+                ],
+    "has_content":  {
+                        "grobid_xml":  false,
+                        "pdf":  false
+                    },
+    "content_urls":  null,
+    "referenced_works_count":  28,
+    "referenced_works":  [
+                             "https://openalex.org/W129593661",
+                             "https://openalex.org/W1968159154",
+                             "https://openalex.org/W1968323185",
+                             "https://openalex.org/W1972960279",
+                             "https://openalex.org/W1976883756",
+                             "https://openalex.org/W1982377272",
+                             "https://openalex.org/W1989168456",
+                             "https://openalex.org/W1994771361",
+                             "https://openalex.org/W1996229541",
+                             "https://openalex.org/W1998421985",
+                             "https://openalex.org/W2005705329",
+                             "https://openalex.org/W2020528413",
+                             "https://openalex.org/W2030213360",
+                             "https://openalex.org/W2030699355",
+                             "https://openalex.org/W2031333432",
+                             "https://openalex.org/W2035800128",
+                             "https://openalex.org/W2041128342",
+                             "https://openalex.org/W2047376716",
+                             "https://openalex.org/W2061007055",
+                             "https://openalex.org/W2062755566",
+                             "https://openalex.org/W2074494896",
+                             "https://openalex.org/W2077076969",
+                             "https://openalex.org/W2084565045",
+                             "https://openalex.org/W2087399361",
+                             "https://openalex.org/W2106876537",
+                             "https://openalex.org/W2118747153",
+                             "https://openalex.org/W2143251065",
+                             "https://openalex.org/W2168308682"
+                         ],
+    "related_works":  [
+                          "https://openalex.org/W2386986207",
+                          "https://openalex.org/W2041233255",
+                          "https://openalex.org/W3094271353",
+                          "https://openalex.org/W2373976587",
+                          "https://openalex.org/W2133673852",
+                          "https://openalex.org/W2353016436",
+                          "https://openalex.org/W4387856060",
+                          "https://openalex.org/W1925876024",
+                          "https://openalex.org/W175111433",
+                          "https://openalex.org/W2388976745"
+                      ],
+    "abstract_inverted_index":  null,
+    "counts_by_year":  [
+                           {
+                               "year":  2026,
+                               "cited_by_count":  3
+                           },
+                           {
+                               "year":  2025,
+                               "cited_by_count":  15
+                           },
+                           {
+                               "year":  2024,
+                               "cited_by_count":  6
+                           },
+                           {
+                               "year":  2023,
+                               "cited_by_count":  6
+                           },
+                           {
+                               "year":  2022,
+                               "cited_by_count":  20
+                           },
+                           {
+                               "year":  2021,
+                               "cited_by_count":  5
+                           },
+                           {
+                               "year":  2020,
+                               "cited_by_count":  12
+                           },
+                           {
+                               "year":  2019,
+                               "cited_by_count":  7
+                           },
+                           {
+                               "year":  2018,
+                               "cited_by_count":  7
+                           },
+                           {
+                               "year":  2017,
+                               "cited_by_count":  5
+                           }
+                       ],
+    "updated_date":  "2026-10-25T09:29:13.331239",
+    "created_date":  "2025-10-10T00:00:00"
+}

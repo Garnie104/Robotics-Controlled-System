@@ -1,0 +1,546 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           9,
+                                                           29
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-09-29T17:46:31Z",
+                                    "timestamp":  1790703991034,
+                                    "version":  "4.1.0"
+                                },
+                    "reference-count":  35,
+                    "publisher":  "Elsevier BV",
+                    "issue":  "5",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2017,
+                                                                             5,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2017-05-01T00:00:00Z",
+                                                      "timestamp":  1493596800000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://www.elsevier.com/tdm/userlicense/1.0/"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2020,
+                                                                             1,
+                                                                             8
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2020-01-08T00:00:00Z",
+                                                      "timestamp":  1578441600000
+                                                  },
+                                        "content-version":  "vor",
+                                        "delay-in-days":  982,
+                                        "URL":  "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                                    }
+                                ],
+                    "content-domain":  {
+                                           "domain":  [
+                                                          "elsevier.com",
+                                                          "sciencedirect.com"
+                                                      ],
+                                           "crossmark-restriction":  true
+                                       },
+                    "short-container-title":  [
+                                                  "Journal of Integrative Agriculture"
+                                              ],
+                    "published-print":  {
+                                            "date-parts":  [
+                                                               [
+                                                                   2017,
+                                                                   5
+                                                               ]
+                                                           ]
+                                        },
+                    "DOI":  "10.1016/s2095-3119(16)61500-9",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2017,
+                                                           5,
+                                                           9
+                                                       ]
+                                                   ],
+                                    "date-time":  "2017-05-09T22:15:42Z",
+                                    "timestamp":  1494368142000
+                                },
+                    "page":  "1184-1194",
+                    "update-policy":  "https://doi.org/10.1016/elsevier_cm_policy",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  31,
+                    "title":  [
+                                  "Water and nutrient management effects on water use and yield of drip irrigated citrus in vertisol under a sub-humid region"
+                              ],
+                    "prefix":  "10.1016",
+                    "volume":  "16",
+                    "author":  [
+                                   {
+                                       "given":  "P",
+                                       "family":  "Panigrahi",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "A K",
+                                       "family":  "Srivastava",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "78",
+                    "reference":  [
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib1",
+                                          "series-title":  "Manual on Irrigation Agronomy",
+                                          "author":  "Ahmed",
+                                          "year":  "1987"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib2",
+                                          "series-title":  "Crop Evapotranspiration. Guidelines for Computing Crop Water Requirements. FAO Irrigation and Drainage Paper 56",
+                                          "author":  "Allen",
+                                          "year":  "1998"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib3",
+                                          "first-page":  "190",
+                                          "article-title":  "Studies on fertigation and soil application methods along with mulching on yield and quality of Assam lemon (Citrus limon L. Burmf.)",
+                                          "volume":  "71",
+                                          "author":  "Barua",
+                                          "year":  "2014",
+                                          "journal-title":  "Indian Journal of Horticulture"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib4",
+                                          "series-title":  "Vision 2050",
+                                          "first-page":  "40",
+                                          "author":  "CCRI (Central Citrus Research Institute)",
+                                          "year":  "2015"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib5",
+                                          "first-page":  "18",
+                                          "article-title":  "Drip irrigation in lemon orchards",
+                                          "volume":  "21",
+                                          "author":  "Cohen",
+                                          "year":  "2001",
+                                          "journal-title":  "International Water and Irrigation"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib6",
+                                          "series-title":  "Citrus",
+                                          "author":  "Davies",
+                                          "year":  "1994"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib7",
+                                          "first-page":  "154",
+                                          "article-title":  "Yield, fruit quality and nutritional status of Valencia orange under fertigation and conventional fertilization",
+                                          "volume":  "25",
+                                          "author":  "Duenhas",
+                                          "year":  "2005",
+                                          "journal-title":  "Journal of Brazilian Association of Agricultural Engineering"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib8",
+                                          "unstructured":  "Germanà C, Intrigliolo F, Coniglione L. 1994. Experiences with drip irrigation in orange trees. In: Proceedings of the International Society of Citriculture. 31 July–4 August 1992. pp. 661–664."
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib9",
+                                          "series-title":  "Citrus Fruits",
+                                          "first-page":  "93",
+                                          "author":  "Ghosh",
+                                          "year":  "2007"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib10",
+                                          "series-title":  "Statistical Procedures for Agricultural Research",
+                                          "author":  "Gomez",
+                                          "year":  "1984"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib11",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "102",
+                                          "DOI":  "10.1016/j.agwat.2006.06.013",
+                                          "article-title":  "Evaluation of urea-ammonium-nitrate fertigation with drip irrigation using numerical modelling",
+                                          "volume":  "86",
+                                          "author":  "Hanson",
+                                          "year":  "2006",
+                                          "journal-title":  "Agricultural Water Management"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib12",
+                                          "first-page":  "51",
+                                          "article-title":  "The effect of water and fertigation on canopy growth and yield on ‘thompson Navel’ Oranges",
+                                          "volume":  "61",
+                                          "author":  "Holzapfel",
+                                          "year":  "2001",
+                                          "journal-title":  "Chilean Journal of Agricultural Research"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib13",
+                                          "unstructured":  "Huchche A D, Srivastava A K, Ram L, Singh S. 1999. Nagpur mandarin orchard efficiency in central India. Hi-tech citrus management. In: Proceedings of International Symposium on citriculture held at National Research centre for Citrus. Nagpur, Maharastra, India. pp 24–28."
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib14",
+                                          "first-page":  "8",
+                                          "article-title":  "Effect of trickle irrigation and fertigation on fruit production and fruit quality of Valencia Orange",
+                                          "volume":  "97",
+                                          "author":  "Koo",
+                                          "year":  "1984",
+                                          "journal-title":  "Proceedings of Florida State Horticultural Society"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib15",
+                                          "first-page":  "709",
+                                          "article-title":  "Evaluation of water regime and fertigation on growth, yield and economics of sweet orange (Citrus sinensis Osbeck) cv. Mosambi.",
+                                          "volume":  "8",
+                                          "author":  "Kumar",
+                                          "year":  "2013",
+                                          "journal-title":  "The Asian Journal of Horticulture"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib16",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "659",
+                                          "DOI":  "10.1080/00380768.2012.733678",
+                                          "article-title":  "Impact of fertilizer-water management on nitrogen use efficiency and potential nitrate leaching in citrus trees",
+                                          "volume":  "58",
+                                          "author":  "Martínez-Alcántara",
+                                          "year":  "2012",
+                                          "journal-title":  "Soil Science and Plant Nutrition"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib17",
+                                          "series-title":  "Horticulture Data Base",
+                                          "author":  "NHB (National Horticultural Board)",
+                                          "year":  "2014"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib18",
+                                          "first-page":  "12",
+                                          "article-title":  "Young Hamlin orange tree fertilizer response in South-west Florida",
+                                          "volume":  "103",
+                                          "author":  "Obreza",
+                                          "year":  "1991",
+                                          "journal-title":  "Proceedings of Florida State Horticultural Society"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib19",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "67",
+                                          "DOI":  "10.21273/HORTTECH.20.1.67",
+                                          "article-title":  "Keeping water and nutrients in the Florida citrus tree",
+                                          "volume":  "20",
+                                          "author":  "Obreza",
+                                          "year":  "2010",
+                                          "journal-title":  "Horttechnology"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib20",
+                                          "first-page":  "37",
+                                          "article-title":  "Influence of in-situ soil and water conservation measures on performance of Nagpur mandarin",
+                                          "volume":  "46",
+                                          "author":  "Panigrahi",
+                                          "year":  "2009",
+                                          "journal-title":  "Journal of Agricultural Engineering"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib21",
+                                          "series-title":  "Proceedings of the 5th International Micro-irrigation Congress on Micro-irrigation for a Changing World: Conserving Resource Preserving the Environment. Orland, Florida",
+                                          "first-page":  "61",
+                                          "article-title":  "Research trends in micro-irrigation",
+                                          "author":  "Phene",
+                                          "year":  "1995"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib22",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "103",
+                                          "DOI":  "10.1016/j.agee.2016.01.052",
+                                          "article-title":  "Water and nitrogen use efficiencies in citrus production: A meta-analysis",
+                                          "volume":  "222",
+                                          "author":  "Qin",
+                                          "year":  "2016",
+                                          "journal-title":  "Agriculture, Ecosystems and Environment"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib23",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "31",
+                                          "DOI":  "10.1016/j.agee.2016.02.025",
+                                          "article-title":  "Exploring optimal fertigation strategies for orange production, using soil-crop modelling",
+                                          "volume":  "223",
+                                          "author":  "Qin",
+                                          "year":  "2016",
+                                          "journal-title":  "Agriculture, Ecosystems and Environment"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib24",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "367",
+                                          "DOI":  "10.1007/s11104-004-0337-x",
+                                          "article-title":  "Recovery of the 15N-Labelled fertiliser in citrus trees in relation with timing of application and irrigation system",
+                                          "volume":  "268",
+                                          "author":  "Quiñones",
+                                          "year":  "2005",
+                                          "journal-title":  "Plant and Soil"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib25",
+                                          "series-title":  "Handbook of Analysis and Quality Control for Fruit and Vegetable Products",
+                                          "first-page":  "860",
+                                          "author":  "Ranganna",
+                                          "year":  "2001"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib26",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "215",
+                                          "DOI":  "10.1007/s11099-009-0035-2",
+                                          "article-title":  "Photosynthesis and water relations of well-watered orange plants as affected by winter and summer conditions",
+                                          "volume":  "47",
+                                          "author":  "Ribeiro",
+                                          "year":  "2009",
+                                          "journal-title":  "Phtosynthetica"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib27",
+                                          "first-page":  "109",
+                                          "article-title":  "Growth of ‘Verna’ lemons under different irrigation regimes",
+                                          "volume":  "3",
+                                          "author":  "Sáchez Blanco",
+                                          "year":  "1989",
+                                          "journal-title":  "Advances in Horticultural Sciences"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib28",
+                                          "series-title":  "Water Management in Citrus. Technical Bulletin",
+                                          "first-page":  "156",
+                                          "author":  "Shirgure",
+                                          "year":  "2004"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib29",
+                                          "series-title":  "Micro-irrigation",
+                                          "first-page":  "794",
+                                          "article-title":  "Studies on performance of drip irrigated kinnow orchard in south-west punjab — A case study",
+                                          "author":  "Singh",
+                                          "year":  "2001"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib30",
+                                          "series-title":  "Advances in Citriculture",
+                                          "first-page":  "8",
+                                          "article-title":  "Citrus industry of India and overseas",
+                                          "author":  "Singh",
+                                          "year":  "2004"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib31",
+                                          "series-title":  "Nutrients Management in Nagpur Mandarin and Acid Lime. Extension Bulletin No. 5",
+                                          "author":  "Srivastava",
+                                          "year":  "1997"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib32",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1091",
+                                          "DOI":  "10.1080/01904160802115359",
+                                          "article-title":  "DRIS norms and their field validation in Nagpur mandarin",
+                                          "volume":  "31",
+                                          "author":  "Srivastava",
+                                          "year":  "2008",
+                                          "journal-title":  "Journal of Plant Nutrition"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib33",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "375",
+                                          "DOI":  "10.1104/pp.88.2.375",
+                                          "article-title":  "Water deficit and associated changes in some photosynthetic parameters in leaves of ‘Valencia’ orange (Citrus sinensis L. Osbeck)",
+                                          "volume":  "88",
+                                          "author":  "Vu",
+                                          "year":  "1988",
+                                          "journal-title":  "Plant Physiology"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib34",
+                                          "first-page":  "513",
+                                          "article-title":  "Response of Balady mandarin trees to drip irrigation and nitrogen fertigation II — Effect of nitrogen fertigation and drip irrigation on fruit setting, number and quality of fruits of Balady mandarin trees (Citrus reticulata)",
+                                          "volume":  "8",
+                                          "author":  "Wassel",
+                                          "year":  "2007",
+                                          "journal-title":  "African Crop Science Conference Proceedings"
+                                      },
+                                      {
+                                          "key":  "10.1016/S2095-3119(16)61500-9_bib35",
+                                          "first-page":  "817",
+                                          "article-title":  "Design and management of a drip irrigation system for an optimum potato yield",
+                                          "volume":  "18",
+                                          "author":  "Yavuz",
+                                          "year":  "2016",
+                                          "journal-title":  "Journal of Agricultural Science and Technology"
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "Journal of Integrative Agriculture"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S2095311916615009?httpAccept=text/xml",
+                                     "content-type":  "text/xml",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S2095311916615009?httpAccept=text/plain",
+                                     "content-type":  "text/plain",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2020,
+                                                             1,
+                                                             8
+                                                         ]
+                                                     ],
+                                      "date-time":  "2020-01-08T12:00:02Z",
+                                      "timestamp":  1578484802000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "https://linkinghub.elsevier.com/retrieve/pii/S2095311916615009"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2017,
+                                                          5
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  35,
+                    "journal-issue":  {
+                                          "issue":  "5",
+                                          "published-print":  {
+                                                                  "date-parts":  [
+                                                                                     [
+                                                                                         2017,
+                                                                                         5
+                                                                                     ]
+                                                                                 ]
+                                                              }
+                                      },
+                    "alternative-id":  [
+                                           "S2095311916615009"
+                                       ],
+                    "URL":  "https://doi.org/10.1016/s2095-3119(16)61500-9",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "2095-3119"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "2095-3119",
+                                          "type":  "print"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2017,
+                                                             5
+                                                         ]
+                                                     ]
+                                  },
+                    "assertion":  [
+                                      {
+                                          "value":  "Elsevier",
+                                          "name":  "publisher",
+                                          "label":  "This article is maintained by"
+                                      },
+                                      {
+                                          "value":  "Water and nutrient management effects on water use and yield of drip irrigated citrus in vertisol under a sub-humid region",
+                                          "name":  "articletitle",
+                                          "label":  "Article Title"
+                                      },
+                                      {
+                                          "value":  "Journal of Integrative Agriculture",
+                                          "name":  "journaltitle",
+                                          "label":  "Journal Title"
+                                      },
+                                      {
+                                          "value":  "https://doi.org/10.1016/S2095-3119(16)61500-9",
+                                          "name":  "articlelink",
+                                          "label":  "CrossRef DOI link to publisher maintained version"
+                                      },
+                                      {
+                                          "value":  "article",
+                                          "name":  "content_type",
+                                          "label":  "Content Type"
+                                      },
+                                      {
+                                          "value":  "Copyright © 2017 CAAS. Publishing services by Elsevier B.V. Published by Elsevier B.V. All rights reserved.",
+                                          "name":  "copyright",
+                                          "label":  "Copyright"
+                                      }
+                                  ]
+                }
+}

@@ -1,0 +1,480 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        10
+      ]
+    ],
+    "date-time": "2026-11-10T18:02:50Z",
+    "timestamp": 1794333770829,
+    "version": "4.9.0"
+  },
+  "reference-count": 45,
+  "publisher": "MDPI AG",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            7
+          ]
+        ],
+        "date-time": "2023-07-07T00:00:00Z",
+        "timestamp": 1688688000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IoT"
+  ],
+  "abstract": "<jats:p>Agriculture, or farming, is the science of cultivating the soil, growing crops, and raising livestock. Ever since the days of the first plow from sticks over ten thousand years ago, agriculture has always depended on technology. As technology and science improved, so did the scale at which farming was possible. With the popularity and growth of the Internet of Things (IoT) in recent years, there are even more avenues for technology to make agriculture more efficient and help farmers in every nation. In this paper, we designed a smart IoT-enabled drip irrigation system using ESP32 to automate the irrigation process, and we tested it. The ESP32 communicates with the Blynk app, which is used to collect irrigation data, manually water the plants, switch off the automatic watering function, and plot graphs based on the readings of the sensors. We connected the ESP32 to a soil moisture sensor, temperature sensor, air humidity sensor, and water flow sensor. The ESP32 regularly checks if the soil is dry. If the soil is dry and the soil temperature is appropriate for watering, the ESP32 opens a solenoid valve and waters the plants. The amount of time to run the drip irrigation system is determined based on the flow rate measured by the water flow sensor. The ESP32 reads the humidity sensor values and notifies the user when the humidity is too high or too low. The user can switch off the automatic watering system according to the humidity value. In both primary and field tests, we found that the system ran well and was able to grow green onions.</jats:p>",
+  "DOI": "10.3390/iot4030012",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        10
+      ]
+    ],
+    "date-time": "2023-07-10T01:02:50Z",
+    "timestamp": 1688950970000
+  },
+  "page": "221-243",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 78,
+  "title": [
+    "IoT-Enabled Smart Drip Irrigation System Using ESP32"
+  ],
+  "prefix": "10.3390",
+  "volume": "4",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-2271-6379",
+      "authenticated-orcid": false,
+      "given": "Gilroy P.",
+      "family": "Pereira",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8770-9420",
+      "authenticated-orcid": false,
+      "given": "Mohamed Z.",
+      "family": "Chaari",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fawwad",
+      "family": "Daroge",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        7
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "(2022, December 12). Agriculture Overview: Development News, Research, Data | World Bank. Available online: https://www.worldbank.org/en/topic/agriculture/overview#1."
+    },
+    {
+      "key": "ref_2",
+      "unstructured": "Woods, M., and Woods, M.B. (2011). Ancient Agricultural Technology: From Sickles to Plows, Twenty-First Century Books."
+    },
+    {
+      "key": "ref_3",
+      "unstructured": "Bellis, M. (2022, December 13). Farm Machinery and Technology Changes from 1776 to 1990. Available online: https://www.thoughtco.com/american-farm-tech-development-4083328."
+    },
+    {
+      "key": "ref_4",
+      "unstructured": "(2022, December 13). Types of Agricultural Water Use | Other Uses of Water | Healthy Water | CDC, Available online: https://www.cdc.gov/healthywater/other/agricultural/types.html."
+    },
+    {
+      "key": "ref_5",
+      "first-page": "67",
+      "article-title": "Drip Irrigation System for Sustainable Agriculture",
+      "volume": "2",
+      "author": "Ranjan",
+      "year": "2020",
+      "journal-title": "Agric. Food"
+    },
+    {
+      "key": "ref_6",
+      "first-page": "27",
+      "article-title": "Performance and evaluation of drip irrigation system, and its future advantages",
+      "volume": "4",
+      "author": "Mangi",
+      "year": "2020",
+      "journal-title": "Sch. Rep."
+    },
+    {
+      "key": "ref_7",
+      "unstructured": "Sathyapriya, E., Naveenkumar, M.R., and Dhivya, V. (2017, January 1–3). An Empirical Study on Drip Irrigation. Proceedings of the National Conference on Micro Irrigation, TNAU, Coimbatore, India."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Verdouw, C., Wolfert, S., and Tekinerdogan, B. (2016). CABI Reviews, CABI International.",
+      "DOI": "10.1079/PAVSNNR201611035"
+    },
+    {
+      "key": "ref_9",
+      "first-page": "883",
+      "article-title": "Role of IOT in Introducing Smart Agriculture",
+      "volume": "9",
+      "author": "Verma",
+      "year": "2022",
+      "journal-title": "Int. Res. J. Eng. Tech."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ghosh, S., Sayyed, S., Wani, K., Mhatre, M., and Hingoliwala, H.A. (2016, January 2–3). Smart irrigation: A smart drip irrigation system using cloud, android and data mining. Proceedings of the 2016 IEEE International Conference on Advances in Electronics, Communication and Computer Technology (ICAECCT), Rajarshi Shahu College of Engineering, Pune, India.",
+      "DOI": "10.1109/ICAECCT.2016.7942589"
+    },
+    {
+      "key": "ref_11",
+      "first-page": "1846",
+      "article-title": "Smart Drip Irrigation System for Corparate Farming-Using Internet of Things",
+      "volume": "5",
+      "author": "Swetha",
+      "year": "2017",
+      "journal-title": "Int. J. Creat. Res. Thoughts"
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "100124",
+      "DOI": "10.1016/j.nexus.2022.100124",
+      "article-title": "An overview of smart irrigation systems using IoT",
+      "volume": "7",
+      "author": "Obaideen",
+      "year": "2022",
+      "journal-title": "Energy Nexus"
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gamal, Y., Soltan, A., Said, L.A., Madian, A.H., and Radwan, A.G. (2023). Smart Irrigation Systems: Overview. IEEE Access, 4.",
+      "DOI": "10.1109/ACCESS.2023.3251655"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, Q. (2022). Encyclopedia of Smart Agriculture Technologies, Springer.",
+      "DOI": "10.1007/978-3-030-89123-7"
+    },
+    {
+      "key": "ref_15",
+      "first-page": "566",
+      "article-title": "IoT-Enabled Smart Agriculture: Security Issues and Applications",
+      "volume": "Volume 635",
+      "author": "Farhaoui",
+      "year": "2023",
+      "journal-title": "Artificial Intelligence and Smart Environment. ICAISE 2022. Lecture Notes in Networks and Systems"
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "El Mezouari, A., El Fazziki, A., and Sadgal, M. (2022, January 22–24). Smart Irrigation System. Proceedings of the 10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022, Nantes, France.",
+      "DOI": "10.1016/j.ifacol.2022.10.125"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Azrour, M., Irshad, A., and Chaganti, R. (2022). IoT and Smart Devices for Sustainable Environment. EAI/Springer Innovations in Communication and Computing, Springer.",
+      "DOI": "10.1007/978-3-030-90083-0"
+    },
+    {
+      "key": "ref_18",
+      "first-page": "462",
+      "article-title": "The smart irrigation system using IoT",
+      "volume": "8",
+      "author": "Gomathy",
+      "year": "2021",
+      "journal-title": "Int. Res. J. Eng. Tech."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.9734/ajahr/2022/v9i4202",
+      "article-title": "Simulation and Construction of a Solar Powered Smart Irrigation System Using Internet of Things (IoT), Blynk Mobile App",
+      "volume": "9",
+      "author": "Yusuf",
+      "year": "2022",
+      "journal-title": "Asian J. Agric. Hort. Res."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Saban, M., Bekkour, M., Amdaouch, I., El Gueri, J., Ait Ahmed, B., Chaari, M.Z., Ruiz-Alzola, J., Rosado-Muñoz, A., and Aghzout, O.A. (2023). Smart Agricultural System Based on PLC and a Cloud Computing Web Application Using LoRa and LoRaWan. Sensors, 23.",
+      "DOI": "10.3390/s23052725"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pereira, G.P., and Chaari, M.Z. (2022, January 10–14). Comparison of Blynk IoT and ESP Rainmaker on ESP32 as beginner-friendly IoT solutions. Proceedings of the 2022 International Conference on Internet of Things (ICIOT 2022), Honolulu, HI, USA.",
+      "DOI": "10.1007/978-3-031-23582-5_9"
+    },
+    {
+      "key": "ref_22",
+      "unstructured": "Carberry, A. (2022, December 14). How to Choose the Best Time for Watering a Garden: 7 Steps. Available online: https://www.wikihow.com/Choose-the-Best-Time-for-Watering-a-Garden."
+    },
+    {
+      "key": "ref_23",
+      "unstructured": "(2022, December 14). When to Water—Southern Living Plants. Available online: https://southernlivingplants.com/planting-care/when-to-water/."
+    },
+    {
+      "key": "ref_24",
+      "unstructured": "(2023, March 04). Hourly Forecast for Doha, Qatar. Available online: https://www.timeanddate.com/weather/qatar/doha/hourly."
+    },
+    {
+      "key": "ref_25",
+      "unstructured": "(2023, March 04). Qatar Historical Past Weather | Weather25.com. Available online: https://www.weather25.com/asia/qatar?page=past-weather#day=2&month=3."
+    },
+    {
+      "key": "ref_26",
+      "unstructured": "(2023, June 13). What Humidity Do Houseplants Need?—Be.Green. Available online: https://be.green/en/blog/what-humidity-houseplants-need."
+    },
+    {
+      "key": "ref_27",
+      "unstructured": "(2023, May 13). Doha March 2023 Historical Weather Data (Qatar)—Weather Spark. Available online: https://weatherspark.com/h/m/150272/2023/5/Historical-Weather-in-May-2023-in-Qatar#Figures-ColorTemperature."
+    },
+    {
+      "key": "ref_28",
+      "unstructured": "(2023, February 23). Waterproof Capacitive Soil Moisture Sensor SKU SEN0308-DFRobot. Available online: https://wiki.dfrobot.com/Waterproof_Capacitive_Soil_Moisture_Sensor_SKU_SEN0308."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "84",
+      "DOI": "10.35378/gujs.720778",
+      "article-title": "Construction of 3D Soil Moisture Maps in Agricultural Fields by Using Wireless Sensor Networks",
+      "volume": "34",
+      "author": "Koyuncu",
+      "year": "2021",
+      "journal-title": "Gazi Univ. J. Sci."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "012042",
+      "DOI": "10.1088/1757-899X/403/1/012042",
+      "article-title": "Water quality monitoring at paddies farming based on android",
+      "volume": "403",
+      "author": "Yudhana",
+      "year": "2018",
+      "journal-title": "IOP Conf. Ser. Mater. Sci. Eng."
+    },
+    {
+      "key": "ref_31",
+      "unstructured": "(2023, June 13). DHT22 Temperature-Humidity Sensor—Waveshare Wiki. Available online: https://www.waveshare.com/wiki/DHT22_Temperature-Humidity_Sensor."
+    },
+    {
+      "key": "ref_32",
+      "unstructured": "(2023, February 23). G3-4 Water Flow Sensor | Seeed Studio Wiki. Available online: https://wiki.seeedstudio.com/G3-4_Water_Flow_sensor/."
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.24018/ejers.2019.4.5.1317",
+      "article-title": "An Effective Water Management Framework Based on Internet of Things (IoT) Technology",
+      "volume": "4",
+      "author": "Odiagbe",
+      "year": "2019",
+      "journal-title": "Eur. J. Eng. Res. Sci."
+    },
+    {
+      "key": "ref_34",
+      "unstructured": "Mitras Trading Co. (2023, June 06). WLL | All Purpose Potting Soil. Available online: https://www.mitraswll.com/all-purpose-potting-soil-OF.html#."
+    },
+    {
+      "key": "ref_35",
+      "unstructured": "Koehler, K. (2023, June 06). How to Grow Green Onions: Your Complete Guide. Available online: https://a-z-animals.com/blog/how-to-grow-green-onions-your-complete-guide/."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nagahage, E.A.A.D., Nagahage, I.S.P., and Fujino, T. (2019). Calibration and Validation of a Low-Cost Capacitive Moisture Sensor to Integrate the Automated Soil Moisture Monitoring System. Agriculture, 9.",
+      "DOI": "10.3390/agriculture9070141"
+    },
+    {
+      "key": "ref_37",
+      "unstructured": "Muzdrikah, F.S., Nuha, M.S., and Rizqi, F.A. (2018, January 7–8). Calibration of Capacitive Soil Moisture Sensor (SKU:SEN0193). Proceedings of the 2018 4th International Conference on Science and Technology (ICST), Yogyakarta, Indonesia."
+    },
+    {
+      "key": "ref_38",
+      "unstructured": "(2023, February 23). DS18B20—Programmable Resolution 1-Wire Digital Thermometer. Available online: https://www.analog.com/media/en/technical-documentation/data-sheets/DS18B20.pdf."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "012018",
+      "DOI": "10.1088/1742-6596/1500/1/012018",
+      "article-title": "Modified Design of Water Metering System",
+      "volume": "1500",
+      "author": "Husni",
+      "year": "2020",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Maia, R.F., Netto, I., and Tran, A.L.H. (2017, January 19–22). Precision agriculture using remote monitoring systems in Brazil. Proceedings of the 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, USA.",
+      "DOI": "10.1109/GHTC.2017.8239290"
+    },
+    {
+      "key": "ref_41",
+      "unstructured": "(2023, April 06). J-Turbo Key Plus Dripper. Available online: https://www.jains.com/PDF/Catalogue/Drip/Dripper/Turbo%20Key%20Plus.pdf."
+    },
+    {
+      "key": "ref_42",
+      "unstructured": "Grumezescu, A.M. (2017). New Pesticides and Soil Sensors, Academic Press."
+    },
+    {
+      "key": "ref_43",
+      "unstructured": "(2023, June 13). Humidity, Temperature and Watering | Space for Life. Available online: https://espacepourlavie.ca/en/humidity-temperature-and-watering."
+    },
+    {
+      "key": "ref_44",
+      "unstructured": "Iannotti, M. (2023, April 25). How to Grow Shallots. Available online: https://www.thespruce.com/growing-shallots-in-the-vegetable-garden-1403464."
+    },
+    {
+      "key": "ref_45",
+      "unstructured": "Russel, K. (2023, April 25). Water Inches—The Daily Garden. Available online: https://www.thedailygarden.us/garden-word-of-the-day/water-inches."
+    }
+  ],
+  "container-title": [
+    "IoT"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2624-831X/4/3/12/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ],
+    "date-time": "2025-10-10T20:08:15Z",
+    "timestamp": 1760126895000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2624-831X/4/3/12"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        7
+      ]
+    ]
+  },
+  "references-count": 45,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "iot4030012"
+  ],
+  "URL": "https://doi.org/10.3390/iot4030012",
+  "relation": {},
+  "ISSN": [
+    "2624-831X"
+  ],
+  "issn-type": [
+    {
+      "value": "2624-831X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        7
+      ]
+    ]
+  }
+}

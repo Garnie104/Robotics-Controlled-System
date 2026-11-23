@@ -1,0 +1,588 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           9,
+                                                           15
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-09-15T06:13:17Z",
+                                    "timestamp":  1789452797585,
+                                    "version":  "build-2803163510"
+                                },
+                    "reference-count":  32,
+                    "publisher":  "MDPI AG",
+                    "issue":  "14",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2019,
+                                                                             7,
+                                                                             13
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2019-07-13T00:00:00Z",
+                                                      "timestamp":  1562976000000
+                                                  },
+                                        "content-version":  "vor",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://creativecommons.org/licenses/by/4.0/"
+                                    }
+                                ],
+                    "funder":  [
+                                   {
+                                       "name":  "National Institute for Agricultural and Food Research and Technology (INIA)",
+                                       "award":  [
+                                                     "RTA 2013-00045-C04-01"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "RTA 2013-00045-C04-01"
+                                                                               ]
+                                                          }
+                                                      ]
+                                   },
+                                   {
+                                       "DOI":  "10.13039/501100004895",
+                                       "name":  "European Social Fund",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "RTA 2013-00045-C04-01"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "RTA 2013-00045-C04-01"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100004895",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   }
+                               ],
+                    "content-domain":  {
+                                           "domain":  [
+
+                                                      ],
+                                           "crossmark-restriction":  false
+                                       },
+                    "short-container-title":  [
+                                                  "Sensors"
+                                              ],
+                    "abstract":  "\u003cjats:p\u003eSoil water content (SWC) monitoring is often used to optimize agricultural irrigation. Commonly, capacitance sensors are used for this task. However, the factory calibrations have been often criticized for their limited accuracy. The aim of this paper is to test the degree of improvement of various sensor- and soil-specific calibration options compared to factory calibrations by taking the 10HS sensor as an example. To this end, a two-step sensor calibration was carried out. In the first step, the sensor response was related to dielectric permittivity using calibration in media with well-defined permittivity. The second step involved the establishment of a site-specific relationship between permittivity and soil water content using undisturbed soil samples and time domain reflectometry (TDR) measurements. Our results showed that a model, which considered the mean porosity and a fitted dielectric permittivity of the solid phase for each soil and depth, provided the best fit between bulk permittivity and SWC. Most importantly, it was found that the two-step calibration approach (RMSE: 1.03 vol.%) provided more accurate SWC estimates compared to the factory calibration (RMSE: 5.33 vol.%). Finally, we used these calibrations on data from drip-irrigated almond and apple orchards and compared the factory calibration with our two-step calibration approach.\u003c/jats:p\u003e",
+                    "DOI":  "10.3390/s19143101",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2019,
+                                                           7,
+                                                           15
+                                                       ]
+                                                   ],
+                                    "date-time":  "2019-07-15T04:55:27Z",
+                                    "timestamp":  1563166527000
+                                },
+                    "page":  "3101",
+                    "update-policy":  "https://doi.org/10.3390/mdpi_crossmark_policy",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  42,
+                    "title":  [
+                                  "On the Accuracy of Factory-Calibrated Low-Cost Soil Water Content Sensors"
+                              ],
+                    "prefix":  "10.3390",
+                    "volume":  "19",
+                    "author":  [
+                                   {
+                                       "ORCID":  "https://orcid.org/0000-0002-9502-2100",
+                                       "authenticated-orcid":  false,
+                                       "given":  "Jesús María",
+                                       "family":  "Domínguez-Niño",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Program of Efficient Use of Water in Agriculture, Institute of Agrifood Research and Technology (IRTA), Parc de Gardeny (PCiTAL), Fruitcentre, 25003 Lleida, Spain"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "ORCID":  "https://orcid.org/0000-0001-9974-6686",
+                                       "authenticated-orcid":  false,
+                                       "given":  "Heye Reemt",
+                                       "family":  "Bogena",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Institute of Bio- and Geosciences, Agrosphere Institute (IBG-3), Forschungszentrum Jülich GmbH, 52425 Jülich, Germany"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "ORCID":  "https://orcid.org/0000-0002-1327-0945",
+                                       "authenticated-orcid":  false,
+                                       "given":  "Johan Alexander",
+                                       "family":  "Huisman",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Institute of Bio- and Geosciences, Agrosphere Institute (IBG-3), Forschungszentrum Jülich GmbH, 52425 Jülich, Germany"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Bernd",
+                                       "family":  "Schilling",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Institute of Bio- and Geosciences, Agrosphere Institute (IBG-3), Forschungszentrum Jülich GmbH, 52425 Jülich, Germany"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Jaume",
+                                       "family":  "Casadesús",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Program of Efficient Use of Water in Agriculture, Institute of Agrifood Research and Technology (IRTA), Parc de Gardeny (PCiTAL), Fruitcentre, 25003 Lleida, Spain"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "1968",
+                    "published-online":  {
+                                             "date-parts":  [
+                                                                [
+                                                                    2019,
+                                                                    7,
+                                                                    13
+                                                                ]
+                                                            ]
+                                         },
+                    "reference":  [
+                                      {
+                                          "key":  "ref_1",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "12",
+                                          "DOI":  "10.1016/j.agwat.2012.10.002",
+                                          "article-title":  "Calibrating soil water potential sensors integrated into a wireless monitoring network",
+                                          "volume":  "116",
+                                          "author":  "Nolz",
+                                          "year":  "2013",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "ref_2",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.1016/j.compag.2018.06.052",
+                                          "article-title":  "Optimum soil water content sensors placement for surface drip irrigation scheduling in layered soils",
+                                          "volume":  "152",
+                                          "author":  "Soulis",
+                                          "year":  "2018",
+                                          "journal-title":  "Comput. Electron. Agric."
+                                      },
+                                      {
+                                          "key":  "ref_3",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "444",
+                                          "DOI":  "10.2136/vzj2003.4440",
+                                          "article-title":  "A review of advances in dielectric and electrical conductivity measurement in soils using time domain reflectometry",
+                                          "volume":  "2",
+                                          "author":  "Robinson",
+                                          "year":  "2003",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_4",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Kojima, Y., Shigeta, R., Miyamoto, N., Shirahama, Y., Nishioka, K., Mizoguchi, M., and Kawahara, Y. (2016). Low-Cost Soil Moisture Profile Probe Using Thin-Film Capacitors and a Capacitive Touch Sensor. Sensors, 16.",
+                                          "DOI":  "10.3390/s16081292"
+                                      },
+                                      {
+                                          "key":  "ref_5",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Bogena, H.R., Huisman, J.A., Schilling, B., Weuthen, A., and Vereecken, H. (2017). Effective calibration of low-cost soil water content sensors. Sensors, 17.",
+                                          "DOI":  "10.3390/s17010208"
+                                      },
+                                      {
+                                          "key":  "ref_6",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "181",
+                                          "DOI":  "10.2136/vzj2009.0036",
+                                          "article-title":  "Sensor-to-Sensor Variability of the ECHO EC-5, TE, and 5TE sensors in dielectric liquids",
+                                          "volume":  "9",
+                                          "author":  "Rosenbaum",
+                                          "year":  "2010",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_7",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "965",
+                                          "DOI":  "10.1061/(ASCE)IR.1943-4774.0000647",
+                                          "article-title":  "Calibration of the 10HS soil moisture sensor for Southwest Florida Agricultural Soils",
+                                          "volume":  "139",
+                                          "author":  "Spelman",
+                                          "year":  "2013",
+                                          "journal-title":  "J. Irrig. Drain. Eng."
+                                      },
+                                      {
+                                          "key":  "ref_8",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "111",
+                                          "DOI":  "10.1016/j.agwat.2013.10.005",
+                                          "article-title":  "Laboratory and field assessment of the capacitance sensors Decagon 10HS and 5TE for estimating the water content of irrigated soils",
+                                          "volume":  "132",
+                                          "author":  "Visconti",
+                                          "year":  "2014",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "ref_9",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1244",
+                                          "DOI":  "10.2136/sssaj2000.6441244x",
+                                          "article-title":  "Impacts of the real and imaginary components of relative permittivity on time domain reflectometry measurements in soils",
+                                          "volume":  "64",
+                                          "author":  "Topp",
+                                          "year":  "2000",
+                                          "journal-title":  "Soil Sci. Soc. Am. J."
+                                      },
+                                      {
+                                          "key":  "ref_10",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1048",
+                                          "DOI":  "10.2136/vzj2004.0140",
+                                          "article-title":  "Standardizing characterization of electromagnetic water content sensors: Part 1. Methodology",
+                                          "volume":  "4",
+                                          "author":  "Jones",
+                                          "year":  "2005",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_11",
+                                          "unstructured":  "O’Connor, K.M., Dowding, C.H., Jones, C.C., and Dowding, C.H. (1994). Dielectric water content sensors: Time domain versus frequency domain. Time Domain Reflectometry in Environmental, Infrastructure, and Mining Applications, Northwestern University."
+                                      },
+                                      {
+                                          "key":  "ref_12",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Sakaki, T., Limsuwat, A., Smits, K.M., and Illangasekare, T.H. (2008). Empirical two-point α-mixing model for calibrating the ECH2O EC-5 soil moisture sensor in sands. Water Resour. Res., 44.",
+                                          "DOI":  "10.1029/2008WR006870"
+                                      },
+                                      {
+                                          "key":  "ref_13",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "582",
+                                          "DOI":  "10.2136/vzj2010.0083",
+                                          "article-title":  "Correction of temperature and electrical conductivity effects on dielectric permittivity measurements with ECH2O sensors",
+                                          "volume":  "10",
+                                          "author":  "Rosenbaum",
+                                          "year":  "2011",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_14",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Vaz, C.M.P., Jones, S., Meding, M., and Tuller, M. (2013). Evaluation of standard calibration functions for eight electromagnetic soil moisture sensors. Vadose Zone J., 12.",
+                                          "DOI":  "10.2136/vzj2012.0160"
+                                      },
+                                      {
+                                          "key":  "ref_15",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "111",
+                                          "DOI":  "10.5194/hess-2-111-1998",
+                                          "article-title":  "The dielectric calibration of capacitance probes for soil hydrology using an oscillation frequency response model",
+                                          "volume":  "2",
+                                          "author":  "Robinson",
+                                          "year":  "1998",
+                                          "journal-title":  "Hydrol. Earth Syst. Sci. Discuss."
+                                      },
+                                      {
+                                          "key":  "ref_16",
+                                          "first-page":  "394",
+                                          "article-title":  "Measurement of Soil Water Content with a 50-MHz Soil Dielectric Sensor",
+                                          "volume":  "68",
+                                          "author":  "Seyfried",
+                                          "year":  "2004",
+                                          "journal-title":  "Soil Sci. Soc. Am. J."
+                                      },
+                                      {
+                                          "key":  "ref_17",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "32",
+                                          "DOI":  "10.1016/j.jhydrol.2007.06.032",
+                                          "article-title":  "Evaluation of a low-cost soil water content sensor for wireless network applications",
+                                          "volume":  "344",
+                                          "author":  "Bogena",
+                                          "year":  "2007",
+                                          "journal-title":  "J. Hydrol."
+                                      },
+                                      {
+                                          "key":  "ref_18",
+                                          "unstructured":  "Kögler, S., Wagner, N., Zacharias, S., and Wollschläger, U. (2013, January 23–27). Characterization of reference materials for an economic calibration approach for low-cost soil moisture sensors. Proceedings of the 10th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA 2016), Weimar, Germany."
+                                      },
+                                      {
+                                          "key":  "ref_19",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "2360",
+                                          "DOI":  "10.1021/jp9523783",
+                                          "article-title":  "Dielectric relaxation spectrometry of mixtures of water with isopropoxy-and isobutoxyethanol. Comparison to unbranched poly (ethylene glycol) monoalkyl ethers",
+                                          "volume":  "100",
+                                          "author":  "Kaatze",
+                                          "year":  "1996",
+                                          "journal-title":  "J. Phys. Chem."
+                                      },
+                                      {
+                                          "key":  "ref_20",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "574",
+                                          "DOI":  "10.1029/WR016i003p00574",
+                                          "article-title":  "Electromagnetic determination of soil water content: Measurements in coaxial transmission lines",
+                                          "volume":  "16",
+                                          "author":  "Topp",
+                                          "year":  "1980",
+                                          "journal-title":  "Water Resour. Res."
+                                      },
+                                      {
+                                          "key":  "ref_21",
+                                          "first-page":  "2267",
+                                          "article-title":  "Calibration of time domain reflectometry for water-content measurement using a composite dielectric approach",
+                                          "volume":  "26",
+                                          "author":  "Roth",
+                                          "year":  "1990",
+                                          "journal-title":  "Water Resour. Res."
+                                      },
+                                      {
+                                          "key":  "ref_22",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Qu, W., Bogena, H.R., Huisman, J.A., and Vereecken, H. (2013). Calibration of a Novel Low-Cost Soil Water Content Sensor Based on a Ring Oscillator. Vadose Zone J., 12.",
+                                          "DOI":  "10.2136/vzj2012.0139"
+                                      },
+                                      {
+                                          "key":  "ref_23",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "548",
+                                          "DOI":  "10.2136/vzj2008.0089",
+                                          "article-title":  "Apparent dielectric constant and effective frequency of TDR measurements: Influencing factors and comparison",
+                                          "volume":  "8",
+                                          "author":  "Chung",
+                                          "year":  "2008",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_24",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "367",
+                                          "DOI":  "10.1016/j.jhydrol.2008.01.021",
+                                          "article-title":  "Frequency, electrical conductivity and temperature analysis of a low-cost capacitance soil moisture sensor",
+                                          "volume":  "352",
+                                          "author":  "Kizito",
+                                          "year":  "2008",
+                                          "journal-title":  "J. Hydrol."
+                                      },
+                                      {
+                                          "key":  "ref_25",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "93",
+                                          "DOI":  "10.1109/PROC.1974.9388",
+                                          "article-title":  "High dielectric constant microwave probes for sensing soil moisture",
+                                          "volume":  "62",
+                                          "author":  "Birchak",
+                                          "year":  "1974",
+                                          "journal-title":  "Proc. IEEE"
+                                      },
+                                      {
+                                          "key":  "ref_26",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "38",
+                                          "DOI":  "10.2136/sssaj1995.03615995005900010006x",
+                                          "article-title":  "Temperature dependent measurement errors in time domain reflectometry determination of soil water",
+                                          "volume":  "59",
+                                          "author":  "Pepin",
+                                          "year":  "1995",
+                                          "journal-title":  "Soil Sci. Soc. Am. J."
+                                      },
+                                      {
+                                          "key":  "ref_27",
+                                          "unstructured":  "Weast, R.C. (1986). Handbook of Physics and Chemistry, CRC press. [67th ed.]."
+                                      },
+                                      {
+                                          "key":  "ref_28",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "705",
+                                          "DOI":  "10.2136/vzj2004.0705",
+                                          "article-title":  "Measurement of the solid dielectric permittivity of clay minerals and granular samples using a time domain reflectometry immersion method",
+                                          "volume":  "3",
+                                          "author":  "Robinson",
+                                          "year":  "2004",
+                                          "journal-title":  "Vadose Zone J."
+                                      },
+                                      {
+                                          "key":  "ref_29",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.1029/2011WR011518",
+                                          "article-title":  "Seasonal and event dynamics of spatial soil moisture patterns at the small catchment scale",
+                                          "volume":  "48",
+                                          "author":  "Rosenbaum",
+                                          "year":  "2012",
+                                          "journal-title":  "Water Resour. Res."
+                                      },
+                                      {
+                                          "key":  "ref_30",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "517",
+                                          "DOI":  "10.5194/essd-8-517-2016",
+                                          "article-title":  "The integrated water balance and soil data set of the Rollesbroich hydrological observatory",
+                                          "volume":  "8",
+                                          "author":  "Qu",
+                                          "year":  "2016",
+                                          "journal-title":  "Earth Syst. Sci. Data"
+                                      },
+                                      {
+                                          "key":  "ref_31",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Fares, A., Awal, R., and Bayabil, H. (2016). Soil water content sensor response to organic matter content under laboratory conditions. Sensors, 16.",
+                                          "DOI":  "10.3390/s16081239"
+                                      },
+                                      {
+                                          "key":  "ref_32",
+                                          "doi-asserted-by":  "crossref",
+                                          "unstructured":  "Matula, S., Bát’ková, K., and Legese, W.L. (2016). Laboratory performance of five selected soil moisture sensors applying factory and own calibration equations for two soil media of different bulk density and salinity levels. Sensors, 16.",
+                                          "DOI":  "10.3390/s16111912"
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "Sensors"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "https://www.mdpi.com/1424-8220/19/14/3101/pdf",
+                                     "content-type":  "unspecified",
+                                     "content-version":  "vor",
+                                     "intended-application":  "similarity-checking"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2025,
+                                                             10,
+                                                             11
+                                                         ]
+                                                     ],
+                                      "date-time":  "2025-10-11T13:05:23Z",
+                                      "timestamp":  1760187923000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "https://www.mdpi.com/1424-8220/19/14/3101"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2019,
+                                                          7,
+                                                          13
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  32,
+                    "journal-issue":  {
+                                          "issue":  "14",
+                                          "published-online":  {
+                                                                   "date-parts":  [
+                                                                                      [
+                                                                                          2019,
+                                                                                          7
+                                                                                      ]
+                                                                                  ]
+                                                               }
+                                      },
+                    "alternative-id":  [
+                                           "s19143101"
+                                       ],
+                    "URL":  "https://doi.org/10.3390/s19143101",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "1424-8220"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "1424-8220",
+                                          "type":  "electronic"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2019,
+                                                             7,
+                                                             13
+                                                         ]
+                                                     ]
+                                  }
+                }
+}

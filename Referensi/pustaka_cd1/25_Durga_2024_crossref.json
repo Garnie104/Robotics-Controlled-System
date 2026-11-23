@@ -1,0 +1,968 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           10,
+                                                           26
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-10-26T02:35:52Z",
+                                    "timestamp":  1792982152340,
+                                    "version":  "4.5.0"
+                                },
+                    "reference-count":  70,
+                    "publisher":  "Elsevier BV",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2024,
+                                                                             1,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2024-01-01T00:00:00Z",
+                                                      "timestamp":  1704067200000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://www.elsevier.com/tdm/userlicense/1.0/"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2024,
+                                                                             1,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2024-01-01T00:00:00Z",
+                                                      "timestamp":  1704067200000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://www.elsevier.com/legal/tdmrep-license"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2024,
+                                                                             1,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2024-01-01T00:00:00Z",
+                                                      "timestamp":  1704067200000
+                                                  },
+                                        "content-version":  "vor",
+                                        "delay-in-days":  0,
+                                        "URL":  "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                                    }
+                                ],
+                    "funder":  [
+                                   {
+                                       "DOI":  "10.13039/501100015815",
+                                       "name":  "Consortium of International Agricultural Research Centers",
+                                       "doi-asserted-by":  "publisher",
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100015815",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   },
+                                   {
+                                       "DOI":  "10.13039/100000200",
+                                       "name":  "United States Agency for International Development",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "AID-OAA-A-13-00055"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "AID-OAA-A-13-00055"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/100000200",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   }
+                               ],
+                    "content-domain":  {
+                                           "domain":  [
+                                                          "elsevier.com",
+                                                          "sciencedirect.com"
+                                                      ],
+                                           "crossmark-restriction":  true
+                                       },
+                    "short-container-title":  [
+                                                  "Energy Strategy Reviews"
+                                              ],
+                    "published-print":  {
+                                            "date-parts":  [
+                                                               [
+                                                                   2024,
+                                                                   1
+                                                               ]
+                                                           ]
+                                        },
+                    "DOI":  "10.1016/j.esr.2024.101294",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2024,
+                                                           1,
+                                                           5
+                                                       ]
+                                                   ],
+                                    "date-time":  "2024-01-05T15:13:52Z",
+                                    "timestamp":  1704467632000
+                                },
+                    "page":  "101294",
+                    "update-policy":  "https://doi.org/10.1016/elsevier_cm_policy",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  84,
+                    "special_numbering":  "C",
+                    "title":  [
+                                  "Barriers to the uptake of solar-powered irrigation by smallholder farmers in sub-saharan Africa: A review"
+                              ],
+                    "prefix":  "10.1016",
+                    "volume":  "51",
+                    "author":  [
+                                   {
+                                       "ORCID":  "https://orcid.org/0000-0001-5365-4735",
+                                       "authenticated-orcid":  false,
+                                       "given":  "Neha",
+                                       "family":  "Durga",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Petra",
+                                       "family":  "Schmitter",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Claudia",
+                                       "family":  "Ringler",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Shrishti",
+                                       "family":  "Mishra",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Manuel S.",
+                                       "family":  "Magombeyi",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Abena",
+                                       "family":  "Ofosu",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Paul",
+                                       "family":  "Pavelic",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Fitsum",
+                                       "family":  "Hagos",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Dagmawi",
+                                       "family":  "Melaku",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Shilp",
+                                       "family":  "Verma",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Thai",
+                                       "family":  "Minh",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Chamunorwa",
+                                       "family":  "Matambo",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "78",
+                    "reference":  [
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib1",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1051/cagri/2018019",
+                                          "article-title":  "Facing climate variability in Sub-Saharan Africa: analysis of climate-smart agriculture opportunities to manage climate-related risks",
+                                          "volume":  "27",
+                                          "author":  "Zougmoré",
+                                          "year":  "2018",
+                                          "journal-title":  "Cah. Agric."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib2",
+                                          "article-title":  "Who benefits from farmer-led irrigation expansion in Ethiopia?",
+                                          "volume":  "341",
+                                          "author":  "Kafle",
+                                          "year":  "2020",
+                                          "journal-title":  "African Development Bank Working Paper"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib3",
+                                          "series-title":  "Sustainable Expansion of Groundwater-Based Solar Water Pumping for Smallholder Farmers in Sub-saharan Africa",
+                                          "author":  "Pavelic",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib4",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1088/1748-9326/ac77a5",
+                                          "article-title":  "Accounting for socioeconomic constraints in sustainable irrigation expansion assessments",
+                                          "volume":  "17",
+                                          "author":  "Van Maanen",
+                                          "year":  "2022",
+                                          "journal-title":  "Environ. Res. Lett."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib5",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "790",
+                                          "DOI":  "10.1080/02508060.2013.843842",
+                                          "article-title":  "Do policy and institutional factors explain the low levels of smallholder groundwater use in Sub-Saharan Africa?",
+                                          "volume":  "38",
+                                          "author":  "Chokkakula",
+                                          "year":  "2013",
+                                          "journal-title":  "Water Int."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib6",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "197",
+                                          "DOI":  "10.3362/1756-3488.2012.021",
+                                          "article-title":  "Solar powered pumping technologies in rural water supply: case study from Kunene region, Namibia",
+                                          "volume":  "31",
+                                          "author":  "Hjalmarsdottir",
+                                          "year":  "2012",
+                                          "journal-title":  "Waterlines"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib7",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "33",
+                                          "DOI":  "10.1016/j.enpol.2017.01.035",
+                                          "article-title":  "Solar-based groundwater pumping for irrigation: Sustainability, policies, and limitations",
+                                          "volume":  "104",
+                                          "author":  "Closas",
+                                          "year":  "2017",
+                                          "journal-title":  "Energy Pol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib8",
+                                          "series-title":  "Policy Synthesis",
+                                          "article-title":  "What is the scope for horticulture to drive smallholder poverty reduction in Africa?",
+                                          "author":  "Tschirley",
+                                          "year":  "2011"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib9",
+                                          "series-title":  "Solar Water Pump: Outlook 2019: Global Trends and Market Opportunities",
+                                          "author":  "Dalberg",
+                                          "year":  "2019"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib10",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1206",
+                                          "DOI":  "10.1016/j.rser.2017.08.039",
+                                          "article-title":  "A review of sustainable solar irrigation systems for Sub-Saharan Africa",
+                                          "volume":  "81",
+                                          "author":  "Mohammed Wazed",
+                                          "year":  "2018",
+                                          "journal-title":  "Renew. Sustain. Energy Rev."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib11",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1029/2020EF001611",
+                                          "article-title":  "Solar or Diesel: a comparison of costs for groundwater-fed irrigation in sub-saharan Africa under two energy solutions",
+                                          "volume":  "9",
+                                          "author":  "Xie",
+                                          "year":  "2021",
+                                          "journal-title":  "Earth\u0027s Future"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib12",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.esr.2022.100922",
+                                          "article-title":  "A renewable energy-centred research agenda for planning and financing Nexus development objectives in rural sub-Saharan Africa",
+                                          "volume":  "43",
+                                          "author":  "Falchetta",
+                                          "year":  "2022",
+                                          "journal-title":  "Energy Strategy Rev."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib13",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "64",
+                                          "DOI":  "10.1016/j.esd.2018.02.007",
+                                          "article-title":  "Benefits and challenges of expanding grid electricity in Africa: a review of rigorous evidence on household impacts in developing countries",
+                                          "volume":  "44",
+                                          "author":  "Bos",
+                                          "year":  "2018",
+                                          "journal-title":  "Energy for Sustainable Development"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib14",
+                                          "series-title":  "Electrification and Economic Development: A Microeconomic Perspective, EEG State-Of-Knowledge Paper Series",
+                                          "author":  "Lee",
+                                          "year":  "2017"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib15",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "122",
+                                          "DOI":  "10.1257/jep.34.1.122",
+                                          "article-title":  "Does household electrification supercharge economic development?",
+                                          "volume":  "34",
+                                          "author":  "Lee",
+                                          "year":  "2020",
+                                          "journal-title":  "J. Econ. Perspect."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib16",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "187",
+                                          "DOI":  "10.5547/ISSN0195-6574-EJ-Vol33-No1-7",
+                                          "article-title":  "The welfare impacts of rural electrification in Bangladesh",
+                                          "volume":  "33",
+                                          "author":  "Khandker",
+                                          "year":  "2012",
+                                          "journal-title":  "Energy J."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib17",
+                                          "series-title":  "Accelerating Irrigation Expansion in Sub-saharan Africa: Policy Lessons from the Global Revolution in Farmer-Led Smallholder Irrigation",
+                                          "author":  "Shah",
+                                          "year":  "2018"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib18",
+                                          "series-title":  "Solar Irrigation in Sub-saharan Africa : Economic Feasibility and Development Potential OPEN ACCESS Solar Irrigation in Sub-saharan Africa : Economic Feasibility and Development Potential",
+                                          "author":  "Falchetta",
+                                          "year":  "2023"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib19",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "41",
+                                          "DOI":  "10.1016/j.apgeog.2018.02.008",
+                                          "article-title":  "Suitability mapping framework for solar photovoltaic pumps for smallholder farmers in sub-Saharan Africa",
+                                          "volume":  "94",
+                                          "author":  "Schmitter",
+                                          "year":  "2018",
+                                          "journal-title":  "Appl. Geogr."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib20",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "333",
+                                          "DOI":  "10.1016/j.jbusres.2019.07.039",
+                                          "article-title":  "Literature review as a research methodology: an overview and guidelines",
+                                          "volume":  "104",
+                                          "author":  "Snyder",
+                                          "year":  "2019",
+                                          "journal-title":  "J. Bus. Res."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib21",
+                                          "series-title":  "The Farmer-Led Irrigation Development Guide: A what, Why and How-To for Intervention Design",
+                                          "author":  "Izzi",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib22",
+                                          "first-page":  "294",
+                                          "article-title":  "Solar-powered groundwater pumping systems for nigerian water sheds",
+                                          "volume":  "4",
+                                          "author":  "Sodiki",
+                                          "year":  "2014",
+                                          "journal-title":  "Int. J. Renew. Energy Resour."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib23",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "26",
+                                          "DOI":  "10.17159/2413-3051/2021/v32i2a9045",
+                                          "article-title":  "The extent, characteristics and potential of solar powered irrigation systems in South Africa",
+                                          "volume":  "32",
+                                          "author":  "Piliso",
+                                          "year":  "2021",
+                                          "journal-title":  "J. Energy South Afr."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib24",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.51526/kbes.2020.1.01.1-22",
+                                          "article-title":  "Technical and economic feasibility of solar irrigation pumping system: a review",
+                                          "volume":  "1",
+                                          "author":  "Lamine",
+                                          "year":  "2020",
+                                          "journal-title":  "Knowledge-Based Engineering and Sciences"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib25",
+                                          "series-title":  "The Benefits and Risks of Solar-Powered Irrigation--A Global Overview",
+                                          "author":  "Hartung",
+                                          "year":  "2018"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib26",
+                                          "series-title":  "Why off Grid Energy Matters an Impact Performance Report",
+                                          "author":  "Harrison",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib27",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "128",
+                                          "DOI":  "10.1016/j.solmat.2016.06.045",
+                                          "article-title":  "GIS based solar resource analysis for irrigation purposes: rural areas comparison under groundwater scarcity conditions",
+                                          "volume":  "156",
+                                          "author":  "Rubio-Aliaga",
+                                          "year":  "2016",
+                                          "journal-title":  "Sol. Energy Mater. Sol. Cell."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib28",
+                                          "series-title":  "An Approach for Mainstreaming Renewable Energy in IFAD Operations",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib29",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "220",
+                                          "DOI":  "10.1016/j.seta.2017.02.005",
+                                          "article-title":  "Increasing productivity through irrigation: problems and solutions implemented in Africa and Asia",
+                                          "volume":  "22",
+                                          "author":  "Mashnik",
+                                          "year":  "2017",
+                                          "journal-title":  "Sustain. Energy Technol. Assessments"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib30",
+                                          "series-title":  "Flow of Credit to Small and Marginal Farmers in Maharashtra",
+                                          "author":  "Kshirsagar",
+                                          "year":  "2002"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib31",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "535",
+                                          "DOI":  "10.1080/13552074.2020.1833483",
+                                          "article-title":  "Rural women\u0027s participation in solar-powered irrigation in Niger: lessons from Dimitra Clubs",
+                                          "volume":  "28",
+                                          "author":  "Adisa",
+                                          "year":  "2020",
+                                          "journal-title":  "Gend. Dev."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib32",
+                                          "series-title":  "Measuring Impacts and Enabling Investments in Energy-Smart Agrifood Chains Findings from Four Country Studies",
+                                          "first-page":  "280",
+                                          "year":  "2019"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib33",
+                                          "series-title":  "Dakar, Senegal: International Food Policy Research Institute (IFPRI) and Malabo Montpellier Panel",
+                                          "article-title":  "Water-wise: smart irrigation strategies for Africa",
+                                          "year":  "2018"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib34",
+                                          "series-title":  "Future of Solar Photovoltaic: Deployment, Investment, Technology, Grid Integration and Socio-Economic Aspects (A Global Energy Transformation: Paper)",
+                                          "year":  "2019"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib35",
+                                          "series-title":  "Double Dividend: Power and Agriculture Nexus in Sub-saharan Africa",
+                                          "author":  "Banerjee",
+                                          "year":  "2017"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib36",
+                                          "series-title":  "Solar Water Pumps",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib37",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.enpol.2021.112313",
+                                          "article-title":  "Solar for all: a framework to deliver inclusive and environmentally sustainable solar irrigation for smallholder agriculture",
+                                          "volume":  "154",
+                                          "author":  "Lefore",
+                                          "year":  "2021",
+                                          "journal-title":  "Energy Pol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib38",
+                                          "series-title":  "Impacts of Solar Water Pumps: Insights from Kenya",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib39",
+                                          "article-title":  "Potential of microfinanced solar water pumping systems for irrigation in rural areas of Burkina Faso",
+                                          "volume":  "9",
+                                          "author":  "Yamegueu",
+                                          "year":  "2019",
+                                          "journal-title":  "Energy Sustain Soc"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib40",
+                                          "series-title":  "Achieving Food Security in Kenya through Smart Solar Irrigation",
+                                          "author":  "Dalberg",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib41",
+                                          "series-title":  "The Future of Africa\u0027s Energy Supply",
+                                          "author":  "Quitzow",
+                                          "year":  "2016"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib42",
+                                          "series-title":  "Webinar Presentation, Solar Power Europe",
+                                          "article-title":  "The potential of agri-PV in Africa",
+                                          "author":  "Dean",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib43",
+                                          "first-page":  "2",
+                                          "article-title":  "Diesel to solar transformation, Cairo, Egypt",
+                                          "volume":  "10",
+                                          "author":  "Barghouth",
+                                          "year":  "2016"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib44",
+                                          "series-title":  "Scaling up Disruptive Agricultural Technologies in Africa",
+                                          "author":  "Kim",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib45",
+                                          "series-title":  "Groundwater Availability and Use in Sub-saharan Africa: A Review of 15 Countries",
+                                          "author":  "Pavelic",
+                                          "year":  "2012"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib46",
+                                          "series-title":  "Scaling Solar Irrigation in Africa: A Realist Synthesis of Barriers and Opportunities in South Africa and Zimbabwe",
+                                          "author":  "Magombeyi",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib47",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.47762/2018.964x.37",
+                                          "article-title":  "Small scale irrigation in Ghana: challenges and prospects in the face of climate variability",
+                                          "volume":  "2",
+                                          "author":  "Glitse",
+                                          "year":  "2018",
+                                          "journal-title":  "International Journal of Irrigation and Agricultural Development (IJIRAD)."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib48",
+                                          "series-title":  "Small-Scale Irrigation Dialogue Space: Understanding the Scalability of Solar-Powered Irrigation in Ghana: Market Segmentation and Mapping Pump Suitability",
+                                          "author":  "Ofosu",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib49",
+                                          "series-title":  "The Growth of Small-Scale Irrigation in Kenya: the Role of Private Firms in Technology Diffusion",
+                                          "author":  "Hornum",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib50",
+                                          "series-title":  "Evidence on Demand and Supply Constraints of Credit in Ethiopia and Tanzania",
+                                          "article-title":  "Are smallholder farmers credit constrained?",
+                                          "author":  "Balana",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib51",
+                                          "series-title":  "ISES Solar World Congress 2017-IEA SHC International Conference on Solar Heating and Cooling for Buildings and Industry",
+                                          "first-page":  "1966",
+                                          "article-title":  "Accelerating solar water pump sales in Kenya: return on investment case studies",
+                                          "author":  "Holthaus",
+                                          "year":  "2017"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib52",
+                                          "series-title":  "The Diffusion of Small-Scale Irrigation Technologies in Ethiopia: Stakeholder Analysis Using Net-Map",
+                                          "author":  "Bryan",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib53",
+                                          "series-title":  "Improving Smallholder Women Farmers\u0027 Access to Finance for Small-Scale Irrigation Technologies",
+                                          "author":  "Merrey",
+                                          "year":  "2023"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib54",
+                                          "first-page":  "918",
+                                          "article-title":  "Integration of solar energy resource into agro-energy cooperative districts: a case study based on solar powered irrigation pumps",
+                                          "volume":  "1",
+                                          "author":  "Rubio-Aliaga",
+                                          "year":  "2016",
+                                          "journal-title":  "Renewable Energy and Power Quality Journal"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib55",
+                                          "series-title":  "Clean Energy Africa",
+                                          "author":  "Wbcsd",
+                                          "year":  "2014"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib56",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "5502",
+                                          "DOI":  "10.3390/en13205502",
+                                          "article-title":  "Barriers and solutions for increasing the integration of solar photovoltaic in Kenya\u0027s electricity mix",
+                                          "volume":  "13",
+                                          "author":  "Samoita",
+                                          "year":  "2020",
+                                          "journal-title":  "Energies"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib57",
+                                          "series-title":  "Solar Irrigation Market Analysis in Ethiopia",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib58",
+                                          "series-title":  "Business Model Scenarios and Suitability: Smallholder Solar Pump-Based Irrigation in Ethiopia",
+                                          "author":  "Otoo",
+                                          "year":  "2018"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib59",
+                                          "series-title":  "Connection Charges and Electricity Access in Sub-saharan Africa the World Bank Africa Region Sustainable Development Network",
+                                          "author":  "Golumbeanu",
+                                          "year":  "2013"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib61",
+                                          "series-title":  "EU\u0027s reported import curb on China\u0027s green tech risks pushing up prices, shaking investors\u0027 confidence: insiders - Global Times, (n.d.)",
+                                          "year":  "2023"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib62",
+                                          "series-title":  "India\u0027s solar imports from China down nearly 80% by $2 billion in H1 2023: Ember - The Economic Times, (n.d.)",
+                                          "year":  "2023"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib63",
+                                          "series-title":  "Solar Irrigation Rwanda – Developing a New Market for Smallholder Farmers",
+                                          "year":  "2021"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib64",
+                                          "series-title":  "Can Solar Pumps Energize Bihar\u0027s Agriculture?",
+                                          "author":  "Durga",
+                                          "year":  "2016"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib65",
+                                          "series-title":  "Sitaram Rao Livelihoods India Case Study Competition",
+                                          "article-title":  "Catalysisng competitive irrigation service markets in North Bihar: the case of chakhaji solar irrigation service market",
+                                          "author":  "Durga",
+                                          "year":  "2019"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib66",
+                                          "series-title":  "Bid Report for International Competitive Bidding (ICB) Conducted for Approx . 272 , 579 Nos . Solar Water Pumping System for 22 Member Countries of International Solar Alliance",
+                                          "year":  "2020"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib67",
+                                          "series-title":  "Halsted Online Catalogue",
+                                          "author":  "Halsted",
+                                          "year":  "2022"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib68",
+                                          "series-title":  "Electrosale Online Catalogue",
+                                          "author":  "Electrosales",
+                                          "year":  "2022"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib69",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1143",
+                                          "DOI":  "10.1007/s10040-020-02147-5",
+                                          "article-title":  "Groundwater and the discourse of shortage in sub-saharan Africa",
+                                          "author":  "Cobbing",
+                                          "year":  "2020",
+                                          "journal-title":  "Hydrogeol. J."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib70",
+                                          "series-title":  "Waking a Sleeping Giant: Realizing the Potential of Groundwater in Sub-saharan Africa",
+                                          "author":  "Cobbing",
+                                          "year":  "2019"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.esr.2024.101294_bib71",
+                                          "series-title":  "Smallholder Irrigation Technology Diffusion in Ghana: Insights from Stakeholder Mapping",
+                                          "author":  "Atuobi-Yeboah",
+                                          "year":  "2020"
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "Energy Strategy Reviews"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S2211467X24000014?httpAccept=text/xml",
+                                     "content-type":  "text/xml",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S2211467X24000014?httpAccept=text/plain",
+                                     "content-type":  "text/plain",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2025,
+                                                             2,
+                                                             9
+                                                         ]
+                                                     ],
+                                      "date-time":  "2025-02-09T23:22:45Z",
+                                      "timestamp":  1739143365000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "https://linkinghub.elsevier.com/retrieve/pii/S2211467X24000014"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2024,
+                                                          1
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  70,
+                    "alternative-id":  [
+                                           "S2211467X24000014"
+                                       ],
+                    "URL":  "https://doi.org/10.1016/j.esr.2024.101294",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "2211-467X"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "2211-467X",
+                                          "type":  "print"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2024,
+                                                             1
+                                                         ]
+                                                     ]
+                                  },
+                    "assertion":  [
+                                      {
+                                          "value":  "Elsevier",
+                                          "name":  "publisher",
+                                          "label":  "This article is maintained by"
+                                      },
+                                      {
+                                          "value":  "Barriers to the uptake of solar-powered irrigation by smallholder farmers in sub-saharan Africa: A review",
+                                          "name":  "articletitle",
+                                          "label":  "Article Title"
+                                      },
+                                      {
+                                          "value":  "Energy Strategy Reviews",
+                                          "name":  "journaltitle",
+                                          "label":  "Journal Title"
+                                      },
+                                      {
+                                          "value":  "https://doi.org/10.1016/j.esr.2024.101294",
+                                          "name":  "articlelink",
+                                          "label":  "CrossRef DOI link to publisher maintained version"
+                                      },
+                                      {
+                                          "value":  "article",
+                                          "name":  "content_type",
+                                          "label":  "Content Type"
+                                      },
+                                      {
+                                          "value":  "© 2024 The Authors. Published by Elsevier Ltd.",
+                                          "name":  "copyright",
+                                          "label":  "Copyright"
+                                      }
+                                  ],
+                    "article-number":  "101294"
+                }
+}

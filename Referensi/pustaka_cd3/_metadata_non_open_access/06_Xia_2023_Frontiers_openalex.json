@@ -1,0 +1,1741 @@
+{
+  "id": "https://openalex.org/W4382066499",
+  "doi": "https://doi.org/10.3389/fpls.2023.1207742",
+  "title": "Research on orchard navigation method based on fusion of 3D SLAM and point cloud positioning",
+  "display_name": "Research on orchard navigation method based on fusion of 3D SLAM and point cloud positioning",
+  "publication_year": 2023,
+  "publication_date": "2023-06-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4382066499",
+    "doi": "https://doi.org/10.3389/fpls.2023.1207742",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37434606",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/10330707"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fpls.2023.1207742",
+    "doi": "https://doi.org/10.3389/fpls.2023.1207742",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpls.2023.1207742",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2493613807",
+      "display_name": "Frontiers in Plant Science",
+      "issn_l": "1664-462X",
+      "issn": [
+        "1664-462X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Plant Science",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.3389/fpls.2023.1207742",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5053743638",
+        "display_name": "Ye Xia",
+        "orcid": "https://orcid.org/0000-0002-2313-0102",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-2313-0102"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I115592961",
+          "display_name": "Jiangsu University",
+          "ror": "https://ror.org/03jc41j30",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I115592961"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ye Xia",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+        "School of Agricultural Engineering, Jiangsu University, Zhenjiang, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Agricultural Engineering, Jiangsu University, Zhenjiang, China",
+          "institution_ids": [
+            "https://openalex.org/I115592961"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091488899",
+        "display_name": "Xiaohui Lei",
+        "orcid": "https://orcid.org/0000-0002-6749-6114",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6749-6114",
+          "https://orcid.org/0000-0001-5533-7389",
+          "https://orcid.org/0000-0002-7288-5739",
+          "https://orcid.org/0000-0003-0956-3064"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Xiaohui Lei",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100581302",
+        "display_name": "Jian Pan",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jian Pan",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102527956",
+        "display_name": "LuWei Chen",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "LuWei Chen",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100776750",
+        "display_name": "Zhen Zhang",
+        "orcid": "https://orcid.org/0000-0002-2300-7112",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-2300-7112"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhen Zhang",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5007857939",
+        "display_name": "Xiaolan Lyu",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087107",
+          "display_name": "Jiangsu Academy of Agricultural Sciences",
+          "ror": "https://ror.org/001f9e125",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151987",
+          "display_name": "Ministry of Agriculture and Rural Affairs",
+          "ror": "https://ror.org/05ckt8b96",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127390",
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Xiaolan Lyu",
+      "raw_affiliation_strings": [
+        "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+        "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Agricultural Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210087107"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Modern Horticultural Equipment, Ministry of Agriculture and Rural Affairs, Nanjing, China",
+          "institution_ids": [
+            "https://openalex.org/I4210151987"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5007857939",
+    "https://openalex.org/A5091488899"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210087107",
+    "https://openalex.org/I4210151987"
+  ],
+  "apc_list": {
+    "value": 3295,
+    "currency": "USD",
+    "value_usd": 3295
+  },
+  "apc_paid": {
+    "value": 3295,
+    "currency": "USD",
+    "value_usd": 3295
+  },
+  "fwci": 3.871,
+  "has_fulltext": true,
+  "cited_by_count": 53,
+  "citation_normalized_percentile": {
+    "value": 0.9544437,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": null,
+    "first_page": "1207742",
+    "last_page": "1207742"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10191",
+    "display_name": "Robotics and Sensor-Based Localization",
+    "score": 0.9653000235557556,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10191",
+      "display_name": "Robotics and Sensor-Based Localization",
+      "score": 0.9653000235557556,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10616",
+      "display_name": "Smart Agriculture and AI",
+      "score": 0.020400000736117363,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12201",
+      "display_name": "Agricultural Engineering and Mechanization",
+      "score": 0.00279999990016222,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/orchard-navigation",
+      "display_name": "orchard navigation",
+      "score": 0.8840000033378601
+    },
+    {
+      "id": "https://openalex.org/keywords/3d-slam",
+      "display_name": "3D SLAM",
+      "score": 0.8230000138282776
+    },
+    {
+      "id": "https://openalex.org/keywords/3d-lidar",
+      "display_name": "3D LiDAR",
+      "score": 0.8240000009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/normal-distribution-transform",
+      "display_name": "normal distribution transform",
+      "score": 0.7630000114440918
+    },
+    {
+      "id": "https://openalex.org/keywords/sensor-fusion",
+      "display_name": "sensor fusion",
+      "score": 0.7749999761581421
+    },
+    {
+      "id": "https://openalex.org/keywords/trajectory-tracking",
+      "display_name": "trajectory tracking",
+      "score": 0.722000002861023
+    },
+    {
+      "id": "https://openalex.org/keywords/pear-orchards",
+      "display_name": "pear orchards",
+      "score": 0.7440000176429749
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C14279187",
+      "wikidata": "https://www.wikidata.org/wiki/Q5514012",
+      "display_name": "GNSS applications",
+      "level": 3,
+      "score": 0.7510124444961548
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7267898917198181
+    },
+    {
+      "id": "https://openalex.org/C131979681",
+      "wikidata": "https://www.wikidata.org/wiki/Q1899648",
+      "display_name": "Point cloud",
+      "level": 2,
+      "score": 0.6940184235572815
+    },
+    {
+      "id": "https://openalex.org/C51399673",
+      "wikidata": "https://www.wikidata.org/wiki/Q504027",
+      "display_name": "Lidar",
+      "level": 2,
+      "score": 0.6536316871643066
+    },
+    {
+      "id": "https://openalex.org/C31972630",
+      "wikidata": "https://www.wikidata.org/wiki/Q844240",
+      "display_name": "Computer vision",
+      "level": 1,
+      "score": 0.6358957290649414
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5339404940605164
+    },
+    {
+      "id": "https://openalex.org/C2777891301",
+      "wikidata": "https://www.wikidata.org/wiki/Q3475123",
+      "display_name": "Navigation system",
+      "level": 2,
+      "score": 0.46263617277145386
+    },
+    {
+      "id": "https://openalex.org/C86369673",
+      "wikidata": "https://www.wikidata.org/wiki/Q1203659",
+      "display_name": "Simultaneous localization and mapping",
+      "level": 4,
+      "score": 0.4572164714336395
+    },
+    {
+      "id": "https://openalex.org/C33954974",
+      "wikidata": "https://www.wikidata.org/wiki/Q486494",
+      "display_name": "Sensor fusion",
+      "level": 2,
+      "score": 0.44558489322662354
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.38141530752182007
+    },
+    {
+      "id": "https://openalex.org/C60229501",
+      "wikidata": "https://www.wikidata.org/wiki/Q18822",
+      "display_name": "Global Positioning System",
+      "level": 2,
+      "score": 0.29993757605552673
+    },
+    {
+      "id": "https://openalex.org/C19966478",
+      "wikidata": "https://www.wikidata.org/wiki/Q4810574",
+      "display_name": "Mobile robot",
+      "level": 3,
+      "score": 0.16956955194473267
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.15968304872512817
+    },
+    {
+      "id": "https://openalex.org/C90509273",
+      "wikidata": "https://www.wikidata.org/wiki/Q11012",
+      "display_name": "Robot",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3389/fpls.2023.1207742",
+      "doi": "https://doi.org/10.3389/fpls.2023.1207742",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fpls.2023.1207742",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2493613807",
+        "display_name": "Frontiers in Plant Science",
+        "issn_l": "1664-462X",
+        "issn": [
+          "1664-462X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Plant Science",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10330707",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10330707",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10330707/pdf/",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Front Plant Sci",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmid:37434606",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37434606",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in plant science",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:cef1bcd8c5ff45a592b90b41ee690e5f",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/cef1bcd8c5ff45a592b90b41ee690e5f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Plant Science, Vol 14 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fpls.2023.1207742",
+    "doi": "https://doi.org/10.3389/fpls.2023.1207742",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpls.2023.1207742",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2493613807",
+      "display_name": "Frontiers in Plant Science",
+      "issn_l": "1664-462X",
+      "issn": [
+        "1664-462X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Plant Science",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.5378999710083008,
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1557953086",
+      "display_name": null,
+      "funder_award_id": "32201680",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G3485485264",
+      "display_name": null,
+      "funder_award_id": "NJ2022-14",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G3506623742",
+      "display_name": null,
+      "funder_award_id": "CARS-28-21",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G4054830111",
+      "display_name": null,
+      "funder_award_id": "N20221003",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G405662598",
+      "display_name": null,
+      "funder_award_id": "BX2019016",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G490581812",
+      "display_name": null,
+      "funder_award_id": "32201680",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G5111800585",
+      "display_name": null,
+      "funder_award_id": "CARS-28",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G5308036268",
+      "display_name": null,
+      "funder_award_id": "N20221003",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G6557410196",
+      "display_name": null,
+      "funder_award_id": "CX(21)2025",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G6575744318",
+      "display_name": null,
+      "funder_award_id": "CX(21)",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G6633995350",
+      "display_name": null,
+      "funder_award_id": "CARS-28",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8448765441",
+      "display_name": null,
+      "funder_award_id": "NK2022160104",
+      "funder_id": "https://openalex.org/F4320309870",
+      "funder_display_name": "Jiangsu Agricultural Science and Technology Innovation Fund"
+    },
+    {
+      "id": "https://openalex.org/G9000015780",
+      "display_name": null,
+      "funder_award_id": "CX(21)2025",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309870",
+      "display_name": "Jiangsu Agricultural Science and Technology Innovation Fund",
+      "ror": "https://ror.org/0335n2618"
+    },
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4382066499.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4382066499.grobid-xml"
+  },
+  "referenced_works_count": 27,
+  "referenced_works": [
+    "https://openalex.org/W994649640",
+    "https://openalex.org/W1567242735",
+    "https://openalex.org/W1692107211",
+    "https://openalex.org/W1901129140",
+    "https://openalex.org/W1910657905",
+    "https://openalex.org/W1979537916",
+    "https://openalex.org/W1993546116",
+    "https://openalex.org/W2070762105",
+    "https://openalex.org/W2120179083",
+    "https://openalex.org/W2177795439",
+    "https://openalex.org/W2229301416",
+    "https://openalex.org/W2747333411",
+    "https://openalex.org/W2866175125",
+    "https://openalex.org/W2973559712",
+    "https://openalex.org/W3015929369",
+    "https://openalex.org/W3016813205",
+    "https://openalex.org/W3112809366",
+    "https://openalex.org/W3117269955",
+    "https://openalex.org/W3158002639",
+    "https://openalex.org/W4224252060",
+    "https://openalex.org/W4238406942",
+    "https://openalex.org/W4241885227",
+    "https://openalex.org/W4281753200",
+    "https://openalex.org/W4289130689",
+    "https://openalex.org/W4295548782",
+    "https://openalex.org/W4311446656",
+    "https://openalex.org/W4313314379"
+  ],
+  "related_works": [
+    "https://openalex.org/W4393183790",
+    "https://openalex.org/W4404756815",
+    "https://openalex.org/W6921634239",
+    "https://openalex.org/W7125639170",
+    "https://openalex.org/W7122683924",
+    "https://openalex.org/W7164895767",
+    "https://openalex.org/W7165809613",
+    "https://openalex.org/W4405586050",
+    "https://openalex.org/W4403559319",
+    "https://openalex.org/W4399426369"
+  ],
+  "abstract_inverted_index": {
+    "Accurate": [
+      0
+    ],
+    "navigation": [
+      1,
+      15,
+      27,
+      32,
+      68,
+      189,
+      230,
+      289,
+      313
+    ],
+    "is": [
+      2,
+      23,
+      92,
+      117,
+      172,
+      190,
+      224
+    ],
+    "crucial": [
+      3
+    ],
+    "in": [
+      4,
+      46,
+      175,
+      215,
+      264,
+      308
+    ],
+    "the": [
+      5,
+      11,
+      74,
+      97,
+      114,
+      132,
+      138,
+      148,
+      154,
+      161,
+      168,
+      176,
+      182,
+      185,
+      201,
+      204,
+      229,
+      254
+    ],
+    "construction": [
+      6
+    ],
+    "of": [
+      7,
+      76,
+      112,
+      123,
+      184,
+      203,
+      221,
+      247,
+      261,
+      283,
+      295
+    ],
+    "intelligent": [
+      8
+    ],
+    "orchards,": [
+      9
+    ],
+    "and": [
+      10,
+      36,
+      40,
+      84,
+      94,
+      141,
+      153,
+      187,
+      243,
+      297
+    ],
+    "need": [
+      12
+    ],
+    "for": [
+      13,
+      70,
+      127
+    ],
+    "vehicle": [
+      14
+    ],
+    "accuracy": [
+      16,
+      202,
+      237,
+      296
+    ],
+    "becomes": [
+      17
+    ],
+    "even": [
+      18
+    ],
+    "more": [
+      19
+    ],
+    "important": [
+      20
+    ],
+    "as": [
+      21,
+      107
+    ],
+    "production": [
+      22
+    ],
+    "refined.": [
+      24
+    ],
+    "However,": [
+      25
+    ],
+    "traditional": [
+      26
+    ],
+    "methods": [
+      28
+    ],
+    "based": [
+      29
+    ],
+    "on": [
+      30
+    ],
+    "global": [
+      31
+    ],
+    "satellite": [
+      33
+    ],
+    "system": [
+      34,
+      231,
+      290
+    ],
+    "(GNSS)": [
+      35
+    ],
+    "2D": [
+      37
+    ],
+    "light": [
+      38
+    ],
+    "detection": [
+      39
+    ],
+    "ranging": [
+      41
+    ],
+    "(LiDAR)": [
+      42
+    ],
+    "can": [
+      43,
+      211,
+      298
+    ],
+    "be": [
+      44,
+      299
+    ],
+    "unreliable": [
+      45
+    ],
+    "complex": [
+      47
+    ],
+    "scenarios": [
+      48
+    ],
+    "with": [
+      49,
+      79,
+      218,
+      238,
+      279,
+      311
+    ],
+    "little": [
+      50
+    ],
+    "sensory": [
+      51
+    ],
+    "information": [
+      52,
+      91,
+      136
+    ],
+    "due": [
+      53
+    ],
+    "to": [
+      54,
+      102,
+      159,
+      180,
+      301
+    ],
+    "tree": [
+      55
+    ],
+    "canopy": [
+      56
+    ],
+    "occlusion.": [
+      57
+    ],
+    "To": [
+      58
+    ],
+    "solve": [
+      59
+    ],
+    "these": [
+      60
+    ],
+    "issues,": [
+      61
+    ],
+    "this": [
+      62
+    ],
+    "paper": [
+      63
+    ],
+    "proposes": [
+      64
+    ],
+    "a": [
+      65,
+      80,
+      120,
+      143,
+      219,
+      233,
+      239,
+      244,
+      259,
+      265,
+      280,
+      292
+    ],
+    "3D": [
+      66,
+      77,
+      81
+    ],
+    "LiDAR-based": [
+      67
+    ],
+    "method": [
+      69,
+      122,
+      210
+    ],
+    "trellis": [
+      71,
+      104,
+      309
+    ],
+    "orchards.": [
+      72
+    ],
+    "With": [
+      73
+    ],
+    "use": [
+      75
+    ],
+    "LiDAR": [
+      78
+    ],
+    "simultaneous": [
+      82
+    ],
+    "localization": [
+      83
+    ],
+    "mapping": [
+      85
+    ],
+    "(SLAM)": [
+      86
+    ],
+    "algorithm,": [
+      87
+    ],
+    "orchard": [
+      88,
+      177
+    ],
+    "point": [
+      89,
+      105,
+      151,
+      157,
+      162,
+      178,
+      256
+    ],
+    "cloud": [
+      90,
+      152,
+      158,
+      163,
+      179,
+      257
+    ],
+    "collected": [
+      93
+    ],
+    "filtered": [
+      95
+    ],
+    "using": [
+      96
+    ],
+    "Point": [
+      98
+    ],
+    "Cloud": [
+      99
+    ],
+    "Library": [
+      100
+    ],
+    "(PCL)": [
+      101
+    ],
+    "extract": [
+      103
+    ],
+    "clouds": [
+      106
+    ],
+    "matching": [
+      108
+    ],
+    "targets.": [
+      109
+    ],
+    "In": [
+      110
+    ],
+    "terms": [
+      111
+    ],
+    "positioning,": [
+      113,
+      128
+    ],
+    "real-time": [
+      115,
+      133
+    ],
+    "position": [
+      116,
+      140
+    ],
+    "determined": [
+      118
+    ],
+    "through": [
+      119,
+      192
+    ],
+    "reliable": [
+      121
+    ],
+    "fusing": [
+      124
+    ],
+    "multiple": [
+      125
+    ],
+    "sensors": [
+      126
+    ],
+    "which": [
+      129
+    ],
+    "involves": [
+      130
+    ],
+    "transforming": [
+      131
+    ],
+    "kinematics": [
+      134
+    ],
+    "(RTK)": [
+      135
+    ],
+    "into": [
+      137
+    ],
+    "initial": [
+      139
+    ],
+    "doing": [
+      142
+    ],
+    "normal": [
+      144,
+      205
+    ],
+    "distribution": [
+      145
+    ],
+    "transformation": [
+      146
+    ],
+    "between": [
+      147
+    ],
+    "current": [
+      149
+    ],
+    "frame": [
+      150
+    ],
+    "scaffold": [
+      155
+    ],
+    "reference": [
+      156
+    ],
+    "match": [
+      160
+    ],
+    "position.": [
+      164
+    ],
+    "For": [
+      165
+    ],
+    "path": [
+      166,
+      183,
+      194,
+      255
+    ],
+    "planning,": [
+      167
+    ],
+    "required": [
+      169
+    ],
+    "vector": [
+      170
+    ],
+    "map": [
+      171
+    ],
+    "manually": [
+      173
+    ],
+    "planned": [
+      174
+    ],
+    "specify": [
+      181
+    ],
+    "roadway,": [
+      186
+    ],
+    "finally,": [
+      188
+    ],
+    "achieved": [
+      191
+    ],
+    "pure": [
+      193
+    ],
+    "tracking.": [
+      195
+    ],
+    "Field": [
+      196
+    ],
+    "tests": [
+      197
+    ],
+    "have": [
+      198
+    ],
+    "shown": [
+      199
+    ],
+    "that": [
+      200,
+      223
+    ],
+    "distributions": [
+      206
+    ],
+    "transform": [
+      207
+    ],
+    "(NDT)": [
+      208
+    ],
+    "SLAM": [
+      209
+    ],
+    "reach": [
+      212
+    ],
+    "5": [
+      213,
+      277
+    ],
+    "cm": [
+      214,
+      278
+    ],
+    "each": [
+      216
+    ],
+    "rank": [
+      217
+    ],
+    "coefficient": [
+      220
+    ],
+    "variation": [
+      222
+    ],
+    "less": [
+      225,
+      248,
+      284
+    ],
+    "than": [
+      226,
+      249,
+      285
+    ],
+    "2%.": [
+      227
+    ],
+    "Additionally,": [
+      228
+    ],
+    "has": [
+      232,
+      291
+    ],
+    "high": [
+      234,
+      293
+    ],
+    "positioning": [
+      235,
+      271
+    ],
+    "heading": [
+      236
+    ],
+    "deviation": [
+      240,
+      246,
+      272,
+      282
+    ],
+    "within": [
+      241,
+      276
+    ],
+    "1°": [
+      242
+    ],
+    "standard": [
+      245,
+      281
+    ],
+    "0.6°": [
+      250
+    ],
+    "when": [
+      251
+    ],
+    "moving": [
+      252
+    ],
+    "along": [
+      253
+    ],
+    "at": [
+      258
+    ],
+    "speed": [
+      260
+    ],
+    "1.0": [
+      262
+    ],
+    "m/s": [
+      263
+    ],
+    "Y-trellis": [
+      266
+    ],
+    "pear": [
+      267
+    ],
+    "orchard.": [
+      268
+    ],
+    "The": [
+      269
+    ],
+    "lateral": [
+      270
+    ],
+    "was": [
+      273
+    ],
+    "also": [
+      274
+    ],
+    "controlled": [
+      275
+    ],
+    "2": [
+      286
+    ],
+    "cm.": [
+      287
+    ],
+    "This": [
+      288
+    ],
+    "level": [
+      294
+    ],
+    "customized": [
+      300
+    ],
+    "specific": [
+      302
+    ],
+    "tasks,": [
+      303
+    ],
+    "making": [
+      304
+    ],
+    "it": [
+      305
+    ],
+    "widely": [
+      306
+    ],
+    "applicable": [
+      307
+    ],
+    "orchards": [
+      310
+    ],
+    "autonomous": [
+      312
+    ],
+    "pesticide": [
+      314
+    ],
+    "sprayers.": [
+      315
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 9
+    }
+  ],
+  "updated_date": "2026-11-12T12:28:57.059296",
+  "created_date": "2023-06-27T00:00:00"
+}

@@ -1,0 +1,55 @@
+# Sintesis Teknis Mendalam (Full-Text): Solusi Pembanding Robot Kebun & Wahana Pengangkang Saluran
+
+Dokumen ini menyarikan hasil pembacaan teks penuh (*full text* — bukan sekadar abstrak) terhadap **5 berkas jurnal pembanding** di folder `solusi_pembanding/` ditambah **2 pustaka induk penuh** di `sumber/referensi jurnal/` (`eng-06-00138.pdf` dan paten `CN115804333A.pdf`) sebagai landasan objektif Bab 1–2 CD-3 (*Decision Matrix / Pugh Scoring*).
+
+> **Koreksi Penting terhadap Catatan Lama:** Paten Tiongkok **`CN 115804333 A`** (`sumber/referensi jurnal/CN115804333A.pdf`, 20 halaman) pada catatan sebelumnya keliru disebut sebagai *"overhead cable-trolley"*. Hasil pemeriksaan naskah penuh paten & Gambar 1–14 membuktikan bahwa `CN 115804333 A` adalah **robot beroda pengangkang saluran air (*canal-straddling wheeled irrigation robot*) bertenaga generator diesel 30 kW dengan meriam semprot 10 kW jangkauan 75 m**. Dari seluruh 7 naskah penuh pembanding yang dibaca di bawah ini, **tidak satu pun** membahas kereta kabel gantung (*overhead cable trolley*). Jika alternatif kereta kabel gantung tetap ingin dimasukkan ke Bab 1 CD-3, referensi paten/jurnal khusus *cable-way orchard sprayer* perlu dicari terpisah, atau alternatif pembanding di Bab 1 CD-3 difokuskan pada kelas wahana beroda/berantai/pengangkang yang buktinya terverifikasi penuh.
+
+---
+
+## 1. Inventaris 7 Pustaka Pembanding *Full-Text* yang Dibaca Mendalam
+
+| Kode | Lokasi Berkas di Repo | Sitasi Utama & ID | Tipe Platform & Spesifikasi Kunci |
+|---|---|---|---|
+| **P-01** | `solusi_pembanding/06_Xia_2023_Frontiers_3DSLAM_fulltext.xml` & `Xia_2023_Frontiers.pdf` | Xia, Y. et al. (2023), *Frontiers in Plant Science* 14:1207742, `PMC10330707`, DOI `10.3389/fpls.2023.1207742` | **4WD *differential-speed* (Songling Scout 2.0)**: $0{,}93\times 0{,}7\times 0{,}35\text{ m}$, *ground clearance* **135 mm**, **payload maks 50 kg**, motor 24 V + 3D LiDAR 16-line (Leishen C16) + RTK-GNSS + IMU 9-axis + laptop Core i7-12700H; **tanpa tangki air/pompa**. |
+| **P-02** | `solusi_pembanding/10_Li_2024_Frontiers_OctreeNav_fulltext.xml` & `Li_2024_Frontiers.pdf` | Li, H. et al. (2025; file `10_Li_2024`), *Frontiers in Plant Science*, `PMC11746033`, DOI `10.3389/fpls.2024.1510683` | **UGV AGILE.X** ($930\times 699\times 349\text{ mm}$) + 3D LiDAR 16-ch + RTK-GNSS + **NVIDIA Jetson AGX Orin** (275 TOPS, 64 GB); hanya navigasi di kebun pir Y-trellis **jalan datar lebar 6,0 m**, **tanpa tangki/aktuator siram**. |
+| **P-03** | `solusi_pembanding/29_Sensors_2023_OrchardRobotUWBLiDAR_PMC10490773.xml` | *Sensors* 23(17):7570 (2023), `PMC10490773`, DOI `10.3390/s23177570` | **Crawler berantai karet** ($1020\times 790\text{ mm}$) motor BLDC **48 V 1500 W (144 N·m)** + RPLiDAR S1 + 2 encoder + **4 *base station* UWB** di 4 sudut kebun kiwi 336 m²; **tanpa tangki/pompa siram**. |
+| **P-04** | `solusi_pembanding/30_Frontiers_2026_HeterogeneousAgRobots_PMC13536900.xml` | Gu, R. et al. (2026), *Frontiers in Plant Science*, `PMC13536900`, DOI `10.3389/fpls.2026.1878431` | *Systematic review* PRISMA atas **131 studi robot pertanian (2023–2026)**: merangkum batas komputasi/biaya komputer industri *on-board*, oklusi komunikasi vegetasi, dan kesenjangan uji lapangan nyata. |
+| **P-05** | `solusi_pembanding/31_Plants_2026_GroundMobileRobotsReview_PMC13119506.xml` | Zhang, H.-W. et al. (2026), *Plants* 15(8):1218, `PMC13119506`, DOI `10.3390/plants15081218` | *Scoping review* atas **283 studi UGV (2018–2026)**: membandingkan sasis beroda vs *tracked* vs *wheel-leg*, selip lumpur, kerusakan LiDAR mekanis akibat getaran, kegagalan RTK di bawah kanopi, dan *edge GPU* 15–65 W. |
+| **P-06** | `../eng-06-00138.pdf` *(induk)* | Elkaoud, N. et al. (2025), *Eng* 6(7):138, DOI `10.3390/eng6070138` | **Robot *traveler gun sprinkler*** beroda pneumatik $400\times 8$ ($1200\times 900\times 550\text{ mm}$), **4× motor roda DC 350 W**, baterai $2\times 36\text{ V }4{,}4\text{ Ah} + 12\text{ V }2{,}2\text{ Ah}$, **menarik selang PVC 1,5" sepanjang 200 m**, **mesin bensin 7 HP + pompa 2" (23 m³/jam)** pada tekanan **4 bar**, *gun* radius **24–28,5 m** (`Wdac` 47,5–57 m). |
+| **P-07** | `../CN115804333A.pdf` *(induk)* | Paten `CN 115804333 A` (pub. 17 Mar 2023), Henan Yungeng Times Robot Tech | **Robot pengangkang saluran (*canal-straddling*) 4 roda** di dua jalur tepi kanal rata: **genset diesel 30 kW**, pompa celup hisap hidrolik ke kanal kontinu, **sprinkler 10 kW semprot 75 m**, motor PMSM 3 kW + servo + dual STM32 + K823 + 4G + 8 ultrasonik + 4 sensor anti-jatuh + IMU. |
+
+---
+
+## 2. Bukti Kuantitatif Kegagalan / Keterbatasan terhadap Kondisi Kebun Ciberes
+
+### A. Kendala Topografi: 3 Parit Galian Tanah (~100 m) + Parit Melintang (`+`) + Tanah Liat Becek
+1. **Rintangan Parit & *Ground Clearance*:** `P-01` (Scout 2.0) hanya memiliki *ground clearance* **135 mm** (`Table 1`); `P-02` memakai sasis AGILE.X identik dan bahkan menerapkan *ground segmentation* dengan ambang ketinggian datar **0,20 m** di atas lorong Y-trellis rata selebar **6,0 m**. Di Ciberes, 3 parit tanah terbuka beserta parit penghubung melintang (`+`) tanpa perkerasan membuat sasis beroda rendah langsung terperosok atau terhenti.
+2. **Selip Lumpur & Runtuh Tepi Parit:** `P-05` (`L318–319, 562–569, 664–675`) menegaskan bahwa **sasis beroda standar hanya cocok untuk lahan datar dan kering**; pada permukaan basah berlumpur terjadi selip roda berat sehingga robot butuh sistem kontrol traksi aktif (*TCS*), estimasi selip waktu-nyata, dan suspensi peredam getaran. Bahkan pada sasis *crawler* 1500 W (`P-03`, `L80–81, 137–138`), **selip rantai (*track slippage*) di tanah gembur menyebabkan akumulasi galat odometri**, sementara simulasinya (`L416–424`) secara eksplisit mengasumsikan tanah keras (< 5 cm tonjolan) karena Gazebo gagal memodelkan deformasi tanah lunak/lumpur. Sementara itu, bobot mesin diesel **30 kW** pada robot pengangkang `P-07` membutuhkan dua jalur jalan rata di kedua tepi saluran berair kontinu (`[0007], [0051]`) dan patennya sendiri mengakui **risiko jatuh ke saluran (`跌落风险`, `[0117–0118]`)**—yang otomatis buntu setiap bertemu parit penghubung melintang (`+`) di Ciberes.
+3. **Kesenjangan Uji Lapangan Nyata:** `P-04` (tinjauan 131 studi) menyatakan secara eksplisit bahwa **lebih dari separuh algoritma kendali UGV hanya diverifikasi di simulasi atau lahan datar terbuka**, dan sangat sedikit yang tahan operasi jangka panjang di medan kebun tidak rata (`L335–337`). `P-05` (tinjauan 283 studi) mengonfirmasi mayoritas UGV **belum siap operasi tanpa pengawasan jangka panjang** di lapangan nyata dan rentan kerusakan LiDAR mekanis akibat getaran serta *thermal throttling* di iklim panas/debu/lumpur (`L73–79, 435–437, 741–748`).
+
+### B. Kendala Muatan Air (`500–600 Pohon × 15 L = 7.500–9.000 L/Siklus`) & Metode Pembasahan
+1. **Tangki Internal (*Payload Trade-Off*):** `P-01` (Scout 2.0) memiliki payload maksimum **50 kg** ($\le 50\text{ L}$ air belum termasuk berat pompa, baterai, dan sensor); `P-02` dan `P-03` bahkan tidak membawa tangki maupun aktuator air. Membawa 50 L per rit untuk 500–600 pohon (7.500–9.000 L) menuntut **150–180+ kali bolak-balik pengisian** tiap siklus, menghabiskan energi baterai untuk mobilitas kosong dan melanggar batas waktu siklus penuh **$\le 4{,}0\text{ jam}$ (`S-03`)**.
+2. **Menarik Selang (*Umbilical Hose*) & *Rain Gun* (`P-06`, `P-07`):**
+   - `P-06` (Elkaoud et al., 2025) menarik selang PVC 1,5" sepanjang **200 m** di stadion datar terbuka tak berpohon dan menyemprotkan *gun sprinkler* tekanan **4 bar** dengan diameter basah **47,5–57 m** (efisiensi turun hingga 64,5% pada kecepatan 50 m/jam, diuji hanya pada kondisi **tanpa angin**).
+   - `P-07` (CN 115804333 A) menyedot air dari kanal bawah menggunakan pompa celup + genset 30 kW untuk menyemprot jarak **75 m** pada tanaman pangan hamparan luas.
+   - Di kebun jeruk limau Ciberes (pohon ~1 m bertajuk rapat di antara parit), menyeret selang 1,5" sejauh 100–200 m akan tersangkut batang/cabang dan melukai tajuk, sedangkan semprotan *rain gun* membasahi tajuk/daun (memicu jamur *Phytophthora* dan pemborosan ke parit/gulma—gagal `S-04` dan `S-11 >= 80%`) serta melanggar `S-12` (emisi 0 g/kWh karena memakai **mesin bensin 7 HP / diesel 30 kW**).
+
+### C. Kendala Navigasi, Komunikasi & Biaya vs Batasan CD-2 (`C-01`, `C-04`, `S-08 <= Rp5 Juta`)
+1. **Kegagalan Sensor Lokalisasi di Kebun:**
+   - **RTK-GNSS** mengalami blokade dan *multipath* di bawah kanopi hingga galat **0,11 m** (`P-02`, `L441–442`; `P-01`, `P-05`).
+   - **UWB** (`P-03`) memerlukan **4 *base station* eksternal bertenaga** di sudut lahan (tidak ada PLN di Ciberes) dan saat terhalang tajuk (*NLOS*), RMSE melonjak dari 0,13 m menjadi **0,93–1,12 m (maks 2,75 m)** (`Tabel 1–2`); fusi LiDAR/ODOM pun sempat meleset **0,923 m** di area minim fitur (`L504–507`).
+   - **Komputasi berat** 3D *point cloud* (`P-01`) memicu gerakan sasis **tersendat (*stutter*)**, sedangkan solusi berbasis Jetson AGX Orin (`P-02`, 15–65 W di `P-05`) atau laptop i7 menguras baterai di luar ruangan tanpa PLN (`C-01`).
+2. **Pelanggaran Plafon Biaya (`S-08 <= Rp5.000.000`):**
+   - Seluruh sistem pembanding yang terverifikasi (`Scout 2.0 + 3D LiDAR + RTK`, `AGILE.X + AGX Orin + 3D LiDAR`, `48V 1500W Crawler + 4 UWB + RPLiDAR`, `4×350W + 7 HP petrol + 200 m hose`, `30 kW diesel straddler`) menuntut anggaran puluhan hingga ratusan juta rupiah—melanggar telak plafon purwarupa **$\le \text{Rp5.000.000}$** dan skala penuh **$\le \text{Rp18.000.000}$**.
+
+---
+
+## 3. Matriks Bukti Penolakan Robot Pembanding di Bab 2 CD-3
+
+| Parameter CD-2 / Tapak Ciberes | Solusi Terpilih: Mikro-Irigasi Tetes Terzonasi Surya | Robot Beroda / *Crawler* Pembawa Tangki (`P-01`–`P-05`) | Robot Penarik Selang / Pengangkang Kanal + *Sprinkler Gun* (`P-06`, `P-07`) |
+|---|---|---|---|
+| **Melintasi Parit (`+`) & Lumpur** | **Unggul:** Pipa PE statis melintasi/menyeberangi parit tanpa bagian mekanik bergerak di tanah. | **Gagal (`P-01`, `P-03`, `P-05`):** *Clearance* 135 mm terhenti; *crawler* selip di lumpur & buntu di parit `+`. | **Gagal (`P-06`, `P-07`):** Selang tersangkut batang; `P-07` jatuh di parit melintang (`跌落风险`). |
+| **Kapasitas Dosis 7.500–9.000 L (`S-01`, `S-03`)** | **Unggul:** Terukur volume per zona via *flow meter* + PC dripper (radius 0,5–0,8 m). | **Gagal (`P-01`):** Payload $\le 50\text{ kg}$ butuh $>150$ isi ulang/siklus. | **Gagal (`P-06`, `P-07`):** Semprotan 25–75 m mengguyur tajuk/parit (boros & picu *Phytophthora*). |
+| **Off-Grid Tanpa PLN & 0 Emisi (`C-01`, `S-12`)** | **Unggul:** PV 100 Wp + LiFePO4 + katup 0 W statis (SELV 12 V DC). | **Lemah (`P-02`, `P-03`, `P-05`):** LiDAR + *edge compute* 15–65 W + traksi 1500 W boros daya. | **Melanggar `S-12`:** Memakai mesin bensin 7 HP (`P-06`) atau genset diesel 30 kW (`P-07`). |
+| **Plafon Biaya `S-08 <= Rp5 Juta`** | **Memenuhi:** Rp 4,3–4,9 juta untuk petak uji lengkap + 100% dapat diperluas. | **Melanggar berat:** Sensor LiDAR/RTK + sasis + komputer jauh di atas Rp 15–100+ juta. | **Melanggar berat:** Mesin bakar + pompa besar + 4 motor 350 W / PMSM 3 kW jauh > Rp 5 juta. |
+

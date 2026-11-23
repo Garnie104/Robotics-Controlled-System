@@ -1,0 +1,1410 @@
+{
+  "id": "https://openalex.org/W4405616211",
+  "doi": "https://doi.org/10.3390/s24248104",
+  "title": "Soil Water Status Monitoring System with Proximal Low-Cost Sensors and LoRa Technology for Smart Water Irrigation in Woody Crops",
+  "display_name": "Soil Water Status Monitoring System with Proximal Low-Cost Sensors and LoRa Technology for Smart Water Irrigation in Woody Crops",
+  "publication_year": 2024,
+  "publication_date": "2024-12-19",
+  "ids": {
+    "openalex": "https://openalex.org/W4405616211",
+    "doi": "https://doi.org/10.3390/s24248104",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39771839",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/11679594"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/s24248104",
+    "doi": "https://doi.org/10.3390/s24248104",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/s24248104",
+    "pdf_url": "https://www.mdpi.com/1424-8220/24/24/8104/pdf?version=1734600003",
+    "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "issn_l": "1424-8220",
+      "issn": [
+        "1424-8220"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "jufo-1",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sensors",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1424-8220/24/24/8104/pdf?version=1734600003",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069784720",
+        "display_name": "Jorge Dafonte Dafonte",
+        "orcid": "https://orcid.org/0000-0003-4305-1521",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-4305-1521"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jorge Dafonte",
+      "raw_affiliation_strings": [
+        "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4305-1521",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003404911",
+        "display_name": "Miguel Ángel González-García",
+        "orcid": "https://orcid.org/0000-0003-2999-8962",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2999-8962"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miguel Ángel González",
+      "raw_affiliation_strings": [
+        "BioMODEM, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2999-8962",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioMODEM, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050249925",
+        "display_name": "Enrique Comesaña",
+        "orcid": "https://orcid.org/0000-0001-8422-5394",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-8422-5394"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Enrique Comesaña",
+      "raw_affiliation_strings": [
+        "Department of Electronics and Computing, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8422-5394",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electronics and Computing, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036260166",
+        "display_name": "María Teresa Teijeiro",
+        "orcid": "https://orcid.org/0000-0001-6179-3348",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6179-3348"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "María Teresa Teijeiro",
+      "raw_affiliation_strings": [
+        "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6179-3348",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5089940375",
+        "display_name": "Javier José Cancela",
+        "orcid": "https://orcid.org/0000-0003-2089-7778",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2089-7778"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Javier J. Cancela",
+      "raw_affiliation_strings": [
+        "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2089-7778",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PROEPLA, Higher Polytechnic School of Engineering, Campus Terra, Universidade de Santiago de Compostela, 27002 Lugo, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5069784720"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I200284239"
+  ],
+  "apc_list": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 2955
+  },
+  "apc_paid": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 2955
+  },
+  "fwci": 5.171,
+  "has_fulltext": true,
+  "cited_by_count": 25,
+  "citation_normalized_percentile": {
+    "value": 0.96367513,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "24",
+    "issue": "24",
+    "first_page": "8104",
+    "last_page": "8104"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10616",
+    "display_name": "Smart Agriculture and AI",
+    "score": 0.9883000254631042,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1110",
+      "display_name": "Plant Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10616",
+      "display_name": "Smart Agriculture and AI",
+      "score": 0.9883000254631042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13420",
+      "display_name": "Arduino and IoT Applications",
+      "score": 0.005400000140070915,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11404",
+      "display_name": "Irrigation Practices and Water Management",
+      "score": 0.002300000051036477,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1111",
+        "display_name": "Soil Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/soil-moisture-monitoring",
+      "display_name": "soil moisture monitoring",
+      "score": 0.8240000009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/vineyard-irrigation",
+      "display_name": "vineyard irrigation",
+      "score": 0.7639999985694885
+    },
+    {
+      "id": "https://openalex.org/keywords/low-cost-sensors",
+      "display_name": "low-cost sensors",
+      "score": 0.6600000262260437
+    },
+    {
+      "id": "https://openalex.org/keywords/lora",
+      "display_name": "LoRa",
+      "score": 0.7649999856948853
+    },
+    {
+      "id": "https://openalex.org/keywords/esp32",
+      "display_name": "ESP32 microcontroller",
+      "score": 0.9549999833106995
+    },
+    {
+      "id": "https://openalex.org/keywords/soil-moisture",
+      "display_name": "soil moisture",
+      "score": 0.6790000200271606
+    },
+    {
+      "id": "https://openalex.org/keywords/matric-potential",
+      "display_name": "matric potential",
+      "score": 0.8659999966621399
+    },
+    {
+      "id": "https://openalex.org/keywords/soil-temperature",
+      "display_name": "soil temperature",
+      "score": 0.7319999933242798
+    },
+    {
+      "id": "https://openalex.org/keywords/air-temperature-and-relative-humidity",
+      "display_name": "air temperature and relative humidity",
+      "score": 0.7730000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/sensor-calibration",
+      "display_name": "sensor calibration",
+      "score": 0.9039999842643738
+    },
+    {
+      "id": "https://openalex.org/keywords/irrigation-scheduling",
+      "display_name": "irrigation scheduling",
+      "score": 0.8159999847412109
+    },
+    {
+      "id": "https://openalex.org/keywords/smart-irrigation",
+      "display_name": "smart irrigation",
+      "score": 0.5699999928474426
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5150808691978455
+    },
+    {
+      "id": "https://openalex.org/C136501162",
+      "wikidata": "https://www.wikidata.org/wiki/Q175957",
+      "display_name": "Arduino",
+      "level": 2,
+      "score": 0.5130552053451538
+    },
+    {
+      "id": "https://openalex.org/C88862950",
+      "wikidata": "https://www.wikidata.org/wiki/Q11453",
+      "display_name": "Irrigation",
+      "level": 2,
+      "score": 0.48461541533470154
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4538778066635132
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.2614402770996094
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/s24248104",
+      "doi": "https://doi.org/10.3390/s24248104",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/s24248104",
+      "pdf_url": "https://www.mdpi.com/1424-8220/24/24/8104/pdf?version=1734600003",
+      "source": {
+        "id": "https://openalex.org/S101949793",
+        "display_name": "Sensors",
+        "issn_l": "1424-8220",
+        "issn": [
+          "1424-8220"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sensors",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11679594",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11679594",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11679594/pdf/sensors-24-08104.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sensors (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmid:39771839",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39771839",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sensors (Basel, Switzerland)",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:c29e6d7f97a34ab19858abc9f31f9696",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/c29e6d7f97a34ab19858abc9f31f9696",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sensors, Vol 24, Iss 24, p 8104 (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:hispana.mcu.es:58735433",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://hispana.mcu.es/es/registros/registro.do?tipoRegistro=MTD&idBib=58735433",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196108",
+        "display_name": "Hispana",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "journal article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/s24248104",
+    "doi": "https://doi.org/10.3390/s24248104",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/s24248104",
+    "pdf_url": "https://www.mdpi.com/1424-8220/24/24/8104/pdf?version=1734600003",
+    "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "issn_l": "1424-8220",
+      "issn": [
+        "1424-8220"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "jufo-1",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sensors",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/2",
+      "display_name": "Zero hunger",
+      "score": 0.9208999872207642
+    },
+    {
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.5378999710083008
+    }
+  ],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5162996091",
+      "display_name": null,
+      "funder_award_id": "PID2019-105039RR-C4",
+      "funder_id": "https://openalex.org/F4320315062",
+      "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+    },
+    {
+      "id": "https://openalex.org/G7147307560",
+      "display_name": null,
+      "funder_award_id": "PID2019-105039RR-C44",
+      "funder_id": "https://openalex.org/F4320322930",
+      "funder_display_name": "Ministerio de Ciencia e Innovación"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320315062",
+      "display_name": "Ministerio de Ciencia, Innovación y Universidades",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320322930",
+      "display_name": "Ministerio de Ciencia e Innovación",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4405616211.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4405616211.grobid-xml"
+  },
+  "referenced_works_count": 27,
+  "referenced_works": [
+    "https://openalex.org/W1980051127",
+    "https://openalex.org/W1998742682",
+    "https://openalex.org/W2106934176",
+    "https://openalex.org/W2544547390",
+    "https://openalex.org/W2775040805",
+    "https://openalex.org/W2911863093",
+    "https://openalex.org/W2912663118",
+    "https://openalex.org/W2945967375",
+    "https://openalex.org/W2946355494",
+    "https://openalex.org/W2964535757",
+    "https://openalex.org/W3038019983",
+    "https://openalex.org/W3064957974",
+    "https://openalex.org/W3083812479",
+    "https://openalex.org/W3092331874",
+    "https://openalex.org/W3107145109",
+    "https://openalex.org/W3138616181",
+    "https://openalex.org/W4206405745",
+    "https://openalex.org/W4281738535",
+    "https://openalex.org/W4287843580",
+    "https://openalex.org/W4313004744",
+    "https://openalex.org/W4316653363",
+    "https://openalex.org/W4321481583",
+    "https://openalex.org/W4321601203",
+    "https://openalex.org/W4388752445",
+    "https://openalex.org/W4389388505",
+    "https://openalex.org/W4403446360",
+    "https://openalex.org/W4404654036"
+  ],
+  "related_works": [
+    "https://openalex.org/W4283207552",
+    "https://openalex.org/W6965374805",
+    "https://openalex.org/W2729372548",
+    "https://openalex.org/W7064033753",
+    "https://openalex.org/W4281875886",
+    "https://openalex.org/W4306362515",
+    "https://openalex.org/W3183247811",
+    "https://openalex.org/W3167617332",
+    "https://openalex.org/W7114909719",
+    "https://openalex.org/W3033273558"
+  ],
+  "abstract_inverted_index": {
+    "Weather": [
+      0
+    ],
+    "and": [
+      1,
+      12,
+      38,
+      61,
+      73,
+      81,
+      119,
+      124,
+      176,
+      193,
+      241,
+      252
+    ],
+    "soil": [
+      2,
+      62,
+      76,
+      78,
+      82,
+      217,
+      222
+    ],
+    "water": [
+      3,
+      83,
+      218
+    ],
+    "dictate": [
+      4
+    ],
+    "farm": [
+      5
+    ],
+    "operations": [
+      6
+    ],
+    "such": [
+      7
+    ],
+    "as": [
+      8
+    ],
+    "irrigation": [
+      9,
+      41,
+      197,
+      244
+    ],
+    "scheduling.": [
+      10
+    ],
+    "Low-cost": [
+      11
+    ],
+    "open-source": [
+      13
+    ],
+    "agricultural": [
+      14
+    ],
+    "monitoring": [
+      15,
+      24,
+      64
+    ],
+    "stations": [
+      16,
+      25
+    ],
+    "are": [
+      17,
+      28
+    ],
+    "an": [
+      18,
+      44,
+      148
+    ],
+    "emerging": [
+      19
+    ],
+    "alternative": [
+      20
+    ],
+    "to": [
+      21,
+      101,
+      147,
+      190,
+      210,
+      226,
+      230,
+      249,
+      254
+    ],
+    "commercially": [
+      22
+    ],
+    "available": [
+      23
+    ],
+    "because": [
+      26
+    ],
+    "they": [
+      27
+    ],
+    "often": [
+      29
+    ],
+    "built": [
+      30
+    ],
+    "from": [
+      31
+    ],
+    "components": [
+      32
+    ],
+    "using": [
+      33,
+      151,
+      181
+    ],
+    "open-source,": [
+      34
+    ],
+    "do-it-yourself": [
+      35
+    ],
+    "(DIY)": [
+      36
+    ],
+    "platforms": [
+      37
+    ],
+    "technologies.": [
+      39
+    ],
+    "For": [
+      40
+    ],
+    "management": [
+      42
+    ],
+    "in": [
+      43,
+      48,
+      220,
+      224
+    ],
+    "experimental": [
+      45
+    ],
+    "vineyard": [
+      46,
+      196,
+      258
+    ],
+    "located": [
+      47
+    ],
+    "Quiroga": [
+      49
+    ],
+    "(Lugo,": [
+      50
+    ],
+    "Spain),": [
+      51
+    ],
+    "we": [
+      52
+    ],
+    "faced": [
+      53
+    ],
+    "the": [
+      54,
+      103,
+      116,
+      122,
+      125,
+      139,
+      145,
+      162,
+      171,
+      174,
+      177,
+      182,
+      200,
+      212,
+      236,
+      239,
+      255
+    ],
+    "challenge": [
+      55,
+      98
+    ],
+    "of": [
+      56,
+      67,
+      170,
+      243
+    ],
+    "installing": [
+      57
+    ],
+    "a": [
+      58,
+      152,
+      156,
+      165
+    ],
+    "low-cost": [
+      59,
+      104
+    ],
+    "environmental": [
+      60
+    ],
+    "parameter": [
+      63
+    ],
+    "station": [
+      65
+    ],
+    "composed": [
+      66
+    ],
+    "several": [
+      68
+    ],
+    "nodes": [
+      69,
+      123,
+      175
+    ],
+    "measuring": [
+      70,
+      216
+    ],
+    "air": [
+      71
+    ],
+    "temperature": [
+      72
+    ],
+    "relative": [
+      74
+    ],
+    "humidity,": [
+      75
+    ],
+    "temperature,": [
+      77
+    ],
+    "matric": [
+      79
+    ],
+    "potential,": [
+      80
+    ],
+    "content.": [
+      84
+    ],
+    "Commercial": [
+      85
+    ],
+    "solutions": [
+      86
+    ],
+    "were": [
+      87
+    ],
+    "either": [
+      88
+    ],
+    "too": [
+      89
+    ],
+    "expensive": [
+      90
+    ],
+    "or": [
+      91
+    ],
+    "did": [
+      92
+    ],
+    "not": [
+      93
+    ],
+    "meet": [
+      94
+    ],
+    "our": [
+      95,
+      109
+    ],
+    "needs.": [
+      96
+    ],
+    "This": [
+      97,
+      111
+    ],
+    "led": [
+      99
+    ],
+    "us": [
+      100
+    ],
+    "design": [
+      102
+    ],
+    "sensor": [
+      105
+    ],
+    "system": [
+      106
+    ],
+    "that": [
+      107
+    ],
+    "fulfilled": [
+      108
+    ],
+    "requirements.": [
+      110
+    ],
+    "node": [
+      112
+    ],
+    "is": [
+      113,
+      127,
+      135,
+      179,
+      188
+    ],
+    "based": [
+      114,
+      137,
+      198
+    ],
+    "on": [
+      115,
+      138,
+      164,
+      199
+    ],
+    "ESP32": [
+      117,
+      140
+    ],
+    "chip,": [
+      118
+    ],
+    "communication": [
+      120
+    ],
+    "between": [
+      121
+    ],
+    "gateway": [
+      126,
+      134,
+      143,
+      178
+    ],
+    "carried": [
+      128
+    ],
+    "out": [
+      129
+    ],
+    "by": [
+      130
+    ],
+    "LoRa": [
+      131
+    ],
+    "technology.": [
+      132
+    ],
+    "The": [
+      133,
+      142,
+      168,
+      185
+    ],
+    "also": [
+      136
+    ],
+    "chip.": [
+      141
+    ],
+    "uploads": [
+      144
+    ],
+    "data": [
+      146,
+      163
+    ],
+    "FTP": [
+      149
+    ],
+    "server": [
+      150
+    ],
+    "Wi-Fi": [
+      153
+    ],
+    "connection": [
+      154
+    ],
+    "with": [
+      155,
+      203
+    ],
+    "4G": [
+      157
+    ],
+    "router": [
+      158
+    ],
+    "while": [
+      159
+    ],
+    "simultaneously": [
+      160
+    ],
+    "storing": [
+      161
+    ],
+    "memory": [
+      166
+    ],
+    "card.": [
+      167
+    ],
+    "programming": [
+      169
+    ],
+    "code": [
+      172
+    ],
+    "for": [
+      173,
+      194,
+      215
+    ],
+    "performed": [
+      180
+    ],
+    "Arduino": [
+      183
+    ],
+    "IDE.": [
+      184
+    ],
+    "equipment": [
+      186
+    ],
+    "developed": [
+      187
+    ],
+    "proven": [
+      189
+    ],
+    "be": [
+      191,
+      247
+    ],
+    "effective": [
+      192
+    ],
+    "managing": [
+      195
+    ],
+    "built-in": [
+      201
+    ],
+    "sensors,": [
+      202
+    ],
+    "replicable": [
+      204
+    ],
+    "results.": [
+      205,
+      233
+    ],
+    "It": [
+      206
+    ],
+    "is,": [
+      207
+    ],
+    "however,": [
+      208
+    ],
+    "essential": [
+      209
+    ],
+    "calibrate": [
+      211
+    ],
+    "capacitive": [
+      213
+    ],
+    "sensors": [
+      214
+    ],
+    "content": [
+      219
+    ],
+    "each": [
+      221
+    ],
+    "type": [
+      223
+    ],
+    "order": [
+      225
+    ],
+    "enhance": [
+      227
+    ],
+    "their": [
+      228
+    ],
+    "ability": [
+      229
+    ],
+    "produce": [
+      231
+    ],
+    "reliable": [
+      232
+    ],
+    "In": [
+      234
+    ],
+    "addition,": [
+      235
+    ],
+    "limits": [
+      237
+    ],
+    "marking": [
+      238
+    ],
+    "beginning": [
+      240
+    ],
+    "end": [
+      242
+    ],
+    "tasks": [
+      245
+    ],
+    "must": [
+      246
+    ],
+    "adjusted": [
+      248
+    ],
+    "local": [
+      250
+    ],
+    "conditions": [
+      251
+    ],
+    "according": [
+      253
+    ],
+    "producer's": [
+      256
+    ],
+    "specific": [
+      257
+    ],
+    "objectives.": [
+      259
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    }
+  ],
+  "updated_date": "2026-11-11T12:16:26.678958",
+  "created_date": "2024-12-20T00:00:00"
+}

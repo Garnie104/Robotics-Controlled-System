@@ -1,0 +1,958 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T20:14:48Z",
+    "timestamp": 1793823288411,
+    "version": "4.6.1"
+  },
+  "reference-count": 53,
+  "publisher": "MDPI AG",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            24
+          ]
+        ],
+        "date-time": "2025-06-24T00:00:00Z",
+        "timestamp": 1750723200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "National Key Research and Development of reclamation technology and equipment for saline-alkali land",
+      "award": [
+        "WSR2023093"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "WSR2023093"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Key Research and Development of reclamation technology and equipment for saline-alkali land",
+      "award": [
+        "SDNYXTTG-2024-15"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "SDNYXTTG-2024-15"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Key Research and Development of reclamation technology and equipment for saline-alkali land",
+      "award": [
+        "2024CGZH14"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024CGZH14"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Key Research and Development of reclamation technology and equipment for saline-alkali land",
+      "award": [
+        "Y20240055"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Y20240055"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrated Demonstration of High-Yield Cultivation and Mechanization Technology for Saline-Alkali Land Oil Crops",
+      "award": [
+        "WSR2023093"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "WSR2023093"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrated Demonstration of High-Yield Cultivation and Mechanization Technology for Saline-Alkali Land Oil Crops",
+      "award": [
+        "SDNYXTTG-2024-15"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "SDNYXTTG-2024-15"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrated Demonstration of High-Yield Cultivation and Mechanization Technology for Saline-Alkali Land Oil Crops",
+      "award": [
+        "2024CGZH14"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024CGZH14"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrated Demonstration of High-Yield Cultivation and Mechanization Technology for Saline-Alkali Land Oil Crops",
+      "award": [
+        "Y20240055"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Y20240055"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Technology Innovation and Industrialization of Saline-Alkali Soil Cultivation and Plowing Joint Equipment",
+      "award": [
+        "WSR2023093"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "WSR2023093"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Technology Innovation and Industrialization of Saline-Alkali Soil Cultivation and Plowing Joint Equipment",
+      "award": [
+        "SDNYXTTG-2024-15"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "SDNYXTTG-2024-15"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Technology Innovation and Industrialization of Saline-Alkali Soil Cultivation and Plowing Joint Equipment",
+      "award": [
+        "2024CGZH14"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024CGZH14"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Technology Innovation and Industrialization of Saline-Alkali Soil Cultivation and Plowing Joint Equipment",
+      "award": [
+        "Y20240055"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Y20240055"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creation of key components for efficient tillage equipment for saline-alkali land",
+      "award": [
+        "WSR2023093"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "WSR2023093"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creation of key components for efficient tillage equipment for saline-alkali land",
+      "award": [
+        "SDNYXTTG-2024-15"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "SDNYXTTG-2024-15"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creation of key components for efficient tillage equipment for saline-alkali land",
+      "award": [
+        "2024CGZH14"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024CGZH14"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creation of key components for efficient tillage equipment for saline-alkali land",
+      "award": [
+        "Y20240055"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Y20240055"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Eng"
+  ],
+  "abstract": "<jats:p>This manuscript addresses the issue of irrigation water management with high efficiency and effectiveness and focuses on systems associated with significant water losses, which is sprinkler irrigation. This article presents mathematical modeling that enables the application of precision irrigation using a gun sprinkler robot. The sprinkler robot was fabricated in the Faculty of Agriculture and Natural Resources workshop at As-wan University. The experiments were conducted using 12, 14, and 16 mm nozzle sizes and three gun heights, 1.25, 1.5, and 2 m, at three forward speeds, 25, 50, and 75 m/h. The results revealed that at nozzle 12, the actual wetted diameter would be less than the theoretical diameter by a percentage of 2–5%, while at nozzle 14, it ranged from 2 to 7%, but at nozzle 16, it increased from 6 to 9%. The values of evaporation and wind drift losses were always less than 2.8 mm. The highest efficiency was achieved at the lowest forward speed (25 m/h) and using a 1.5 m gun height. The highest water application efficiency was 81.8, 82.5, and 81.1% using nozzle 12, nozzle 14, and nozzle 16, respectively. Precise irrigation control using sensor and variable rate technology will be the preferred option in the future.</jats:p>",
+  "DOI": "10.3390/eng6070138",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ],
+    "date-time": "2025-06-24T08:50:57Z",
+    "timestamp": 1750755057000
+  },
+  "page": "138",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Efficient and Effective Irrigation Water Management Using Sprinkler Robot"
+  ],
+  "prefix": "10.3390",
+  "volume": "6",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7291-8564",
+      "authenticated-orcid": false,
+      "given": "Nabil",
+      "family": "Elkaoud",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+        },
+        {
+          "name": "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Saleh",
+      "family": "Ismail",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Soil and Water Department, Faculty of Agriculture, Assiut University, Assiut 71515, Egypt"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ragab",
+      "family": "Mahmoud",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Agricultural Engineering, Al-Azhar University (Assiut Branch), Assiut 71524, Egypt"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hassan",
+      "family": "Taraby",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shuqi",
+      "family": "Shang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+        },
+        {
+          "name": "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dongwei",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+        },
+        {
+          "name": "College of Mechanical & Electronical Engineering, Qingdao Agricultural University, Qingdao 266109, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mostafa",
+      "family": "Rayan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Yellow River Delta Intelligent Agricultural Machinery Equipment Industry Research Academy, Dongying 257300, China"
+        },
+        {
+          "name": "Agricultural Engineering Department, Faculty of Agriculture, Aswan University, Aswan 81528, Egypt"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "10865",
+      "DOI": "10.15446/rfnam.v77n3.110667",
+      "article-title": "Promoting Food Security and Sustainability with A Transportable Indirect Evaporative Solar Pre-Cooler",
+      "volume": "77",
+      "author": "Elkaoud",
+      "year": "2024",
+      "journal-title": "Rev. Fac. Nac. Agron. Medellín"
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chauhdary, J.N., Li, H., Jiang, Y., Pan, X., Hussain, Z., Javaid, M., and Rizwan, M. (2024). Advances in Sprinkler Irrigation: A Review in the Context of Precision Irrigation for Crop Production. Agronomy, 14.",
+      "DOI": "10.3390/agronomy14010047"
+    },
+    {
+      "key": "ref_3",
+      "first-page": "263",
+      "article-title": "The Efficiency Using of Water Resources Under the Environmental Effects in Arab Republic of Egypt",
+      "volume": "37",
+      "author": "Zaky",
+      "year": "2006",
+      "journal-title": "Assiut J. Agric. Sci."
+    },
+    {
+      "key": "ref_4",
+      "first-page": "185",
+      "article-title": "Field evaluation of a prototype self-drawn sprinkler irrigation",
+      "volume": "5",
+      "author": "Rayan",
+      "year": "2022",
+      "journal-title": "Arch. Agric. Sci. J."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.21608/jpd.2022.246259",
+      "article-title": "Estimation of the Economic and Productive Efficiency of Maize Crop Under Different Irrigation Conditions in Beheira Governorate",
+      "volume": "27",
+      "author": "Assail",
+      "year": "2022",
+      "journal-title": "J. Product. Dev."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1353/tcc.2022.0022",
+      "article-title": "Unspeakable Ecology: Eco-Science and Environmental Awareness Through Thick Inquiries, 1910S–1980S",
+      "volume": "47",
+      "author": "Meng",
+      "year": "2022",
+      "journal-title": "Twent.-Century China"
+    },
+    {
+      "key": "ref_7",
+      "first-page": "1291",
+      "article-title": "Current Demand for Water Resources in Egyptian Agriculture",
+      "volume": "27",
+      "author": "Ibrahim",
+      "year": "2019",
+      "journal-title": "Arab Univ. J. Agric. Sci."
+    },
+    {
+      "key": "ref_8",
+      "first-page": "34",
+      "article-title": "An Analytical Economic Study for the Optimal Use of Irrigation Water in Egyptian Agriculture",
+      "volume": "3",
+      "year": "2022",
+      "journal-title": "Aquat. Sci. Fish Resour."
+    },
+    {
+      "key": "ref_9",
+      "first-page": "1",
+      "article-title": "Challenges of water resources management in Egypt and solution opportunities",
+      "volume": "11",
+      "author": "Ezzeldin",
+      "year": "2021",
+      "journal-title": "Constr. Sci. Educ."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1576",
+      "DOI": "10.1080/01904167.2018.1462381",
+      "article-title": "Effect of deficit irrigation on drip-irrigated wheat grown in semi-arid conditions of Upper Egypt",
+      "volume": "41",
+      "author": "Eissa",
+      "year": "2018",
+      "journal-title": "J. Plant Nutr."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ragab, A.M., Zekry, A.A., and Hassan, A.Y. (2023, January 15–17). Innovative Solar Photovoltaic Solutions for Water-Efficient Irrigation: A Comprehensive Algorithmic Approach. Proceedings of the 2023 34th Conference of Open Innovations Association (FRUCT), Riga, Latvia.",
+      "DOI": "10.23919/FRUCT60429.2023.10328160"
+    },
+    {
+      "key": "ref_12",
+      "first-page": "167",
+      "article-title": "Can irrigation water saving options cope with water scarcity in Egypt?",
+      "volume": "6",
+      "author": "Saleh",
+      "year": "2020",
+      "journal-title": "Environ. Sci. Agric. Food Sci."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.2166/wp.2014.063",
+      "article-title": "The development of water markets in China: Progress, peril, and prospects",
+      "volume": "17",
+      "author": "Moore",
+      "year": "2014",
+      "journal-title": "Water Policy"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1414",
+      "DOI": "10.1080/01904167.2018.1454956",
+      "article-title": "Optimum rate of nitrogen fertilization for drip-irrigated wheat under semi-arid conditions",
+      "volume": "41",
+      "author": "Eissa",
+      "year": "2018",
+      "journal-title": "J. Plant Nutr."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "108020",
+      "DOI": "10.1016/j.agwat.2022.108020",
+      "article-title": "Evaluation of variable rate irrigation management in forage crops: Saving water and increasing water productivity",
+      "volume": "275",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liang, Z., Liu, X., Xiong, J., and Xiao, J. (2020). Water Allocation and Integrative Management of Precision Irrigation: A Systematic Review. Water, 12.",
+      "DOI": "10.3390/w12113135"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gunarathna, M.H.J.P., Sakai, K., Nakandakari, T., Kazuro, M., Onodera, T., Kaneshiro, H., Uehara, H., and Wakasugi, K. (2017). Optimized Subsurface Irrigation System (OPSIS): Beyond Traditional Subsurface Irrigation. Water, 9.",
+      "DOI": "10.3390/w9080599"
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dai, H., Wang, R., Chen, L., Wang, L., Xiong, C., Wang, X., and Zhang, M. (2023). Effects of Different Micro-Irrigation Methods on Water Use and the Economic Benefits of an Apple–Soybean Intercropping System. Agronomy, 13.",
+      "DOI": "10.3390/agronomy13041143"
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, Y., Wang, X., Jin, L., Ni, J., Zhu, Y., Cao, W., and Jiang, X. (2025). Research and Development of an IoT Smart Irrigation System for Farmland Based on LoRa and Edge Computing. Agronomy, 15.",
+      "DOI": "10.3390/agronomy15020366"
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, J., Song, Z., Chen, R., Yang, T., and Tian, Z. (2022). Experimental Study on Droplet Characteristics of Rotating Sprinklers with Circular Nozzles and Diffuser. Agriculture, 12.",
+      "DOI": "10.3390/agriculture12070987"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1016/j.agwat.2015.10.004",
+      "article-title": "Analysis of water application with semi-portable big size sprinkler irrigation systems in semi-arid areas",
+      "volume": "163",
+      "author": "Sheikhesmaeili",
+      "year": "2016",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "e27140",
+      "DOI": "10.1016/j.heliyon.2024.e27140",
+      "article-title": "Experimental study on the effects of pressure loss on uniformity, application rate and velocity on different working conditions using the dynamic fluidic sprinkler",
+      "volume": "10",
+      "author": "Zhu",
+      "year": "2024",
+      "journal-title": "Heliyon"
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1146/annurev-environ-081710-161014",
+      "article-title": "Energy Intensity of Agriculture and Food Systems",
+      "volume": "36",
+      "author": "Pelletier",
+      "year": "2011",
+      "journal-title": "Annu. Rev. Environ. Resour."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Adeyemi, O., Grove, I., Peets, S., and Norton, T. (2017). Advanced Monitoring and Management Systems for Improving Sustainability in Precision Irrigation. Sustainability, 9.",
+      "DOI": "10.3390/su9030353"
+    },
+    {
+      "key": "ref_25",
+      "first-page": "128",
+      "article-title": "Drop size distribution of fixed spray-plate sprinklers with two-dimensional video disdrometer",
+      "volume": "148",
+      "author": "Gong",
+      "year": "2014",
+      "journal-title": "Trans. Chin. Soc. Agric. Mach."
+    },
+    {
+      "key": "ref_26",
+      "first-page": "89",
+      "article-title": "Optimization of impact sprinkler sub-nozzle parameters of elevation angle and position",
+      "volume": "31",
+      "author": "Wang",
+      "year": "2015",
+      "journal-title": "Trans. Chin. Soc. Agric. Eng."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "380",
+      "DOI": "10.4028/www.scientific.net/AMM.695.380",
+      "article-title": "Effect of combination factors of operating pressure, nozzle diameter and riser height on sprinkler irrigation uniformity",
+      "volume": "695",
+      "author": "Osman",
+      "year": "2015",
+      "journal-title": "Appl. Mech. Mater."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.13031/2013.22608",
+      "article-title": "Performance and Water Conservation Potential of Multi-Stream, Multi-Trajectory Rotating Sprinklers for Landscape Irrigation",
+      "volume": "23",
+      "author": "Solomon",
+      "year": "2006",
+      "journal-title": "Appl. Eng. Agric."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Semananda, N.P.K., Ward, J.D., and Myers, B.R. (2018). A Semi-Systematic Review of Capillary Irrigation: The Benefits, Limitations, and Opportunities. Horticulturae, 4.",
+      "DOI": "10.3390/horticulturae4030023"
+    },
+    {
+      "key": "ref_30",
+      "first-page": "223",
+      "article-title": "Water distribuition characteristics and soil loss of LEPA Quad-Spray emitter nozzles",
+      "volume": "33",
+      "author": "Ribeiro",
+      "year": "2013",
+      "journal-title": "Eng. Agric."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "333",
+      "DOI": "10.1016/j.biosystemseng.2007.03.001",
+      "article-title": "Effect of nozzle type, size and pressure on spray droplet characteristics",
+      "volume": "97",
+      "author": "Nuyttens",
+      "year": "2007",
+      "journal-title": "Biosyst. Eng."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "8",
+      "DOI": "10.52151/aet2021452.1533",
+      "article-title": "Feasibility studies on raingun method of irrigation system in groundnut",
+      "volume": "45",
+      "author": "Kumar",
+      "year": "2021",
+      "journal-title": "Agric. Eng. Today"
+    },
+    {
+      "key": "ref_33",
+      "first-page": "469",
+      "article-title": "Studies on Pressure-Discharge and Pressure-Radius of Throw Relationships for Rainguns",
+      "volume": "39",
+      "author": "Khedkar",
+      "year": "2014",
+      "journal-title": "J. Agric. Res. Technol."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "108299",
+      "DOI": "10.1016/j.agwat.2023.108299",
+      "article-title": "Critical Factors Influencing Soil Runoff and Erosion in Sprinkler Irrigation: Water Application Rate and Droplet Kinetic Energy",
+      "volume": "283",
+      "author": "Chen",
+      "year": "2023",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen, R., Li, H., Wang, J., and Guo, X. (2020). Effects of Pressure and Nozzle Size on the Spray Characteristics of Low-Pressure Rotating Sprinklers. Water, 12.",
+      "DOI": "10.3390/w12102904"
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "112775",
+      "DOI": "10.1016/j.scienta.2023.112775",
+      "article-title": "Review and Research Prospects on Sprinkler Irrigation Frost Protection for Horticultural Crops",
+      "volume": "326",
+      "author": "Pan",
+      "year": "2024",
+      "journal-title": "Sci. Hortic."
+    },
+    {
+      "key": "ref_37",
+      "unstructured": "Irmak, S., Odhiambo, L.O., Kranz, L.W., and Eisenhauer, D. (2011). EC732. Irrigation Efficiency and Uniformity, and Crop Water Use Efficiency. Biol. Syst. Eng. Pap. Publ., 451, Available online: https://digitalcommons.unl.edu/biosysengfacpub/451."
+    },
+    {
+      "key": "ref_38",
+      "first-page": "109",
+      "article-title": "Design, development and testing of mobile sprinkler rain gun for smart irrigation in arid zone-based crops",
+      "volume": "57",
+      "author": "Yaseen",
+      "year": "2019",
+      "journal-title": "J. Agric. Res."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Faria, L.C., Flores, J.H.N., Fuga, E.C., Nörenberg, B.G., Beskow, S., de Oliveira, H.F.E., do Prado, G., and Colombo, A. (2025). Modeling Water Distribution Uniformity of Medium-Sized Sprinklers Using Artificial Neural Networks. AgriEngineering, 7.",
+      "DOI": "10.3390/agriengineering7020041"
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "75",
+      "DOI": "10.1002/ird.2435",
+      "article-title": "Development in sprinkler irrigation technology in China",
+      "volume": "69",
+      "author": "Yan",
+      "year": "2020",
+      "journal-title": "Irrig. Drainage. Irrig. Drain."
+    },
+    {
+      "key": "ref_41",
+      "first-page": "21",
+      "article-title": "Evaluation of a Traveller Sprinkler System with Various Nozzles",
+      "volume": "1",
+      "author": "Yatheendrdasan",
+      "year": "2020",
+      "journal-title": "Water Product. J."
+    },
+    {
+      "key": "ref_42",
+      "first-page": "1008",
+      "article-title": "Energy consumption analysis of hydraulic turbine of JP75 hose reel irrigator",
+      "volume": "34",
+      "author": "Cheng",
+      "year": "2016",
+      "journal-title": "J. Drain. Irrig. Mach. Eng."
+    },
+    {
+      "key": "ref_43",
+      "first-page": "130",
+      "article-title": "Construction and application of mobile spraying uniformity model of hard hose traveler",
+      "volume": "32",
+      "author": "Ge",
+      "year": "2016",
+      "journal-title": "Trans. CSAE"
+    },
+    {
+      "key": "ref_44",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Abdelhamid, M.A., Abdelkader, T.K., Sayed, H.A.A., Zhang, Z., Zhao, X., and Atia, M.F. (2025). Design and evaluation of a solar powered smart irrigation system for sustainable urban agriculture. Sci. Rep., 15.",
+      "DOI": "10.1038/s41598-025-94251-3"
+    },
+    {
+      "key": "ref_45",
+      "doi-asserted-by": "crossref",
+      "first-page": "108126",
+      "DOI": "10.1016/j.compag.2023.108126",
+      "article-title": "A planning strategy for sprinkler-based variable rate irrigation",
+      "volume": "212",
+      "author": "Penzotti",
+      "year": "2023",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "ref_46",
+      "doi-asserted-by": "crossref",
+      "first-page": "1071",
+      "DOI": "10.13031/2013.30522",
+      "article-title": "Measurement of low-pressure sprinkler evaporation loss",
+      "volume": "30",
+      "author": "Kohl",
+      "year": "1987",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "ref_47",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/j.biosystemseng.2006.10.004",
+      "article-title": "Improving irrigation performance in hose-drawn traveller sprinkler systems",
+      "volume": "96",
+      "author": "Silva",
+      "year": "2007",
+      "journal-title": "Biosyst. Eng."
+    },
+    {
+      "key": "ref_48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sallam, A.N., Zabady, F.I., Hassan, A.M., and Elmashad, M.M. (2024). Study of Temporal Changes in Subsurface Drainage in Land-Scape. Al-Azhar J. Agric. Eng., 7.",
+      "DOI": "10.21608/azeng.2024.286698.1014"
+    },
+    {
+      "key": "ref_49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Shaban, K.M., El-Gamal, T.T., Abu El-Khair, R., Osama, M., El-Naser, A., and Khaled, H. (2023). Implications of different irrigation water qualities on crop production: A case study of Sharkia Governorate. Al-Azhar J. Agric. Eng., 5.",
+      "DOI": "10.21608/azeng.2023.308716"
+    },
+    {
+      "key": "ref_50",
+      "first-page": "427",
+      "article-title": "Influence of compost and canal clay scouring on sandy soil properties and wheat productivity under irrigation water regime",
+      "volume": "10",
+      "author": "Abdeen",
+      "year": "2021",
+      "journal-title": "Int. J. Recycl. Org. Waste Agric."
+    },
+    {
+      "key": "ref_51",
+      "first-page": "23",
+      "article-title": "Review of intelligent sprinkler irrigation technologies for remote autonomous system",
+      "volume": "11",
+      "author": "Zhu",
+      "year": "2018",
+      "journal-title": "Int. J. Agric. Biol. Eng."
+    },
+    {
+      "key": "ref_52",
+      "first-page": "1",
+      "article-title": "Overview of emerging technologies in sprinkler irrigation to optimize crop production",
+      "volume": "12",
+      "author": "Li",
+      "year": "2019",
+      "journal-title": "Int. J. Agric. Biol. Eng."
+    },
+    {
+      "key": "ref_53",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Babaousmail, M., Nili, M.S., Brik, R., Saadouni, M., Yousif, S.K.M., Omer, R.M., Osman, N.A., Alsahli, A.A., Ashour, H., and El-Taher, A.M. (2022). Improving the Tolerance to Salinity Stress in Lettuce Plants (Lactuca sativa L.) Using Exogenous Application of Salicylic Acid, Yeast, and Zeolite. Life, 12.",
+      "DOI": "10.3390/life12101538"
+    }
+  ],
+  "container-title": [
+    "Eng"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2673-4117/6/7/138/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T17:57:43Z",
+    "timestamp": 1760032663000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2673-4117/6/7/138"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ]
+  },
+  "references-count": 53,
+  "journal-issue": {
+    "issue": "7",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "eng6070138"
+  ],
+  "URL": "https://doi.org/10.3390/eng6070138",
+  "relation": {},
+  "ISSN": [
+    "2673-4117"
+  ],
+  "issn-type": [
+    {
+      "value": "2673-4117",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ]
+  }
+}

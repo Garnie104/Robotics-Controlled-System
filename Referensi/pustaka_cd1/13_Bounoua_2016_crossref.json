@@ -1,0 +1,624 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           10,
+                                                           5
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-10-05T18:12:05Z",
+                                    "timestamp":  1791223925783,
+                                    "version":  "4.1.0"
+                                },
+                    "reference-count":  32,
+                    "publisher":  "Springer Science and Business Media LLC",
+                    "issue":  "4",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2016,
+                                                                             4,
+                                                                             30
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2016-04-30T00:00:00Z",
+                                                      "timestamp":  1461974400000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "http://www.springer.com/tdm"
+                                    }
+                                ],
+                    "content-domain":  {
+                                           "domain":  [
+                                                          "link.springer.com"
+                                                      ],
+                                           "crossmark-restriction":  false
+                                       },
+                    "short-container-title":  [
+                                                  "Irrig Sci"
+                                              ],
+                    "published-print":  {
+                                            "date-parts":  [
+                                                               [
+                                                                   2016,
+                                                                   7
+                                                               ]
+                                                           ]
+                                        },
+                    "DOI":  "10.1007/s00271-016-0506-8",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2016,
+                                                           4,
+                                                           30
+                                                       ]
+                                                   ],
+                                    "date-time":  "2016-04-30T16:54:46Z",
+                                    "timestamp":  1462035286000
+                                },
+                    "page":  "327-342",
+                    "update-policy":  "https://doi.org/10.1007/springer_crossmark_policy",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  74,
+                    "title":  [
+                                  "Understanding physical clogging in drip irrigation: in situ, in-lab and numerical approaches"
+                              ],
+                    "prefix":  "10.1007",
+                    "volume":  "34",
+                    "author":  [
+                                   {
+                                       "given":  "Salim",
+                                       "family":  "Bounoua",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Séverine",
+                                       "family":  "Tomas",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Jérôme",
+                                       "family":  "Labille",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Bruno",
+                                       "family":  "Molle",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Jacques",
+                                       "family":  "Granier",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Pierre",
+                                       "family":  "Haldenwang",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Surani Nuur",
+                                       "family":  "Izzati",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "297",
+                    "published-online":  {
+                                             "date-parts":  [
+                                                                [
+                                                                    2016,
+                                                                    4,
+                                                                    30
+                                                                ]
+                                                            ]
+                                         },
+                    "reference":  [
+                                      {
+                                          "issue":  "34",
+                                          "key":  "506_CR1",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "201",
+                                          "DOI":  "10.1016/S0169-1317(99)00040-X",
+                                          "volume":  "16",
+                                          "author":  "S Abend",
+                                          "year":  "2000",
+                                          "unstructured":  "Abend S, Lagaly G (2000) Dsol-gel transitions of sodium montmorillonite dispersions. Appl Clay Sci 16(34):201–227",
+                                          "journal-title":  "Appl Clay Sci"
+                                      },
+                                      {
+                                          "key":  "506_CR2",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "813",
+                                          "DOI":  "10.1061/(ASCE)0733-9437(1991)117:6(813)",
+                                          "volume":  "117",
+                                          "author":  "A Adin",
+                                          "year":  "1991",
+                                          "unstructured":  "Adin A, Sacks M (1991) Dripper-clogging factors in wastewater irrigation. J Irrig Drain Eng 117:813–826",
+                                          "journal-title":  "J Irrig Drain Eng"
+                                      },
+                                      {
+                                          "key":  "506_CR3",
+                                          "unstructured":  "Bounoua S (2010) Etude du colmatage des systèmes d’irrigation localisée. PhD thesis, Aix-Marseille University"
+                                      },
+                                      {
+                                          "issue":  "4",
+                                          "key":  "506_CR4",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "355",
+                                          "DOI":  "10.1006/jaer.1998.0287",
+                                          "volume":  "70",
+                                          "author":  "A Capra",
+                                          "year":  "1998",
+                                          "unstructured":  "Capra A, Scicolone B (1998) Water quality and distribution uniformity in drip/trickle irrigation systems. J Agric Eng Res 70(4):355–365",
+                                          "journal-title":  "J Agric Eng Res"
+                                      },
+                                      {
+                                          "key":  "506_CR5",
+                                          "unstructured":  "Chossat J (1995) Entretient en micro-irrigation, vol 19, 2e edn., Collection étude du Cemagref serie Equipement pour l eau et l environnement, Antony"
+                                      },
+                                      {
+                                          "key":  "506_CR6",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "705",
+                                          "DOI":  "10.1080/00288230709510341",
+                                          "volume":  "50",
+                                          "author":  "Y Dazhuang",
+                                          "year":  "2007",
+                                          "unstructured":  "Dazhuang Y, Peiling Y, Shumei R, Yunkai L, Tingwu X (2007) Numerical study on flow property in dentate path of drip emitters. N Zeal J Agric Res 50:705–712",
+                                          "journal-title":  "N Zeal J Agric Res"
+                                      },
+                                      {
+                                          "key":  "506_CR7",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "159",
+                                          "DOI":  "10.1016/0378-3774(81)90001-9",
+                                          "volume":  "3",
+                                          "author":  "R Gilbert",
+                                          "year":  "1981",
+                                          "unstructured":  "Gilbert R, Nakayama F, Bucks D, French O, Adamson K (1981) Trickle irrigation: emitter clogging and other flow problems. Agric Water Manag 3:159–178",
+                                          "journal-title":  "Agric Water Manag"
+                                      },
+                                      {
+                                          "key":  "506_CR8",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1982",
+                                          "DOI":  "10.1016/j.ijheatmasstransfer.2004.12.019",
+                                          "volume":  "48",
+                                          "author":  "G Hetsroni",
+                                          "year":  "2005",
+                                          "unstructured":  "Hetsroni G, Mosyak A, Pogrebnyak E, Yarin L (2005) Fluid flow in micro-channels. Int J Heat Mass Transf 48:1982–1998",
+                                          "journal-title":  "Int J Heat Mass Transf"
+                                      },
+                                      {
+                                          "issue":  "4",
+                                          "key":  "506_CR9",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1202",
+                                          "DOI":  "10.13031/2013.31135",
+                                          "volume":  "32",
+                                          "author":  "D Hills",
+                                          "year":  "1989",
+                                          "unstructured":  "Hills D, Nawaar F, Waller P (1989) Effects of chemical clogging on drip-tape uniformity. Trans ASAE 32(4):1202–1206",
+                                          "journal-title":  "Trans ASAE"
+                                      },
+                                      {
+                                          "key":  "506_CR10",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "165",
+                                          "DOI":  "10.1016/0021-8634(77)90060-9",
+                                          "volume":  "22",
+                                          "author":  "D Karmeli",
+                                          "year":  "1977",
+                                          "unstructured":  "Karmeli D (1977) Classification and flow regime analysis of drippers. J Agric Eng Res 22:165–173",
+                                          "journal-title":  "J Agric Eng Res"
+                                      },
+                                      {
+                                          "key":  "506_CR11",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "109",
+                                          "DOI":  "10.1017/S0022112094002703",
+                                          "volume":  "277",
+                                          "author":  "J Kulick",
+                                          "year":  "1994",
+                                          "unstructured":  "Kulick J, Fessler J, Eaton J (1994) Particle response and turbulence modification in fully developed channel flow. J Fluid Mech 277:109–134",
+                                          "journal-title":  "J Fluid Mech"
+                                      },
+                                      {
+                                          "key":  "506_CR12",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "173",
+                                          "DOI":  "10.1180/0009855033820087",
+                                          "volume":  "38",
+                                          "author":  "J Labille",
+                                          "year":  "2003",
+                                          "unstructured":  "Labille J, Thomas F, Bihannic I, Santaella C (2003) Destabilization of montmorillonite suspensions by Ca $$^2+$$ 2 + and succinoglycan. Clay Miner 38:173–185",
+                                          "journal-title":  "Clay Miner"
+                                      },
+                                      {
+                                          "key":  "506_CR13",
+                                          "volume-title":  "Treated wastewater in agriculture: use and impacts on the soil environments and crops",
+                                          "author":  "G Levy",
+                                          "year":  "2011",
+                                          "unstructured":  "Levy G, Fine P, Bart-Tal A (2011) Treated wastewater in agriculture: use and impacts on the soil environments and crops. Wiley-Blackwell, Hoboken"
+                                      },
+                                      {
+                                          "key":  "506_CR14",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "123",
+                                          "DOI":  "10.1016/j.ijheatfluidflow.2005.02.003",
+                                          "volume":  "27",
+                                          "author":  "H Li",
+                                          "year":  "2006",
+                                          "unstructured":  "Li H, Olsen M (2006) Micropiv measurements of turbulent flow in square microchannels with hydraulic diameters from 200 $$\\mu$$ μ m to 640 $$\\mu$$ μ m. Int J Heat Fluid Flow 27:123–134",
+                                          "journal-title":  "Int J Heat Fluid Flow"
+                                      },
+                                      {
+                                          "key":  "506_CR15",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1269",
+                                          "DOI":  "10.1016/j.ijheatmasstransfer.2006.09.016",
+                                          "volume":  "50",
+                                          "author":  "K Lin",
+                                          "year":  "2007",
+                                          "unstructured":  "Lin K, Yang J (2007) Chaotic mixing of fluids in a planar serpentine channel. Int J Heat Mass Transf 50:1269–1277",
+                                          "journal-title":  "Int J Heat Mass Transf"
+                                      },
+                                      {
+                                          "key":  "506_CR16",
+                                          "unstructured":  "Luo H (1993) Coalescence, breakup and liquid circulation in bubble column reactors. Ph.D. thesis, Norwegian Institute of Technology, Trondheim, Norway"
+                                      },
+                                      {
+                                          "key":  "506_CR17",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "187",
+                                          "DOI":  "10.1007/BF00190522",
+                                          "volume":  "12",
+                                          "author":  "F Nakayama",
+                                          "year":  "1991",
+                                          "unstructured":  "Nakayama F, Bucks D (1991) Water quality in drip/trickle irrigation. Irrig Sci 12:187–192",
+                                          "journal-title":  "Irrig Sci"
+                                      },
+                                      {
+                                          "key":  "506_CR18",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "545",
+                                          "DOI":  "10.1007/s00271-012-0328-2",
+                                          "volume":  "31",
+                                          "author":  "W Niu",
+                                          "year":  "2013",
+                                          "unstructured":  "Niu W, Liu L, Chen X (2013) Influence of fine particle size and concentration on the clogging of labyrinth emitters. Irrig Sci 31:545–555",
+                                          "journal-title":  "Irrig Sci"
+                                      },
+                                      {
+                                          "issue":  "8",
+                                          "key":  "506_CR19",
+                                          "first-page":  "1496",
+                                          "volume":  "46",
+                                          "author":  "D Pfund",
+                                          "year":  "2000",
+                                          "unstructured":  "Pfund D, Rector D, Shekarriz A (2000) Pressure drop measurements in a microchannel. Fluid Mech Transp Phenom 46(8):1496–1507",
+                                          "journal-title":  "Fluid Mech Transp Phenom"
+                                      },
+                                      {
+                                          "key":  "506_CR20",
+                                          "volume-title":  "Causes and prevention of emitter plugging in microirrigation systems, Florida Cooperative Extension Service Bulletin",
+                                          "author":  "D Pitts",
+                                          "year":  "1990",
+                                          "unstructured":  "Pitts D, Haman D, Smajstra A (1990) Causes and prevention of emitter plugging in microirrigation systems, Florida Cooperative Extension Service Bulletin, vol 258. University of Florida, Florida"
+                                      },
+                                      {
+                                          "key":  "506_CR21",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "294",
+                                          "DOI":  "10.1016/j.compag.2008.03.008",
+                                          "volume":  "63",
+                                          "author":  "W Qingsong",
+                                          "year":  "2008",
+                                          "unstructured":  "Qingsong W, Gang L, Jie L, Yusheng S, Wenchu D, Shuhuai H (2008) Evaluations of emitter clogging in drip irrigation by two-phase flow simulations and laboratory experiments. Comput Electron Agric 63:294–303",
+                                          "journal-title":  "Comput Electron Agric"
+                                      },
+                                      {
+                                          "key":  "506_CR22",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "2549",
+                                          "DOI":  "10.1016/S0017-9310(01)00337-4",
+                                          "volume":  "45",
+                                          "author":  "W Qu",
+                                          "year":  "2002",
+                                          "unstructured":  "Qu W, Mudawar I (2002) Experimental and numerical study of pressure drop and heat transfer in a single-phase micro-channel heat sink. Int J Heat Mass Transf 45:2549–2565",
+                                          "journal-title":  "Int J Heat Mass Transf"
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "506_CR23",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "163",
+                                          "DOI":  "10.1111/j.1365-2389.1955.tb00841.x",
+                                          "volume":  "6",
+                                          "author":  "J Quirk",
+                                          "year":  "1955",
+                                          "unstructured":  "Quirk J, Schofield R (1955) The effect of electrolyte concentration on soil permeability. J Soil Sci 6(2):163–178",
+                                          "journal-title":  "J Soil Sci"
+                                      },
+                                      {
+                                          "key":  "506_CR24",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "129",
+                                          "DOI":  "10.1007/BF00191055",
+                                          "volume":  "13",
+                                          "author":  "I Ravina",
+                                          "year":  "1992",
+                                          "unstructured":  "Ravina I, Paz E, Sofer Z, Marcu A, Schisha A, Sagi G (1992) Control of emitter clogging in drip irrigation with reclaimed wastewater. Irrig Sci 13:129–139",
+                                          "journal-title":  "Irrig Sci"
+                                      },
+                                      {
+                                          "issue":  "1",
+                                          "key":  "506_CR25",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "214",
+                                          "DOI":  "10.1016/j.jcis.2007.09.052",
+                                          "volume":  "317",
+                                          "author":  "S Santiwong",
+                                          "year":  "2008",
+                                          "unstructured":  "Santiwong S, Guan J, Waite T (2008) Effect of ionic strength and ph on hydraulic properties and structure of accumulating solid assemblages during microfiltration of montmorillonite suspensions. J Colloid Interface Sci 317(1):214–227",
+                                          "journal-title":  "J Colloid Interface Sci"
+                                      },
+                                      {
+                                          "key":  "506_CR26",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "741",
+                                          "DOI":  "10.1007/s00348-003-0753-3",
+                                          "volume":  "36",
+                                          "author":  "K Sharp",
+                                          "year":  "2004",
+                                          "unstructured":  "Sharp K, Adrian R (2004) Transition from laminar to turbulent flow in liquid filled microtubes. Exp Fluids 36:741–747",
+                                          "journal-title":  "Exp Fluids"
+                                      },
+                                      {
+                                          "issue":  "6",
+                                          "key":  "506_CR27",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "617",
+                                          "DOI":  "10.1346/CCMN.1990.0380607",
+                                          "volume":  "38",
+                                          "author":  "J Stawinski",
+                                          "year":  "1990",
+                                          "unstructured":  "Stawinski J, Wierzchos J, Garcia-Gonzalez M (1990) Influence of calcium and sodium concentration on the microstructure of bentonite and kaolin. Clays Clay Miner 38(6):617–622",
+                                          "journal-title":  "Clays Clay Miner"
+                                      },
+                                      {
+                                          "key":  "506_CR28",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "235",
+                                          "DOI":  "10.1017/S0022112007006556",
+                                          "volume":  "584",
+                                          "author":  "A Vreman",
+                                          "year":  "2007",
+                                          "unstructured":  "Vreman A (2007) Turbulence characteristics of particle-laden pipe flow. J Fluid Mech 584:235–279",
+                                          "journal-title":  "J Fluid Mech"
+                                      },
+                                      {
+                                          "key":  "506_CR29",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "130",
+                                          "DOI":  "10.1016/j.agwat.2006.01.016",
+                                          "volume":  "84",
+                                          "author":  "Q Wei",
+                                          "year":  "2006",
+                                          "unstructured":  "Wei Q, Yusheng S, Wenchu D, Gang L, Shuhuai H (2006) Study on hydraulic performance of drip emitters by computational fluid dynamics. Agric Water Manag 84:130–136",
+                                          "journal-title":  "Agric Water Manag"
+                                      },
+                                      {
+                                          "key":  "506_CR30",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "729",
+                                          "DOI":  "10.3901/CJME.2012.04.729",
+                                          "volume":  "25",
+                                          "author":  "Z Wei",
+                                          "year":  "2012",
+                                          "unstructured":  "Wei Z, Cao M, Liu X, Tang Y, Lu B (2012) Flow behaviour analysis and experimental investigation for emitter micro-channels. Chin J Mech Eng 25:729–737",
+                                          "journal-title":  "Chin J Mech Eng"
+                                      },
+                                      {
+                                          "key":  "506_CR31",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "273",
+                                          "DOI":  "10.1016/0011-2275(83)90150-9",
+                                          "volume":  "23",
+                                          "author":  "P Wu",
+                                          "year":  "1983",
+                                          "unstructured":  "Wu P, Little W (1983) Measurement of friction factor for flow of gases in very fine channels used for micro-miniature Joule Thompson refrigerators. Cryogenics 23:273–277",
+                                          "journal-title":  "Cryogenics"
+                                      },
+                                      {
+                                          "issue":  "15",
+                                          "key":  "506_CR32",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "779",
+                                          "DOI":  "10.1016/0301-9322(92)90045-I",
+                                          "volume":  "18",
+                                          "author":  "Z Yuan",
+                                          "year":  "1992",
+                                          "unstructured":  "Yuan Z, Michaenidies E (1992) Turbulence modulation in particle flows—a theoretical approach. Int J Multiph Flow 18(15):779–785",
+                                          "journal-title":  "Int J Multiph Flow"
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "Irrigation Science"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "http://link.springer.com/content/pdf/10.1007/s00271-016-0506-8.pdf",
+                                     "content-type":  "application/pdf",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "http://link.springer.com/article/10.1007/s00271-016-0506-8/fulltext.html",
+                                     "content-type":  "text/html",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "http://link.springer.com/content/pdf/10.1007/s00271-016-0506-8",
+                                     "content-type":  "unspecified",
+                                     "content-version":  "vor",
+                                     "intended-application":  "similarity-checking"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2019,
+                                                             5,
+                                                             24
+                                                         ]
+                                                     ],
+                                      "date-time":  "2019-05-24T18:05:48Z",
+                                      "timestamp":  1558721148000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "http://link.springer.com/10.1007/s00271-016-0506-8"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2016,
+                                                          4,
+                                                          30
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  32,
+                    "journal-issue":  {
+                                          "issue":  "4",
+                                          "published-print":  {
+                                                                  "date-parts":  [
+                                                                                     [
+                                                                                         2016,
+                                                                                         7
+                                                                                     ]
+                                                                                 ]
+                                                              }
+                                      },
+                    "alternative-id":  [
+                                           "506"
+                                       ],
+                    "URL":  "https://doi.org/10.1007/s00271-016-0506-8",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "0342-7188",
+                                 "1432-1319"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "0342-7188",
+                                          "type":  "print"
+                                      },
+                                      {
+                                          "value":  "1432-1319",
+                                          "type":  "electronic"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2016,
+                                                             4,
+                                                             30
+                                                         ]
+                                                     ]
+                                  }
+                }
+}

@@ -1,0 +1,1042 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           9,
+                                                           17
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-09-17T01:41:51Z",
+                                    "timestamp":  1789609311079,
+                                    "version":  "build-2803163510"
+                                },
+                    "reference-count":  56,
+                    "publisher":  "Elsevier BV",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://www.elsevier.com/tdm/userlicense/1.0/"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "tdm",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://www.elsevier.com/legal/tdmrep-license"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "stm-asf",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://doi.org/10.15223/policy-017"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "stm-asf",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://doi.org/10.15223/policy-037"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "stm-asf",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://doi.org/10.15223/policy-012"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "stm-asf",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://doi.org/10.15223/policy-029"
+                                    },
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2022,
+                                                                             8,
+                                                                             1
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2022-08-01T00:00:00Z",
+                                                      "timestamp":  1659312000000
+                                                  },
+                                        "content-version":  "stm-asf",
+                                        "delay-in-days":  0,
+                                        "URL":  "https://doi.org/10.15223/policy-004"
+                                    }
+                                ],
+                    "funder":  [
+                                   {
+                                       "DOI":  "10.13039/501100002858",
+                                       "name":  "China Postdoctoral Science Foundation",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "BX2021363"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "BX2021363"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100002858",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   },
+                                   {
+                                       "DOI":  "10.13039/501100001809",
+                                       "name":  "National Natural Science Foundation of China",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "51790531"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "51790531"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100001809",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   },
+                                   {
+                                       "DOI":  "10.13039/501100001809",
+                                       "name":  "National Natural Science Foundation of China",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "51621061"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "51621061"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100001809",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   }
+                               ],
+                    "content-domain":  {
+                                           "domain":  [
+                                                          "elsevier.com",
+                                                          "sciencedirect.com"
+                                                      ],
+                                           "crossmark-restriction":  true
+                                       },
+                    "short-container-title":  [
+                                                  "Agricultural Water Management"
+                                              ],
+                    "published-print":  {
+                                            "date-parts":  [
+                                                               [
+                                                                   2022,
+                                                                   8
+                                                               ]
+                                                           ]
+                                        },
+                    "DOI":  "10.1016/j.agwat.2022.107738",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2022,
+                                                           5,
+                                                           26
+                                                       ]
+                                                   ],
+                                    "date-time":  "2022-05-26T17:03:57Z",
+                                    "timestamp":  1653584637000
+                                },
+                    "page":  "107738",
+                    "update-policy":  "https://doi.org/10.1016/elsevier_cm_policy",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  78,
+                    "special_numbering":  "C",
+                    "title":  [
+                                  "Physical, chemical and biological emitter clogging behaviors in drip irrigation systems using high-sediment loaded water"
+                              ],
+                    "prefix":  "10.1016",
+                    "volume":  "270",
+                    "author":  [
+                                   {
+                                       "given":  "Yan",
+                                       "family":  "Shen",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Jaume",
+                                       "family":  "Puig-Bargués",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Mengyao",
+                                       "family":  "Li",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Yang",
+                                       "family":  "Xiao",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Qiang",
+                                       "family":  "Li",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Yunkai",
+                                       "family":  "Li",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "78",
+                    "reference":  [
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib1",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "327",
+                                          "DOI":  "10.1007/s00271-016-0506-8",
+                                          "article-title":  "Understanding physical clogging in drip irrigation: in situ, in-lab and numerical approaches",
+                                          "volume":  "34",
+                                          "author":  "Bounoua",
+                                          "year":  "2016",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib2",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "296",
+                                          "DOI":  "10.1016/j.agwat.2016.06.031",
+                                          "article-title":  "Development of a new underdrain for improving the efficiency of microirrigation sand media filters",
+                                          "volume":  "179",
+                                          "author":  "Bove",
+                                          "year":  "2017",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib3",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "32",
+                                          "DOI":  "10.1016/j.desal.2012.09.015",
+                                          "article-title":  "Water softening using microbial desalination cell technology",
+                                          "volume":  "309",
+                                          "author":  "Brastad",
+                                          "year":  "2013",
+                                          "journal-title":  "Desalination"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib4",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.1016/j.apsoil.2019.03.011",
+                                          "article-title":  "Linking cropland ecosystem services to microbiome taxonomic composition and functional composition in a sandy loam soil with 28-year organic and inorganic fertilizer regimes",
+                                          "volume":  "139",
+                                          "author":  "Chen",
+                                          "year":  "2019",
+                                          "journal-title":  "Appl. Soil Ecol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib5",
+                                          "first-page":  "1",
+                                          "article-title":  "Irrigation by sprinkling",
+                                          "volume":  "670",
+                                          "author":  "Christiansen",
+                                          "year":  "1942",
+                                          "journal-title":  "Calif. Agric."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib6",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.1016/j.envsci.2020.02.010",
+                                          "article-title":  "Using nature-based water storage for smallholder irrigated agriculture in African drylands: lessons from frugal innovation pilots in Mozambique and Zimbabwe",
+                                          "volume":  "107",
+                                          "author":  "Duker",
+                                          "year":  "2020",
+                                          "journal-title":  "Environ. Sci. Policy"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib7",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.agwat.2020.106342",
+                                          "article-title":  "Shifting or drifting? The crisis-driven advancement and failure of private smallholder irrigation from sand river aquifers in southern arid Zimbabwe",
+                                          "volume":  "241",
+                                          "author":  "Duker",
+                                          "year":  "2020",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib8",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "67",
+                                          "DOI":  "10.1016/j.agwat.2008.06.005",
+                                          "article-title":  "Effect of filter, emitter and location on clogging when using effluents",
+                                          "volume":  "96",
+                                          "author":  "Duran-Ros",
+                                          "year":  "2009",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib9",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "105",
+                                          "DOI":  "10.1007/s00271-018-0605-9",
+                                          "article-title":  "Composite clogging characteristics of emitters in drip irrigation systems",
+                                          "volume":  "37",
+                                          "author":  "Feng",
+                                          "year":  "2019",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib10",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.biortech.2019.121725",
+                                          "article-title":  "Isolation and identification of a salt-tolerant aerobic denitrifying bacterial strain and its application to saline wastewater treatment in constructed wetlands",
+                                          "volume":  "290",
+                                          "author":  "Fu",
+                                          "year":  "2019",
+                                          "journal-title":  "Bioresour. Technol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib11",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "565",
+                                          "DOI":  "10.1016/S0022-0248(99)00051-2",
+                                          "article-title":  "Experimental investigation of calcium silicate hydrate (C-S-H) nucleation",
+                                          "volume":  "200",
+                                          "author":  "Garrault-Gauffinet",
+                                          "year":  "1999",
+                                          "journal-title":  "J. Cryst. Growth"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib12",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "318",
+                                          "DOI":  "10.1016/j.geoderma.2008.12.010",
+                                          "article-title":  "Long-term manure and fertilizer effects on soil organic matter fractions and microbes under a wheat-maize cropping system in northern China",
+                                          "volume":  "149",
+                                          "author":  "Gong",
+                                          "year":  "2009",
+                                          "journal-title":  "Geoderma"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib13",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "82",
+                                          "DOI":  "10.1016/j.jmst.2020.03.089",
+                                          "article-title":  "Marine bacteria inhibit corrosion of steel via synergistic biomineralization",
+                                          "volume":  "66",
+                                          "author":  "Guo",
+                                          "year":  "2020",
+                                          "journal-title":  "J. Mater. Sci. Technol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib14",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "136",
+                                          "DOI":  "10.1016/j.agwat.2018.08.024",
+                                          "article-title":  "An in-situ accelerated experimental testing method for drip irrigation emitter clogging with inferior water",
+                                          "volume":  "212",
+                                          "author":  "Han",
+                                          "year":  "2019",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib15",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "151",
+                                          "DOI":  "10.1007/s00271-021-00765-9",
+                                          "article-title":  "A novel improved method of centrifugal filter for separating water and fine sediment: appropriately increase energy consumption for high efficiency",
+                                          "volume":  "40",
+                                          "author":  "Hou",
+                                          "year":  "2022",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib16",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "74",
+                                          "DOI":  "10.1016/j.cemconres.2018.07.003",
+                                          "article-title":  "Nucleation seeding with calcium silicate hydrate – a review",
+                                          "volume":  "113",
+                                          "author":  "John",
+                                          "year":  "2018",
+                                          "journal-title":  "Cem. Concr. Res."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib17",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "73",
+                                          "DOI":  "10.1016/S0378-3774(02)00159-2",
+                                          "article-title":  "Drip irrigation emitter clogging in Dutch greenhouses as affected by methane and organic acids",
+                                          "volume":  "60",
+                                          "author":  "Kreij",
+                                          "year":  "2003",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib18",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "117",
+                                          "DOI":  "10.1007/s00271-006-0039-7",
+                                          "article-title":  "Field evaluation of fertigation uniformity as affected by injector type and manufacturing variability of emitters",
+                                          "volume":  "25",
+                                          "author":  "Li",
+                                          "year":  "2007",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib19",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "16",
+                                          "DOI":  "10.1016/j.agwat.2019.01.010",
+                                          "article-title":  "Mechanism of intermittent fluctuated water pressure on emitter clogging substances formation in drip irrigation system utilizing high sediment water",
+                                          "volume":  "215",
+                                          "author":  "Li",
+                                          "year":  "2019",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib20",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "122",
+                                          "DOI":  "10.1016/j.powtec.2020.12.050",
+                                          "article-title":  "Filtration of kaolinite and coal mixture suspension: Settling behavior and filter cake structure analysis",
+                                          "volume":  "381",
+                                          "author":  "Li",
+                                          "year":  "2021",
+                                          "journal-title":  "Powder Technol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib21",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "833",
+                                          "DOI":  "10.1016/j.agwat.2018.11.021",
+                                          "article-title":  "Dynamic effects of chemical precipitates on drip irrigation system clogging using water with high sediment and salt loads",
+                                          "volume":  "213",
+                                          "author":  "Li",
+                                          "year":  "2019",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib22",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "449",
+                                          "DOI":  "10.1016/S1001-6058(06)60119-4",
+                                          "article-title":  "Hydraulic characterizations of tortuous flow in path drip irrigation emitter",
+                                          "volume":  "18",
+                                          "author":  "Li",
+                                          "year":  "2006",
+                                          "journal-title":  "J. Hydrodyn."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib23",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "421",
+                                          "DOI":  "10.1016/j.jcis.2006.12.045",
+                                          "article-title":  "Heterogeneous nucleation and growth of calcium carbonate on calcite and quartz",
+                                          "volume":  "308",
+                                          "author":  "Lioliou",
+                                          "year":  "2007",
+                                          "journal-title":  "J. Colloid Interface Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib24",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "2880",
+                                          "DOI":  "10.1016/j.scitotenv.2018.10.037",
+                                          "article-title":  "Intensified nitrogen transformation in intermittently aerated constructed wetlands: Removal pathways and microbial response mechanism",
+                                          "volume":  "650",
+                                          "author":  "Liu",
+                                          "year":  "2019",
+                                          "journal-title":  "Sci. Total Environ."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib25",
+                                          "first-page":  "258",
+                                          "article-title":  "Horizontal roughing filter for reducing emitter composite clogging in drip irrigation systems using high sediment water",
+                                          "author":  "Liu",
+                                          "year":  "2021",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib26",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "838",
+                                          "DOI":  "10.1016/j.scitotenv.2016.06.010",
+                                          "article-title":  "Phototrophic periphyton techniques combine phosphorous removal and recovery for sustainable salt-soil zone",
+                                          "volume":  "568",
+                                          "author":  "Lu",
+                                          "year":  "2016",
+                                          "journal-title":  "Sci. Total Environ."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib27",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.jenvman.2020.110366",
+                                          "article-title":  "Using phosphate fertilizer to reduce emitter clogging of drip fertigation systems with high salinity water",
+                                          "volume":  "263",
+                                          "author":  "Ma",
+                                          "year":  "2020",
+                                          "journal-title":  "J. Environ. Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib28",
+                                          "first-page":  "287",
+                                          "article-title":  "Multiple fouling dynamics, interactions and synergistic effects in brackish surface water distribution systems",
+                                          "author":  "Muhammad",
+                                          "year":  "2022",
+                                          "journal-title":  "Chemosphere"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib29",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "187",
+                                          "DOI":  "10.1007/BF00190522",
+                                          "article-title":  "Water quality in drip/trickle irrigation: a review",
+                                          "volume":  "12",
+                                          "author":  "Nakayama",
+                                          "year":  "1991",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib30",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "545",
+                                          "DOI":  "10.1007/s00271-012-0328-2",
+                                          "article-title":  "Influence of fine particle size and concentration on the clogging of labyrinth emitters",
+                                          "volume":  "31",
+                                          "author":  "Niu",
+                                          "year":  "2013",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib31",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "57",
+                                          "DOI":  "10.1016/j.ibiod.2019.03.005",
+                                          "article-title":  "Biomineralization of carbonates induced by the fungi Paecilomyces inflatus and Plectosphaerella cucumerina",
+                                          "volume":  "140",
+                                          "author":  "Pasquale",
+                                          "year":  "2019",
+                                          "journal-title":  "Int. Biodeterior. Biodegrad."
+                                      },
+                                      {
+                                          "issue":  "3",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib32",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "882",
+                                          "DOI":  "10.1016/j.watres.2011.11.071",
+                                          "article-title":  "Effect of free ammonia concentration on monochloramine penetration within a nitrifying biofilm and its effect on activity, viability, and recovery",
+                                          "volume":  "46",
+                                          "author":  "Pressman",
+                                          "year":  "2012",
+                                          "journal-title":  "Water Res."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib33",
+                                          "first-page":  "188",
+                                          "article-title":  "Best management practices scenario analysis to reduce agricultural nitrogen loads and sediment yield to the semiarid Mar Menor coastal lagoon (Spain)",
+                                          "author":  "Puertes",
+                                          "year":  "2021",
+                                          "journal-title":  "Agric. Syst."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib34",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "515",
+                                          "DOI":  "10.1038/s41893-019-0294-2",
+                                          "article-title":  "Flexibility and intensity of global water use",
+                                          "volume":  "2",
+                                          "author":  "Qin",
+                                          "year":  "2019",
+                                          "journal-title":  "Nat. Sustain."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib35",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1019",
+                                          "DOI":  "10.1016/S0892-6875(00)00087-X",
+                                          "article-title":  "Polyphosphates: a review their chemistry and application with particular reference to mineral processing",
+                                          "volume":  "13",
+                                          "author":  "Rashchi",
+                                          "year":  "2000",
+                                          "journal-title":  "Miner. Eng."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib36",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "200",
+                                          "DOI":  "10.1016/j.ibiod.2017.06.021",
+                                          "article-title":  "Bioprecipitation of calcium carbonate induced by Bacillus subtilis isolated in Brazil",
+                                          "volume":  "123",
+                                          "author":  "Schwantes-Cezario",
+                                          "year":  "2017",
+                                          "journal-title":  "Int. Biodeterior. Biodegrad."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib37",
+                                          "article-title":  "Nonreductive biomineralization of uranium by Bacillus subtilis ATCC-6633 under aerobic conditions",
+                                          "volume":  "208–209",
+                                          "author":  "Song",
+                                          "year":  "2019",
+                                          "journal-title":  "J. Environ. Radioact."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib38",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "181",
+                                          "DOI":  "10.1016/j.memsci.2012.04.051",
+                                          "article-title":  "RO membrane mineral scaling in the presence of a biofilm",
+                                          "volume":  "415",
+                                          "author":  "Thompson",
+                                          "year":  "2012",
+                                          "journal-title":  "J. Membr. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib39",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1543",
+                                          "DOI":  "10.19026/rjaset.6.3867",
+                                          "article-title":  "Silicate scales formation during ASP flooding: a review",
+                                          "volume":  "6",
+                                          "author":  "Umar",
+                                          "year":  "2013",
+                                          "journal-title":  "Res. J. Appl. Sci. Eng. Technol."
+                                      },
+                                      {
+                                          "issue":  "6",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib40",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1011",
+                                          "DOI":  "10.1021/cr50024a001",
+                                          "article-title":  "Metal complexing by phosphates",
+                                          "volume":  "58",
+                                          "author":  "Van Wazer",
+                                          "year":  "1958",
+                                          "journal-title":  "Chem. Rev."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib41",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1",
+                                          "DOI":  "10.1016/j.watres.2014.03.060",
+                                          "article-title":  "The important implications of particulate substrate in determining the physicochemical characteristics of extracellular polymeric substances (EPS) in activated sludge",
+                                          "volume":  "58",
+                                          "author":  "Wang",
+                                          "year":  "2014",
+                                          "journal-title":  "Water Res."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib42",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "169",
+                                          "DOI":  "10.1016/j.fcr.2018.02.002",
+                                          "article-title":  "Coupling effects of water and fertilizer on yield, water and fertilizer use efficiency of drip-fertigated cotton in northern Xinjiang, China",
+                                          "volume":  "219",
+                                          "author":  "Wang",
+                                          "year":  "2018",
+                                          "journal-title":  "Field Crop. Res."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib43",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "258",
+                                          "DOI":  "10.1016/j.agwat.2017.12.022",
+                                          "article-title":  "Drip irrigation with film mulch improves soil alkaline phosphatase and phosphorus uptake",
+                                          "author":  "Wang",
+                                          "year":  "2018",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib44",
+                                          "article-title":  "Recovering iron and sulfate in the form of mineral from acid mine drainage by a bacteria-driven cyclic biomineralization system",
+                                          "volume":  "262",
+                                          "author":  "Wang",
+                                          "year":  "2020",
+                                          "journal-title":  "Chemosphere"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib45",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "4",
+                                          "DOI":  "10.1002/ird.2527",
+                                          "article-title":  "Bacillus amyloliquefaciens application to prevent biofilms in reclaimed water microirrigation systems",
+                                          "volume":  "70",
+                                          "author":  "Wen",
+                                          "year":  "2021",
+                                          "journal-title":  "Irrig. Drain."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib46",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "44",
+                                          "DOI":  "10.1016/j.biortech.2017.07.081",
+                                          "article-title":  "Periphytic biofilms: a promising nutrient utilization regulator in wetlands",
+                                          "volume":  "248",
+                                          "author":  "Wu",
+                                          "year":  "2018",
+                                          "journal-title":  "Bioresour. Technol."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib47",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.envint.2020.105787",
+                                          "article-title":  "Mitigation of biofouling in agricultural water distribution systems with nanobubbles",
+                                          "volume":  "141",
+                                          "author":  "Xiao",
+                                          "year":  "2020",
+                                          "journal-title":  "Environ. Int."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib48",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.jclepro.2020.121319",
+                                          "article-title":  "Increasing phosphorus availability by reducing clogging in drip fertigation systems",
+                                          "volume":  "262",
+                                          "author":  "Xiao",
+                                          "year":  "2020",
+                                          "journal-title":  "J. Clean. Prod."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib49",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "712",
+                                          "DOI":  "10.1016/S1002-0160(11)60174-4",
+                                          "article-title":  "Soil phosphorus distribution as affected by irrigation methods in plastic film house",
+                                          "volume":  "21",
+                                          "author":  "Yang",
+                                          "year":  "2011",
+                                          "journal-title":  "Pedosphere"
+                                      },
+                                      {
+                                          "issue":  "6",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib50",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "1689",
+                                          "DOI":  "10.13031/2013.17345",
+                                          "article-title":  "Effects of organic acids on salt precipitation in drip emitters and soil",
+                                          "volume":  "41",
+                                          "author":  "Yuan",
+                                          "year":  "1998",
+                                          "journal-title":  "Trans. ASAE"
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib51",
+                                          "first-page":  "171",
+                                          "article-title":  "Evolution of composite fouling on a vertical stainless steel surface caused by treated sewage",
+                                          "volume":  "4",
+                                          "author":  "Zan",
+                                          "year":  "2010",
+                                          "journal-title":  "Front. Energy"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib52",
+                                          "doi-asserted-by":  "crossref",
+                                          "DOI":  "10.1016/j.agwat.2020.106069",
+                                          "article-title":  "Lateral inner environment changes and effects on emitter clogging risk for different irrigation times",
+                                          "volume":  "233",
+                                          "author":  "Zhang",
+                                          "year":  "2020",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "issue":  "2",
+                                          "key":  "10.1016/j.agwat.2022.107738_bib53",
+                                          "article-title":  "Bacteria-induced facile biotic calcium carbonate precipitation",
+                                          "volume":  "563",
+                                          "author":  "Zheng",
+                                          "year":  "2021",
+                                          "journal-title":  "J. Cryst. Growth"
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib54",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "221",
+                                          "DOI":  "10.1007/s00271-015-0461-9",
+                                          "article-title":  "Effect of drip irrigation frequency on emitter clogging using reclaimed water",
+                                          "volume":  "33",
+                                          "author":  "Zhou",
+                                          "year":  "2015",
+                                          "journal-title":  "Irrig. Sci."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib55",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "37",
+                                          "DOI":  "10.1016/j.agwat.2019.02.038",
+                                          "article-title":  "Variation of microorganisms in drip irrigation systems using high-sand surface water",
+                                          "volume":  "218",
+                                          "author":  "Zhou",
+                                          "year":  "2019",
+                                          "journal-title":  "Agric. Water Manag."
+                                      },
+                                      {
+                                          "key":  "10.1016/j.agwat.2022.107738_bib56",
+                                          "doi-asserted-by":  "crossref",
+                                          "first-page":  "23",
+                                          "DOI":  "10.1016/j.agwat.2016.01.007",
+                                          "article-title":  "A kinetic model for biofilm growth inside non-PC emitters under reclaimed water drip irrigation",
+                                          "volume":  "168",
+                                          "author":  "Zhou",
+                                          "year":  "2016",
+                                          "journal-title":  "Agric. Water Manag."
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "Agricultural Water Management"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S0378377422002852?httpAccept=text/xml",
+                                     "content-type":  "text/xml",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "https://api.elsevier.com/content/article/PII:S0378377422002852?httpAccept=text/plain",
+                                     "content-type":  "text/plain",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2026,
+                                                             5,
+                                                             11
+                                                         ]
+                                                     ],
+                                      "date-time":  "2026-05-11T22:07:45Z",
+                                      "timestamp":  1778537265000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "https://linkinghub.elsevier.com/retrieve/pii/S0378377422002852"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2022,
+                                                          8
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  56,
+                    "alternative-id":  [
+                                           "S0378377422002852"
+                                       ],
+                    "URL":  "https://doi.org/10.1016/j.agwat.2022.107738",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "0378-3774"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "0378-3774",
+                                          "type":  "print"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2022,
+                                                             8
+                                                         ]
+                                                     ]
+                                  },
+                    "assertion":  [
+                                      {
+                                          "value":  "Elsevier",
+                                          "name":  "publisher",
+                                          "label":  "This article is maintained by"
+                                      },
+                                      {
+                                          "value":  "Physical, chemical and biological emitter clogging behaviors in drip irrigation systems using high-sediment loaded water",
+                                          "name":  "articletitle",
+                                          "label":  "Article Title"
+                                      },
+                                      {
+                                          "value":  "Agricultural Water Management",
+                                          "name":  "journaltitle",
+                                          "label":  "Journal Title"
+                                      },
+                                      {
+                                          "value":  "https://doi.org/10.1016/j.agwat.2022.107738",
+                                          "name":  "articlelink",
+                                          "label":  "CrossRef DOI link to publisher maintained version"
+                                      },
+                                      {
+                                          "value":  "article",
+                                          "name":  "content_type",
+                                          "label":  "Content Type"
+                                      },
+                                      {
+                                          "value":  "© 2022 Elsevier B.V. All rights reserved.",
+                                          "name":  "copyright",
+                                          "label":  "Copyright"
+                                      }
+                                  ],
+                    "article-number":  "107738"
+                }
+}

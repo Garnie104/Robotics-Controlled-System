@@ -1,0 +1,758 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        6
+      ]
+    ],
+    "date-time": "2026-11-06T01:10:31Z",
+    "timestamp": 1793927431093,
+    "version": "4.8.0"
+  },
+  "reference-count": 51,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            1
+          ]
+        ],
+        "date-time": "2024-02-01T00:00:00Z",
+        "timestamp": 1706745600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            1
+          ]
+        ],
+        "date-time": "2024-02-01T00:00:00Z",
+        "timestamp": 1706745600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            19
+          ]
+        ],
+        "date-time": "2023-12-19T00:00:00Z",
+        "timestamp": 1702944000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100010790",
+      "name": "Erasmus+",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2021-1-SK01-KA220-HED-000023274"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2021-1-SK01-KA220-HED-000023274"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100010790",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Renewable Energy"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.renene.2023.119822",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        18
+      ]
+    ],
+    "date-time": "2023-12-18T19:25:20Z",
+    "timestamp": 1702927520000
+  },
+  "page": "119822",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "special_numbering": "C",
+  "title": [
+    "Sizing and scheduling optimisation method for off-grid battery photovoltaic irrigation networks"
+  ],
+  "prefix": "10.1016",
+  "volume": "221",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-8779-3258",
+      "authenticated-orcid": false,
+      "given": "M.A.",
+      "family": "Pardo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8164-1931",
+      "authenticated-orcid": false,
+      "given": "F.J.",
+      "family": "Navarro-González",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.renene.2023.119822_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "1863",
+      "DOI": "10.5194/hess-14-1863-2010",
+      "article-title": "Groundwater use for irrigation--a global inventory",
+      "volume": "14",
+      "author": "Siebert",
+      "year": "2010",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2011WR010562",
+      "article-title": "Nonsustainable groundwater sustaining irrigation: a global assessment",
+      "volume": "48",
+      "author": "Wada",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib3",
+      "series-title": "The State of the World's Land and Water Resources for Food and Agriculture 2021 – Systems at Breaking Point",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib4",
+      "series-title": "European Green Deal : Research & Innovation Call",
+      "author": "E. Commission",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1007/s10584-017-2122-x",
+      "article-title": "Beyond headline mitigation numbers: we need more transparent and comparable NDCs to achieve the Paris Agreement on climate change",
+      "volume": "147",
+      "author": "Pauw",
+      "year": "2018",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "2460",
+      "DOI": "10.1016/j.rser.2017.06.052",
+      "article-title": "Photovoltaics and wind status in the European union after the Paris agreement",
+      "volume": "81",
+      "author": "Lacal Arantegui",
+      "year": "2018",
+      "journal-title": "Renew. Sustain. Energy Rev."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib7",
+      "series-title": "IPC-IPCA-Diciembre 2022 (2/14), Notas de Prensa",
+      "first-page": "1",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.apenergy.2018.08.060",
+      "article-title": "Practicality of using solar energy for cassava irrigation in the Guangxi Autonomous Region, China",
+      "volume": "230",
+      "author": "Yu",
+      "year": "2018",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib9",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.renene.2019.02.026",
+      "article-title": "A financial comparative study of solar and regular irrigation pumps: case studies in eastern and southern Iran",
+      "volume": "138",
+      "author": "Parvaresh Rizi",
+      "year": "2019",
+      "journal-title": "Renew. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "451",
+      "DOI": "10.1016/j.energy.2012.08.004",
+      "article-title": "Performance evaluation of an off-grid photovoltaic system in Saudi Arabia",
+      "volume": "46",
+      "author": "Rehman",
+      "year": "2012",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "476",
+      "DOI": "10.1016/j.psep.2020.11.011",
+      "article-title": "Optimal load scheduling for off-grid photovoltaic installations with fixed energy requirements and intrinsic constraints",
+      "volume": "149",
+      "author": "Navarro-Gonzalez",
+      "year": "2021",
+      "journal-title": "Process Saf. Environ. Protect."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib12",
+      "article-title": "Energy payback time analysis and return on investment of off-grid photovoltaic systems in rural areas of Tanzania",
+      "volume": "42",
+      "author": "Tsuchiya",
+      "year": "2020",
+      "journal-title": "Sustain. Energy Technol. Assessments"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "961",
+      "DOI": "10.1016/j.energy.2016.05.070",
+      "article-title": "Sizing of a standalone photovoltaic water pumping system using a multi-objective evolutionary algorithm",
+      "volume": "109",
+      "author": "Muhsen",
+      "year": "2016",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib14",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.apenergy.2019.114261",
+      "article-title": "Optimal management of a multisector standalone direct pumping photovoltaic irrigation system",
+      "volume": "260",
+      "author": "Zavala",
+      "year": "2020",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib15",
+      "first-page": "12",
+      "article-title": "Standalone photovoltaic direct pumping in urban water pressurized networks with energy storage in tanks or batteries",
+      "author": "Pardo",
+      "year": "2020",
+      "journal-title": "Sustainability"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib16",
+      "series-title": "Energy Procedia",
+      "first-page": "403",
+      "article-title": "Combining floating solar photovoltaic power plants and hydropower reservoirs: a virtual battery of great global potential",
+      "author": "Farfan",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1080/23311916.2016.1242110",
+      "article-title": "A comprehensive sizing methodology for stand-alone battery-less photovoltaic water pumping system under the Egyptian climate",
+      "volume": "3",
+      "author": "Rezk",
+      "year": "2016",
+      "journal-title": "Cogent Eng"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1155/2018/8471715",
+      "article-title": "Dynamic modelling of a solar water pumping system with energy storage",
+      "volume": "2018",
+      "author": "Biswas",
+      "year": "2018",
+      "journal-title": "Journal of Solar Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib19",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/en13154013",
+      "article-title": "Converting a water pressurized network in a small town into a solar power water system",
+      "volume": "13",
+      "author": "Pardo",
+      "year": "2020",
+      "journal-title": "Energies"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "270",
+      "DOI": "10.1016/j.energy.2015.06.057",
+      "article-title": "Integration of renewables and reverse osmosis desalination – case study for the Jordanian energy system with a high share of wind and photovoltaics",
+      "volume": "92",
+      "author": "Novosel",
+      "year": "2015",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "421",
+      "DOI": "10.1016/j.energy.2018.08.020",
+      "article-title": "Smart renewable energy penetration strategies on islands: the case of Gran Canaria",
+      "volume": "162",
+      "author": "Cabrera",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1016/j.segan.2018.03.003",
+      "article-title": "A market-based framework for demand side flexibility scheduling and dispatching",
+      "volume": "14",
+      "author": "Torbaghan",
+      "year": "2018",
+      "journal-title": "Sustainable Energy, Grids and Networks"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib23",
+      "first-page": "29",
+      "article-title": "Energy system impacts of desalination in Jordan",
+      "volume": "1",
+      "author": "Østergaard",
+      "year": "2014",
+      "journal-title": "International Journal of Sustainable Energy Planning and Management"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib24",
+      "article-title": "Off-grid SeaWater Reverse Osmosis (SWRO) desalination driven by hybrid tidal range/solar PV systems: sensitivity analysis and criteria for preliminary design",
+      "volume": "53",
+      "author": "Delgado-Torres",
+      "year": "2022",
+      "journal-title": "Sustain. Energy Technol. Assessments"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib25",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.desal.2023.116424",
+      "article-title": "Synergies and potential of hybrid solar photovoltaic-thermal desalination technologies",
+      "volume": "552",
+      "author": "He",
+      "year": "2023",
+      "journal-title": "Desalination"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib26",
+      "article-title": "Optimal sizing of the stand-alone photovoltaic system for a solar-powered translational sprinkler irrigation machine considering the loss of power supply probability",
+      "volume": "2022",
+      "author": "Liu",
+      "year": "2022",
+      "journal-title": "Math. Probl Eng."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "821",
+      "DOI": "10.1016/j.scitotenv.2019.04.050",
+      "article-title": "Standalone direct pumping photovoltaic system or energy storage in batteries for supplying irrigation networks. Cost analysis",
+      "volume": "673",
+      "author": "Pardo",
+      "year": "2019",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib28",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s10098-023-02486-3",
+      "article-title": "An irrigation scheduling algorithm for sustainable energy consumption in pressurised irrigation networks supplied by photovoltaic modules",
+      "author": "Navarro-González",
+      "year": "2023",
+      "journal-title": "Clean Technol. Environ. Policy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.agwat.2022.107596",
+      "article-title": "Evaluating the use of meteorological predictions in directly pumped irrigational operations using photovoltaic energy",
+      "volume": "266",
+      "author": "Carricondo-Antón",
+      "year": "2022",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib30",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.apenergy.2019.114284",
+      "article-title": "A novel photovoltaic-pumped hydro storage microgrid applicable to rural areas",
+      "volume": "262",
+      "author": "Mousavi",
+      "year": "2020",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "670",
+      "DOI": "10.1016/j.jclepro.2017.12.093",
+      "article-title": "Coupling irrigation scheduling with solar energy production in a smart irrigation management system",
+      "volume": "175",
+      "author": "Mérida García",
+      "year": "2018",
+      "journal-title": "J. Clean. Prod."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "228",
+      "DOI": "10.1016/j.enbuild.2016.12.050",
+      "article-title": "Reputation-based joint scheduling of households appliances and storage in a microgrid with a shared battery",
+      "volume": "138",
+      "author": "AlSkaif",
+      "year": "2017",
+      "journal-title": "Energy Build."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.rser.2018.03.002",
+      "article-title": "The lithium-ion battery: state of the art and future perspectives",
+      "volume": "89",
+      "author": "Zubi",
+      "year": "2018",
+      "journal-title": "Renew. Sustain. Energy Rev."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "356",
+      "DOI": "10.1016/j.apenergy.2019.01.227",
+      "article-title": "Multi-objective optimization of energy arbitrage in community energy storage systems using different battery technologies",
+      "volume": "239",
+      "author": "Terlouw",
+      "year": "2019",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib35",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/en10122107",
+      "article-title": "Lithium-ion battery storage for the grid - a review of stationary battery storage system design tailored for applications in modern power grids",
+      "volume": "10",
+      "author": "Hesse",
+      "year": "2017",
+      "journal-title": "Energies"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib36",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jclepro.2021.127234",
+      "article-title": "Life cycle cost optimization analysis of battery storage system for residential photovoltaic panels",
+      "volume": "309",
+      "author": "Symeonidou",
+      "year": "2021",
+      "journal-title": "J. Clean. Prod."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib37",
+      "article-title": "Performance evaluation and optimal design of stand-alone solar PV-battery system for irrigation in isolated regions: a case study in Al Minya (Egypt)",
+      "volume": "36",
+      "author": "Rezk",
+      "year": "2019",
+      "journal-title": "Sustain. Energy Technol. Assessments"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "332",
+      "DOI": "10.1016/j.solener.2016.03.017",
+      "article-title": "Validation of models that estimate the clear sky global and beam solar irradiance",
+      "volume": "132",
+      "author": "Ineichen",
+      "year": "2016",
+      "journal-title": "Sol. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "675",
+      "DOI": "10.1016/j.solener.2016.07.045",
+      "article-title": "Simulating irradiance enhancement dependence on cloud optical depth and solar zenith angle",
+      "volume": "136",
+      "author": "Pecenak",
+      "year": "2016",
+      "journal-title": "Sol. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1016/j.solener.2019.11.090",
+      "article-title": "Characteristics of the cloud enhancement phenomenon and PV power plants",
+      "volume": "196",
+      "author": "Järvelä",
+      "year": "2020",
+      "journal-title": "Sol. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib41",
+      "series-title": "Solar Engineering of Thermal Processes",
+      "author": "Duffie",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib42",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compag.2022.107290",
+      "article-title": "An algorithm to schedule water delivery in pressurized irrigation networks",
+      "volume": "201",
+      "author": "Pardo",
+      "year": "2022",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib43",
+      "doi-asserted-by": "crossref",
+      "first-page": "614",
+      "DOI": "10.1080/15435075.2021.1954007",
+      "article-title": "Design, sizing and economic feasibility of a hybrid PV/diesel/battery based water pumping system for farmland",
+      "volume": "19",
+      "author": "Abid",
+      "year": "2022",
+      "journal-title": "Int. J. Green Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib44",
+      "series-title": "IECON Proceedings (Industrial Electronics Conference)",
+      "article-title": "Steady-state modeling and control of a microgrid supplying irrigation load in Toshka Area",
+      "author": "Abdel-Salam",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib45",
+      "doi-asserted-by": "crossref",
+      "first-page": "3009",
+      "DOI": "10.1016/j.solener.2012.07.005",
+      "article-title": "Optimisation of a photovoltaic battery ultracapacitor hybrid energy storage system",
+      "volume": "86",
+      "author": "Glavin",
+      "year": "2012",
+      "journal-title": "Sol. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib46",
+      "series-title": "2022 8th International Conference on Energy Efficiency and Agricultural Engineering, EE and AE 2022 - Proceedings",
+      "article-title": "Study of PV technology influence on the battery sizing in PV-based irrigation system",
+      "author": "Stoyanov",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1016/j.ref.2023.04.009",
+      "article-title": "A comprehensive review of grid-connected solar photovoltaic system: architecture, control, and ancillary services",
+      "volume": "45",
+      "author": "Morey",
+      "year": "2023",
+      "journal-title": "Renewable Energy Focus"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib48",
+      "article-title": "An overview of solar power (PV systems) integration into electricity grids",
+      "volume": "2",
+      "author": "Nwaigwe",
+      "year": "2019",
+      "journal-title": "Mater Sci Energy Technol"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib49",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/ACCESS.2022.3174555",
+      "article-title": "Grid integration challenges and solution strategies for solar PV systems: a review",
+      "volume": "10",
+      "author": "Shafiullah",
+      "year": "2022",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib50",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.renene.2019.05.023",
+      "article-title": "A novel energy index to assess the impact of a solar PV-based ground source heat pump on the power grid",
+      "volume": "143",
+      "author": "Roselli",
+      "year": "2019",
+      "journal-title": "Renew. Energy"
+    },
+    {
+      "key": "10.1016/j.renene.2023.119822_bib51",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jclepro.2020.125055",
+      "article-title": "Design and economic analysis of off-grid solar PV system in Jos-Nigeria",
+      "volume": "287",
+      "author": "Akinsipe",
+      "year": "2021",
+      "journal-title": "J. Clean. Prod."
+    }
+  ],
+  "container-title": [
+    "Renewable Energy"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0960148123017378?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0960148123017378?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2025-01-13T22:29:17Z",
+    "timestamp": 1736807357000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0960148123017378"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "references-count": 51,
+  "alternative-id": [
+    "S0960148123017378"
+  ],
+  "URL": "https://doi.org/10.1016/j.renene.2023.119822",
+  "relation": {},
+  "ISSN": [
+    "0960-1481"
+  ],
+  "issn-type": [
+    {
+      "value": "0960-1481",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Sizing and scheduling optimisation method for off-grid battery photovoltaic irrigation networks",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Renewable Energy",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.renene.2023.119822",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2023 The Authors. Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "119822"
+}

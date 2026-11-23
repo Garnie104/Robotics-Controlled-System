@@ -1,0 +1,961 @@
+{
+  "id": "https://openalex.org/W4412127991",
+  "doi": "https://doi.org/10.1109/cafe63183.2024.11069348",
+  "title": "Power Management for a Wireless Solenoid Irrigation Valve",
+  "display_name": "Power Management for a Wireless Solenoid Irrigation Valve",
+  "publication_year": 2024,
+  "publication_date": "2024-09-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4412127991",
+    "doi": "https://doi.org/10.1109/cafe63183.2024.11069348"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/cafe63183.2024.11069348",
+    "doi": "https://doi.org/10.1109/cafe63183.2024.11069348",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/cafe63183.2024.11069348",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S7407088737",
+      "display_name": "IEEE Conference on AgriFood Electronics (CAFE)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2024 IEEE 2nd Conference on AgriFood Electronics (CAFE)",
+    "raw_type": "proceedings-article"
+  },
+  "volume": null,
+  "type": "conference-paper",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027634114",
+        "display_name": "Alfredo Arnaud",
+        "orcid": "https://orcid.org/0000-0002-7122-5421",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-7122-5421"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I875251973",
+          "display_name": "Universidad Católica del Uruguay",
+          "ror": "https://ror.org/019xvpc30",
+          "country_code": "UY",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ],
+      "countries": [
+        "UY"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alfredo Arnaud",
+      "raw_affiliation_strings": [
+        "Universidad Católica del Uruguay,Engineering Department"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Católica del Uruguay,Engineering Department",
+          "institution_ids": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5118867439",
+        "display_name": "Augusto Sbarbaro",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I875251973",
+          "display_name": "Universidad Católica del Uruguay",
+          "ror": "https://ror.org/019xvpc30",
+          "country_code": "UY",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ],
+      "countries": [
+        "UY"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Augusto Sbarbaro",
+      "raw_affiliation_strings": [
+        "Universidad Católica del Uruguay,Engineering Department"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Católica del Uruguay,Engineering Department",
+          "institution_ids": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053729660",
+        "display_name": "Nicolás Calarco",
+        "orcid": "https://orcid.org/0000-0002-7847-755X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-7847-755X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I875251973",
+          "display_name": "Universidad Católica del Uruguay",
+          "ror": "https://ror.org/019xvpc30",
+          "country_code": "UY",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ],
+      "countries": [
+        "UY"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicolas Calarco",
+      "raw_affiliation_strings": [
+        "Universidad Católica del Uruguay,Engineering Department"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Católica del Uruguay,Engineering Department",
+          "institution_ids": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074486768",
+        "display_name": "Joel Gak",
+        "orcid": "https://orcid.org/0000-0001-6440-6630",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6440-6630"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I875251973",
+          "display_name": "Universidad Católica del Uruguay",
+          "ror": "https://ror.org/019xvpc30",
+          "country_code": "UY",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ],
+      "countries": [
+        "UY"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joel Gak",
+      "raw_affiliation_strings": [
+        "Universidad Católica del Uruguay,Engineering Department"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Católica del Uruguay,Engineering Department",
+          "institution_ids": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5118867440",
+        "display_name": "Hever Gudiño",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I31466659",
+          "display_name": "Chapingo Autonomous University",
+          "ror": "https://ror.org/04ctjby61",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hever Gudiño",
+      "raw_affiliation_strings": [
+        "Universidad Autónoma de Chapingo,México"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Autónoma de Chapingo,México",
+          "institution_ids": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5118867441",
+        "display_name": "Andy Tepezila",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I31466659",
+          "display_name": "Chapingo Autonomous University",
+          "ror": "https://ror.org/04ctjby61",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andy Tepezila",
+      "raw_affiliation_strings": [
+        "Universidad Autónoma de Chapingo,México"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Autónoma de Chapingo,México",
+          "institution_ids": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035870512",
+        "display_name": "Luis Arturo Soriano",
+        "orcid": "https://orcid.org/0000-0003-3299-9851",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-3299-9851"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I31466659",
+          "display_name": "Chapingo Autonomous University",
+          "ror": "https://ror.org/04ctjby61",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luis Arturo Soriano",
+      "raw_affiliation_strings": [
+        "Universidad Autónoma de Chapingo,México"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Autónoma de Chapingo,México",
+          "institution_ids": [
+            "https://openalex.org/I31466659"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069075497",
+        "display_name": "Matías R. Miguez",
+        "orcid": "https://orcid.org/0000-0003-1650-4505",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-1650-4505"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I875251973",
+          "display_name": "Universidad Católica del Uruguay",
+          "ror": "https://ror.org/019xvpc30",
+          "country_code": "UY",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ],
+      "countries": [
+        "UY"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matías Miguez",
+      "raw_affiliation_strings": [
+        "Universidad Católica del Uruguay,Engineering Department"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Católica del Uruguay,Engineering Department",
+          "institution_ids": [
+            "https://openalex.org/I875251973"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.3363,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.71505622,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 95
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "85",
+    "last_page": "89"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10175",
+    "display_name": "Advanced DC-DC Converters",
+    "score": 0.8022000193595886,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10175",
+      "display_name": "Advanced DC-DC Converters",
+      "score": 0.8022000193595886,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11230",
+      "display_name": "Innovative Energy Harvesting Technologies",
+      "score": 0.03840000182390213,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10323",
+      "display_name": "Analog and Mixed-Signal Circuit Design",
+      "score": 0.02280000038444996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/power-management",
+      "display_name": "power management",
+      "score": 0.9729999899864197
+    },
+    {
+      "id": "https://openalex.org/keywords/solenoid-valve",
+      "display_name": "solenoid valve",
+      "score": 0.8389999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/lorawan",
+      "display_name": "LoRaWAN",
+      "score": 0.9319999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/automated-irrigation",
+      "display_name": "irrigation automation",
+      "score": 0.75
+    },
+    {
+      "id": "https://openalex.org/keywords/supercapacitors",
+      "display_name": "supercapacitors",
+      "score": 0.9819999933242798
+    },
+    {
+      "id": "https://openalex.org/keywords/boost-converter",
+      "display_name": "boost converter",
+      "score": 0.996999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/primary-batteries",
+      "display_name": "primary cells",
+      "score": 0.8149999976158142
+    },
+    {
+      "id": "https://openalex.org/keywords/leakage-current",
+      "display_name": "leakage current",
+      "score": 0.6639999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/energy-harvesting",
+      "display_name": "energy harvesting",
+      "score": 0.4519999921321869
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C555944384",
+      "wikidata": "https://www.wikidata.org/wiki/Q249",
+      "display_name": "Wireless",
+      "level": 2,
+      "score": 0.5899983048439026
+    },
+    {
+      "id": "https://openalex.org/C88862950",
+      "wikidata": "https://www.wikidata.org/wiki/Q11453",
+      "display_name": "Irrigation",
+      "level": 2,
+      "score": 0.538185715675354
+    },
+    {
+      "id": "https://openalex.org/C2777112803",
+      "wikidata": "https://www.wikidata.org/wiki/Q1430621",
+      "display_name": "Solenoid valve",
+      "level": 2,
+      "score": 0.5375698804855347
+    },
+    {
+      "id": "https://openalex.org/C192144188",
+      "wikidata": "https://www.wikidata.org/wiki/Q245739",
+      "display_name": "Solenoid",
+      "level": 2,
+      "score": 0.5306305885314941
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.5027234554290771
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4927385151386261
+    },
+    {
+      "id": "https://openalex.org/C2778774385",
+      "wikidata": "https://www.wikidata.org/wiki/Q4437810",
+      "display_name": "Power management",
+      "level": 3,
+      "score": 0.4923032522201538
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.41904163360595703
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3228009045124054
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.32196635007858276
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.21809181571006775
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.12996113300323486
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/cafe63183.2024.11069348",
+      "doi": "https://doi.org/10.1109/cafe63183.2024.11069348",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/cafe63183.2024.11069348",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407088737",
+        "display_name": "IEEE Conference on AgriFood Electronics (CAFE)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2024 IEEE 2nd Conference on AgriFood Electronics (CAFE)",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9",
+      "score": 0.7207000255584717
+    },
+    {
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.5690000057220459
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 12,
+  "referenced_works": [
+    "https://openalex.org/W2009807769",
+    "https://openalex.org/W2586825819",
+    "https://openalex.org/W2806576037",
+    "https://openalex.org/W2916665894",
+    "https://openalex.org/W2973200166",
+    "https://openalex.org/W3094851252",
+    "https://openalex.org/W3116793441",
+    "https://openalex.org/W3200272112",
+    "https://openalex.org/W3217768314",
+    "https://openalex.org/W4388016240",
+    "https://openalex.org/W4394698410",
+    "https://openalex.org/W4396214923"
+  ],
+  "related_works": [
+    "https://openalex.org/W4412747668",
+    "https://openalex.org/W3217768314",
+    "https://openalex.org/W4377693634",
+    "https://openalex.org/W7117984272",
+    "https://openalex.org/W2009807769",
+    "https://openalex.org/W2583191327",
+    "https://openalex.org/W4386968337",
+    "https://openalex.org/W4210463090",
+    "https://openalex.org/W3117470240",
+    "https://openalex.org/W4281905117"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "this": [
+      1
+    ],
+    "work,": [
+      2
+    ],
+    "the": [
+      3,
+      31,
+      43,
+      75,
+      82
+    ],
+    "power": [
+      4
+    ],
+    "management": [
+      5
+    ],
+    "(PM)": [
+      6
+    ],
+    "system": [
+      7
+    ],
+    "to": [
+      8,
+      29,
+      41,
+      54,
+      72
+    ],
+    "drive": [
+      9,
+      42
+    ],
+    "a": [
+      10,
+      34,
+      37,
+      46,
+      51,
+      85,
+      96
+    ],
+    "12": [
+      11
+    ],
+    "V": [
+      12
+    ],
+    "LoRaWAN": [
+      13
+    ],
+    "latching": [
+      14
+    ],
+    "solenoid": [
+      15,
+      87
+    ],
+    "valve": [
+      16,
+      88
+    ],
+    "(LSV)": [
+      17
+    ],
+    "for": [
+      18,
+      92
+    ],
+    "automated": [
+      19
+    ],
+    "irrigation": [
+      20
+    ],
+    "systems": [
+      21
+    ],
+    "is": [
+      22,
+      28
+    ],
+    "studied": [
+      23
+    ],
+    "in": [
+      24
+    ],
+    "detail.": [
+      25
+    ],
+    "The": [
+      26
+    ],
+    "objective": [
+      27
+    ],
+    "optimize": [
+      30,
+      74
+    ],
+    "use": [
+      32
+    ],
+    "of": [
+      33
+    ],
+    "supercapacitor": [
+      35
+    ],
+    "and": [
+      36,
+      58,
+      66,
+      78
+    ],
+    "boost": [
+      38
+    ],
+    "converter,": [
+      39,
+      65
+    ],
+    "allowing": [
+      40,
+      71
+    ],
+    "LSV": [
+      44
+    ],
+    "from": [
+      45,
+      95
+    ],
+    "small": [
+      47
+    ],
+    "primary": [
+      48
+    ],
+    "battery,": [
+      49
+    ],
+    "even": [
+      50
+    ],
+    "button": [
+      52
+    ],
+    "cell,": [
+      53
+    ],
+    "reduce": [
+      55
+    ],
+    "installation": [
+      56
+    ],
+    "costs": [
+      57
+    ],
+    "battery": [
+      59
+    ],
+    "environmental": [
+      60
+    ],
+    "impact": [
+      61
+    ],
+    "issues.": [
+      62
+    ],
+    "Detailed": [
+      63
+    ],
+    "supercapacitor,": [
+      64
+    ],
+    "leakage": [
+      67
+    ],
+    "measurements": [
+      68
+    ],
+    "are": [
+      69
+    ],
+    "presented,": [
+      70
+    ],
+    "properly": [
+      73
+    ],
+    "circuit": [
+      76
+    ],
+    "design": [
+      77
+    ],
+    "PM": [
+      79
+    ],
+    "system.": [
+      80
+    ],
+    "Following": [
+      81
+    ],
+    "proposed": [
+      83
+    ],
+    "guidelines": [
+      84
+    ],
+    "wireless": [
+      86
+    ],
+    "can": [
+      89
+    ],
+    "be": [
+      90
+    ],
+    "operated": [
+      91
+    ],
+    "5": [
+      93
+    ],
+    "years": [
+      94
+    ],
+    "single": [
+      97
+    ],
+    "1/2AALiSOCl2primary": [
+      98
+    ],
+    "battery.": [
+      99
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-11-10T11:39:43.021295",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,509 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        7
+      ]
+    ],
+    "date-time": "2026-11-07T19:37:36Z",
+    "timestamp": 1794080256594,
+    "version": "4.8.0"
+  },
+  "reference-count": 30,
+  "publisher": "Frontiers Media SA",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            26
+          ]
+        ],
+        "date-time": "2023-06-26T00:00:00Z",
+        "timestamp": 1687737600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "frontiersin.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Front. Plant Sci."
+  ],
+  "abstract": "<jats:p>Accurate navigation is crucial in the construction of intelligent orchards, and the need for vehicle navigation accuracy becomes even more important as production is refined. However, traditional navigation methods based on global navigation satellite system (GNSS) and 2D light detection and ranging (LiDAR) can be unreliable in complex scenarios with little sensory information due to tree canopy occlusion. To solve these issues, this paper proposes a 3D LiDAR-based navigation method for trellis orchards. With the use of 3D LiDAR with a 3D simultaneous localization and mapping (SLAM) algorithm, orchard point cloud information is collected and filtered using the Point Cloud Library (PCL) to extract trellis point clouds as matching targets. In terms of positioning, the real-time position is determined through a reliable method of fusing multiple sensors for positioning, which involves transforming the real-time kinematics (RTK) information into the initial position and doing a normal distribution transformation between the current frame point cloud and the scaffold reference point cloud to match the point cloud position. For path planning, the required vector map is manually planned in the orchard point cloud to specify the path of the roadway, and finally, navigation is achieved through pure path tracking. Field tests have shown that the accuracy of the normal distributions transform (NDT) SLAM method can reach 5 cm in each rank with a coefficient of variation that is less than 2%. Additionally, the navigation system has a high positioning heading accuracy with a deviation within 1° and a standard deviation of less than 0.6° when moving along the path point cloud at a speed of 1.0 m/s in a Y-trellis pear orchard. The lateral positioning deviation was also controlled within 5 cm with a standard deviation of less than 2 cm. This navigation system has a high level of accuracy and can be customized to specific tasks, making it widely applicable in trellis orchards with autonomous navigation pesticide sprayers.</jats:p>",
+  "DOI": "10.3389/fpls.2023.1207742",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ],
+    "date-time": "2023-06-26T03:37:33Z",
+    "timestamp": 1687750653000
+  },
+  "update-policy": "https://doi.org/10.3389/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 51,
+  "title": [
+    "Research on orchard navigation method based on fusion of 3D SLAM and point cloud positioning"
+  ],
+  "prefix": "10.3389",
+  "volume": "14",
+  "author": [
+    {
+      "given": "Ye",
+      "family": "Xia",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaohui",
+      "family": "Lei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jian",
+      "family": "Pan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "LuWei",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhen",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaolan",
+      "family": "Lyu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1965",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "B1",
+      "doi-asserted-by": "publisher",
+      "first-page": "2481",
+      "DOI": "10.1109/TPAMI.2016.2644615",
+      "article-title": "Segnet: a deep convolutional encoder-decoder architecture for image segmentation",
+      "volume": "39",
+      "author": "Badrinarayanan",
+      "year": "2017",
+      "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+    },
+    {
+      "key": "B2",
+      "doi-asserted-by": "publisher",
+      "first-page": "357",
+      "DOI": "10.1016/j.biosystemseng.2011.05.001",
+      "article-title": "Autonomous navigation using a robot platform in a sugar beet field",
+      "volume": "109",
+      "author": "Bakker",
+      "year": "2011",
+      "journal-title": "Biosyst. Eng."
+    },
+    {
+      "key": "B3",
+      "doi-asserted-by": "publisher",
+      "first-page": "118",
+      "DOI": "10.1016/j.compag.2015.05.015",
+      "article-title": "Localization and control of an autonomous orchard vehicle",
+      "volume": "115",
+      "author": "Bayar",
+      "year": "2015",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B4",
+      "first-page": "2743",
+      "article-title": "The normal distributions transform: a new approach to laser scan matching",
+      "volume-title": "Proceedings2002, 003 IEEE/RSJ international conference on intelligent robots and systems (IROS2002, 003)(Cat. no. 03CH37453)",
+      "author": "Biber",
+      "year": "2003"
+    },
+    {
+      "key": "B5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.6041/j.issn.1000-1298.2017.02.006",
+      "article-title": "Navigation control system for orchard spraying machine based on beidou navigation satellite system",
+      "volume": "48",
+      "author": "Bin",
+      "year": "2017",
+      "journal-title": "Nongye Jixie Xuebao/Transact. Chin. Soc. Agric. Machinery"
+    },
+    {
+      "key": "B6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpls.2022.898131",
+      "article-title": "Improved real-time semantic segmentation network model for crop vision navigation line detection",
+      "volume": "13",
+      "author": "Cao",
+      "year": "2022",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "B7",
+      "volume-title": "\"Implementation of the pure pursuit path tracking algorithm\"",
+      "author": "Coulter",
+      "year": "1992"
+    },
+    {
+      "key": "B8",
+      "doi-asserted-by": "crossref",
+      "first-page": "766",
+      "DOI": "10.1109/ICSESS.2015.7339169",
+      "article-title": "Study on the method of visual navigation baseline identification and extraction of agricultural machinery",
+      "volume-title": "2015 6th IEEE international conference on software engineering and service science (ICSESS)",
+      "author": "Cui",
+      "year": "2015"
+    },
+    {
+      "key": "B9",
+      "doi-asserted-by": "publisher",
+      "first-page": "668",
+      "DOI": "10.20965/jrm.2017.p0668",
+      "article-title": "Open source integrated planner for autonomous navigation in highly dynamic environments",
+      "volume": "29",
+      "author": "Darweesh",
+      "year": "2017",
+      "journal-title": "J. Robotics Mechatronics"
+    },
+    {
+      "key": "B10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2020.105412",
+      "article-title": "A spraying path planning algorithm based on colour-depth fusion segmentation in peach orchards",
+      "volume": "173",
+      "author": "Gao",
+      "year": "2020",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B11",
+      "volume-title": "US Patent no. 3,069,654",
+      "author": "Hough",
+      "year": "1962"
+    },
+    {
+      "key": "B12",
+      "doi-asserted-by": "publisher",
+      "first-page": "169",
+      "DOI": "10.1016/S0168-1699(99)00062-9",
+      "article-title": "Automatic guidance for agricultural vehicles in Europe",
+      "volume": "25",
+      "author": "Keicher",
+      "year": "2000",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B13",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.3965/j.issn.1934-6344.2009.03.001-016",
+      "article-title": "Review of research on agricultural vehicle autonomous guidance",
+      "volume": "2",
+      "author": "Li",
+      "year": "2009",
+      "journal-title": "Int. J. Agric. Biol. Eng."
+    },
+    {
+      "key": "B14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/agriculture12091445",
+      "article-title": "Robot path planning navigation for dense planting red jujube orchards based on the joint improved a* and DWA algorithms under laser SLAM",
+      "volume": "12",
+      "author": "Li",
+      "year": "2022",
+      "journal-title": "Agriculture"
+    },
+    {
+      "key": "B15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/agronomy10121926",
+      "article-title": "Machine learning feature extraction based on binary pixel quantification using low-resolution images for application of unmanned ground vehicles in apple orchards",
+      "volume": "10",
+      "author": "Lyu",
+      "year": "2020",
+      "journal-title": "Agronomy"
+    },
+    {
+      "key": "B16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1233",
+      "DOI": "10.1109/ICIEA.2019.8834296",
+      "article-title": "Agricultural robot navigation path recognition based on k-means algorithm for large-scale image segmentation",
+      "volume-title": "2019 14th IEEE conference on industrial electronics and applications (ICIEA)",
+      "author": "Mao",
+      "year": "2019"
+    },
+    {
+      "key": "B17",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.1109/MIS.2020.3046138",
+      "article-title": "Mobile robot 6-d localization using 3-d Gaussian mixture maps in GPS-denied environments",
+      "volume": "37",
+      "author": "Niewola",
+      "year": "2020",
+      "journal-title": "IEEE Intelligent Syst."
+    },
+    {
+      "key": "B18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2021.106153",
+      "article-title": "Medial axis-based machine-vision system for orchard robot navigation",
+      "volume": "185",
+      "author": "Opiyo",
+      "year": "2021",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B19",
+      "first-page": "234",
+      "article-title": "U-Net: convolutional networks for biomedical image segmentation",
+      "volume-title": "Medical image computing and computer-assisted intervention–MICCAI2012, 015: 18th international conference",
+      "author": "Ronneberger",
+      "year": "2015"
+    },
+    {
+      "key": "B20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1155/2016/7942963",
+      "article-title": "Navigation system heading and position accuracy improvement through GPS and INS data fusion",
+      "volume": "2012",
+      "author": "Ryu",
+      "year": "2016",
+      "journal-title": "J. Sens."
+    },
+    {
+      "key": "B21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2022.107593",
+      "article-title": "Coverage path planning for kiwifruit picking robots based on deep reinforcement learning",
+      "volume": "205",
+      "author": "Wang",
+      "year": "2023",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2022.107552",
+      "article-title": "Development and evaluation of a robust soft robotic gripper for apple harvesting",
+      "volume": "204",
+      "author": "Wang",
+      "year": "2023",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpls.2022.960686",
+      "article-title": "Design and development of orchard autonomous navigation spray system",
+      "volume": "13",
+      "author": "Wang",
+      "year": "2022",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "B24",
+      "doi-asserted-by": "publisher",
+      "first-page": "3394",
+      "DOI": "10.1109/LRA.2018.2852841",
+      "article-title": "Crop row detection on tiny plants with the pattern hough transform",
+      "volume": "3",
+      "author": "Winterhalter",
+      "year": "2018",
+      "journal-title": "IEEE Robotics Automation Lett."
+    },
+    {
+      "key": "B25",
+      "article-title": "Research of autonomous driving system of tractor based on multi-source information fusion in orchard",
+      "volume-title": "[dissertation/master's thesis]",
+      "author": "Wu",
+      "year": "2019"
+    },
+    {
+      "key": "B26",
+      "article-title": "Research on SLAM navigation method of mobile operating platform for multi-span greenhouse",
+      "volume-title": "[dissertation/master's thesis]",
+      "author": "Xiong",
+      "year": "2021"
+    },
+    {
+      "key": "B27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2022.106964",
+      "article-title": "Visual navigation path extraction of orchard hard pavement based on scanning method and neural network",
+      "volume": "197",
+      "author": "Yang",
+      "year": "2022",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "B28",
+      "doi-asserted-by": "publisher",
+      "first-page": "541",
+      "DOI": "10.1007/s10846-014-0060-7",
+      "article-title": "A low cost ultrasonic based positioning system for the indoor navigation of mobile robots",
+      "volume": "78",
+      "author": "Yayan",
+      "year": "2015",
+      "journal-title": "J. Intelligent Robotic Syst."
+    },
+    {
+      "key": "B29",
+      "doi-asserted-by": "publisher",
+      "first-page": "89",
+      "DOI": "10.25165/j.ijabe.20181106.3023",
+      "article-title": "Development of autonomous navigation system for rice transplanter",
+      "volume": "11",
+      "author": "Yin",
+      "year": "2018",
+      "journal-title": "Int. J. Agric. Biol. Eng."
+    },
+    {
+      "key": "B30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/app10082763",
+      "article-title": "Research on 2d laser automatic navigation control for standardized orchard",
+      "volume": "10",
+      "author": "Zhang",
+      "year": "2020",
+      "journal-title": "Appl. Sci."
+    }
+  ],
+  "container-title": [
+    "Frontiers in Plant Science"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1207742/full",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ],
+    "date-time": "2023-06-26T03:37:46Z",
+    "timestamp": 1687750666000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1207742/full"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ]
+  },
+  "references-count": 30,
+  "alternative-id": [
+    "10.3389/fpls.2023.1207742"
+  ],
+  "URL": "https://doi.org/10.3389/fpls.2023.1207742",
+  "relation": {},
+  "ISSN": [
+    "1664-462X"
+  ],
+  "issn-type": [
+    {
+      "value": "1664-462X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ]
+  },
+  "article-number": "1207742"
+}

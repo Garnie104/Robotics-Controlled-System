@@ -1,0 +1,477 @@
+﻿{
+    "status":  "ok",
+    "message-type":  "work",
+    "message-version":  "1.0.0",
+    "message":  {
+                    "indexed":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2026,
+                                                           9,
+                                                           29
+                                                       ]
+                                                   ],
+                                    "date-time":  "2026-09-29T12:46:23Z",
+                                    "timestamp":  1790685983188,
+                                    "version":  "4.1.0"
+                                },
+                    "reference-count":  23,
+                    "publisher":  "Wiley",
+                    "license":  [
+                                    {
+                                        "start":  {
+                                                      "date-parts":  [
+                                                                         [
+                                                                             2018,
+                                                                             10,
+                                                                             23
+                                                                         ]
+                                                                     ],
+                                                      "date-time":  "2018-10-23T00:00:00Z",
+                                                      "timestamp":  1540252800000
+                                                  },
+                                        "content-version":  "unspecified",
+                                        "delay-in-days":  0,
+                                        "URL":  "http://creativecommons.org/licenses/by/4.0/"
+                                    }
+                                ],
+                    "funder":  [
+                                   {
+                                       "DOI":  "10.13039/501100001807",
+                                       "name":  "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "2015/19630-0"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "2015/19630-0"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100001807",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   },
+                                   {
+                                       "DOI":  "10.13039/501100001807",
+                                       "name":  "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+                                       "doi-asserted-by":  "publisher",
+                                       "award":  [
+                                                     "2015-3"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "2015-3"
+                                                                               ]
+                                                          }
+                                                      ],
+                                       "id":  [
+                                                  {
+                                                      "id":  "10.13039/501100001807",
+                                                      "id-type":  "DOI",
+                                                      "asserted-by":  "publisher"
+                                                  }
+                                              ]
+                                   },
+                                   {
+                                       "name":  "USP-COFECUB program of academic cooperation between French and Brazilian researchers",
+                                       "award":  [
+                                                     "2015/19630-0"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "2015/19630-0"
+                                                                               ]
+                                                          }
+                                                      ]
+                                   },
+                                   {
+                                       "name":  "USP-COFECUB program of academic cooperation between French and Brazilian researchers",
+                                       "award":  [
+                                                     "2015-3"
+                                                 ],
+                                       "award-info":  [
+                                                          {
+                                                              "award-number":  [
+                                                                                   "2015-3"
+                                                                               ]
+                                                          }
+                                                      ]
+                                   }
+                               ],
+                    "content-domain":  {
+                                           "domain":  [
+
+                                                      ],
+                                           "crossmark-restriction":  false
+                                       },
+                    "short-container-title":  [
+                                                  "The Scientific World Journal"
+                                              ],
+                    "published-print":  {
+                                            "date-parts":  [
+                                                               [
+                                                                   2018,
+                                                                   10,
+                                                                   23
+                                                               ]
+                                                           ]
+                                        },
+                    "abstract":  "\u003cjats:p\u003eEmitter clogging is a major problem in microirrigation systems, which may result from the isolated or combined effects of physical, chemical, and biological agents. Clogging caused by suspended solid particles is the most common plugging form of emitters. Water quality and emitter geometry are key aspects in clogging processes. Any suitable test procedure to assess the sensitivity of drippers to clogging should take into account the predominant factors that influence clogging and must reproduce the field conditions. This research set out to assess the performance and suitability of a laboratory clogging test procedure in order to validate a methodology and to provide scientific results that may support the standardization of a clogging test method. The evaluated methodology has been used by the IRSTEA laboratory since 1974 (Platform of Research and experiment on Science and Technology for Irrigation - PReSTI, formerly LERMI) and its contents are currently being discussed by the ISO TC23/SC18 committee. The aim is to define a standardized testing protocol to evaluate the sensitivity of emitters to clogging due to solid particles. Replications analyzing the clogging resistance of four models of emitting pipes were carried out in a laboratory. The clogging test procedure enabled an accurate assessment of the combinations of concentration and size of particles that caused clogging in each model of dripper. However, a significant variability in degree of clogging was identified when the results of replications for each model of dripper were compared. Several requirements, concerns, and improvements related to the clogging test protocol were discussed.\u003c/jats:p\u003e",
+                    "DOI":  "10.1155/2018/7697458",
+                    "type":  "journal-article",
+                    "created":  {
+                                    "date-parts":  [
+                                                       [
+                                                           2018,
+                                                           10,
+                                                           23
+                                                       ]
+                                                   ],
+                                    "date-time":  "2018-10-23T21:26:17Z",
+                                    "timestamp":  1540329977000
+                                },
+                    "page":  "1-9",
+                    "source":  "Crossref",
+                    "is-referenced-by-count":  13,
+                    "title":  [
+                                  "Methodology to Evaluate Dripper Sensitivity to Clogging due to Solid Particles: An Assessment"
+                              ],
+                    "prefix":  "10.1155",
+                    "volume":  "2018",
+                    "author":  [
+                                   {
+                                       "given":  "Rogério",
+                                       "family":  "Lavanholi",
+                                       "sequence":  "first",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Biosystems Engineering Department, College of Agriculture “Luiz de Queiroz” (ESALQ), University of São Paulo (USP), Piracicaba, SP, Brazil"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Fabricio C.",
+                                       "family":  "Oliveira",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Faculty of Agrarian Science (FCA), Federal University of Great Dourados (UFGD), Dourados, MS, Brazil"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "ORCID":  "https://orcid.org/0000-0001-5164-2634",
+                                       "authenticated-orcid":  true,
+                                       "given":  "Antonio P. de",
+                                       "family":  "Camargo",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "College of Agricultural Engineering (FEAGRI), State University of Campinas (UNICAMP), Campinas, SP, Brazil"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "José A.",
+                                       "family":  "Frizzone",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "Biosystems Engineering Department, College of Agriculture “Luiz de Queiroz” (ESALQ), University of São Paulo (USP), Piracicaba, SP, Brazil"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Bruno",
+                                       "family":  "Molle",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Montpellier, France"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Nassim",
+                                       "family":  "Ait-Mouheb",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Montpellier, France"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   },
+                                   {
+                                       "given":  "Séverine",
+                                       "family":  "Tomas",
+                                       "sequence":  "additional",
+                                       "affiliation":  [
+                                                           {
+                                                               "name":  "National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Montpellier, France"
+                                                           }
+                                                       ],
+                                       "role":  [
+                                                    {
+                                                        "vocabulary":  "crossref",
+                                                        "role":  "author"
+                                                    }
+                                                ]
+                                   }
+                               ],
+                    "member":  "311",
+                    "reference":  [
+                                      {
+                                          "key":  "1",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.2166/aqua.2017.065"
+                                      },
+                                      {
+                                          "key":  "2",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1002/ird.2173"
+                                      },
+                                      {
+                                          "key":  "3",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1007/BF00190522"
+                                      },
+                                      {
+                                          "key":  "4",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1061/(ASCE)0733-9437(1991)117:6(813)"
+                                      },
+                                      {
+                                          "key":  "5",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1016/0273-1223(95)00528-U"
+                                      },
+                                      {
+                                          "key":  "6",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1007/s00271-013-0414-0"
+                                      },
+                                      {
+                                          "key":  "7",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1007/s00271-016-0506-8"
+                                      },
+                                      {
+                                          "key":  "8",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.13031/trans.56.10293"
+                                      },
+                                      {
+                                          "key":  "10",
+                                          "year":  "2011"
+                                      },
+                                      {
+                                          "key":  "11",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1016/j.compag.2008.03.008"
+                                      },
+                                      {
+                                          "key":  "12",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1061/%28ASCE%290733-9437%282008%29134%3A3%28298%29"
+                                      },
+                                      {
+                                          "key":  "13",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1016/j.compag.2010.06.005"
+                                      },
+                                      {
+                                          "key":  "14",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.13031/2013.20483"
+                                      },
+                                      {
+                                          "key":  "15",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.3901/CJME.2012.04.729"
+                                      },
+                                      {
+                                          "key":  "16",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1006/jaer.1998.0287"
+                                      },
+                                      {
+                                          "key":  "17",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.4172/2168-9768.1000184"
+                                      },
+                                      {
+                                          "key":  "18",
+                                          "year":  "1994"
+                                      },
+                                      {
+                                          "key":  "19",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1002/nme.1935"
+                                      },
+                                      {
+                                          "key":  "20",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1007/s00271-012-0328-2"
+                                      },
+                                      {
+                                          "key":  "22",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1007/s00271-008-0108-1"
+                                      },
+                                      {
+                                          "key":  "23",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1016/j.mcm.2011.10.074"
+                                      },
+                                      {
+                                          "key":  "24",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1016/j.agwat.2016.12.017"
+                                      },
+                                      {
+                                          "key":  "25",
+                                          "doi-asserted-by":  "publisher",
+                                          "DOI":  "10.1590/S1415-43662011000200015"
+                                      }
+                                  ],
+                    "container-title":  [
+                                            "The Scientific World Journal"
+                                        ],
+                    "original-title":  [
+
+                                       ],
+                    "language":  "en",
+                    "link":  [
+                                 {
+                                     "URL":  "http://downloads.hindawi.com/journals/tswj/2018/7697458.pdf",
+                                     "content-type":  "application/pdf",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "http://downloads.hindawi.com/journals/tswj/2018/7697458.xml",
+                                     "content-type":  "application/xml",
+                                     "content-version":  "vor",
+                                     "intended-application":  "text-mining"
+                                 },
+                                 {
+                                     "URL":  "http://downloads.hindawi.com/journals/tswj/2018/7697458.pdf",
+                                     "content-type":  "unspecified",
+                                     "content-version":  "vor",
+                                     "intended-application":  "similarity-checking"
+                                 }
+                             ],
+                    "deposited":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2018,
+                                                             10,
+                                                             23
+                                                         ]
+                                                     ],
+                                      "date-time":  "2018-10-23T21:26:21Z",
+                                      "timestamp":  1540329981000
+                                  },
+                    "score":  1,
+                    "resource":  {
+                                     "primary":  {
+                                                     "URL":  "https://www.hindawi.com/journals/tswj/2018/7697458/"
+                                                 }
+                                 },
+                    "subtitle":  [
+
+                                 ],
+                    "short-title":  [
+
+                                    ],
+                    "issued":  {
+                                   "date-parts":  [
+                                                      [
+                                                          2018,
+                                                          10,
+                                                          23
+                                                      ]
+                                                  ]
+                               },
+                    "references-count":  23,
+                    "alternative-id":  [
+                                           "7697458",
+                                           "7697458"
+                                       ],
+                    "URL":  "https://doi.org/10.1155/2018/7697458",
+                    "relation":  {
+
+                                 },
+                    "ISSN":  [
+                                 "2356-6140",
+                                 "1537-744X"
+                             ],
+                    "issn-type":  [
+                                      {
+                                          "value":  "2356-6140",
+                                          "type":  "print"
+                                      },
+                                      {
+                                          "value":  "1537-744X",
+                                          "type":  "electronic"
+                                      }
+                                  ],
+                    "subject":  [
+
+                                ],
+                    "published":  {
+                                      "date-parts":  [
+                                                         [
+                                                             2018,
+                                                             10,
+                                                             23
+                                                         ]
+                                                     ]
+                                  }
+                }
+}

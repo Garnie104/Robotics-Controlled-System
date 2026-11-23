@@ -1,0 +1,1058 @@
+{
+  "id": "https://openalex.org/W4389888561",
+  "doi": "https://doi.org/10.1016/j.renene.2023.119822",
+  "title": "Sizing and scheduling optimisation method for off-grid battery photovoltaic irrigation networks",
+  "display_name": "Sizing and scheduling optimisation method for off-grid battery photovoltaic irrigation networks",
+  "publication_year": 2023,
+  "publication_date": "2023-12-18",
+  "ids": {
+    "openalex": "https://openalex.org/W4389888561",
+    "doi": "https://doi.org/10.1016/j.renene.2023.119822"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.renene.2023.119822",
+    "doi": "https://doi.org/10.1016/j.renene.2023.119822",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.renene.2023.119822",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0960148123017378",
+    "source": {
+      "id": "https://openalex.org/S815301",
+      "display_name": "Renewable Energy",
+      "issn_l": "0960-1481",
+      "issn": [
+        "0960-1481",
+        "1879-0682"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-b",
+        "jufo-2",
+        "norway-1",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Renewable Energy",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0960148123017378",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5048353993",
+        "display_name": "Miguel Ángel Pardo Picazo",
+        "orcid": "https://orcid.org/0000-0001-8779-3258",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-8779-3258"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130194489",
+          "display_name": "University of Alicante",
+          "ror": "https://ror.org/05t8bcz72",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130194489"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "M.A. Pardo",
+      "raw_affiliation_strings": [
+        "Department of Civil Engineering, University of Alicante, 03690, Alicante, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8779-3258",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Civil Engineering, University of Alicante, 03690, Alicante, Spain",
+          "institution_ids": [
+            "https://openalex.org/I130194489"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5065876601",
+        "display_name": "F.J. Navarro-González",
+        "orcid": "https://orcid.org/0000-0001-8164-1931",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-8164-1931"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130194489",
+          "display_name": "University of Alicante",
+          "ror": "https://ror.org/05t8bcz72",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130194489"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F.J. Navarro-González",
+      "raw_affiliation_strings": [
+        "Department of Applied Mathematics, University of Alicante, 03690, Alicante, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8164-1931",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Applied Mathematics, University of Alicante, 03690, Alicante, Spain",
+          "institution_ids": [
+            "https://openalex.org/I130194489"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5048353993"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I130194489"
+  ],
+  "apc_list": {
+    "value": 3820,
+    "currency": "USD",
+    "value_usd": 3820
+  },
+  "apc_paid": {
+    "value": 3820,
+    "currency": "USD",
+    "value_usd": 3820
+  },
+  "fwci": 1.2647,
+  "has_fulltext": true,
+  "cited_by_count": 26,
+  "citation_normalized_percentile": {
+    "value": 0.76133862,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "221",
+    "issue": null,
+    "first_page": "119822",
+    "last_page": "119822"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10468",
+    "display_name": "Photovoltaic System Optimization Techniques",
+    "score": 0.5282999873161316,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2105",
+      "display_name": "Renewable Energy, Sustainability and the Environment"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/21",
+      "display_name": "Energy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10468",
+      "display_name": "Photovoltaic System Optimization Techniques",
+      "score": 0.5282999873161316,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14444",
+      "display_name": "Power Systems and Renewable Energy",
+      "score": 0.21359999477863312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2102",
+        "display_name": "Energy Engineering and Power Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11007",
+      "display_name": "Hybrid Renewable Energy Systems",
+      "score": 0.1264999955892563,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2102",
+        "display_name": "Energy Engineering and Power Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/off-grid-solar-power",
+      "display_name": "off-grid solar power",
+      "score": 0.7459999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/solar-powered-irrigation",
+      "display_name": "solar-powered irrigation",
+      "score": 0.7379999756813049
+    },
+    {
+      "id": "https://openalex.org/keywords/battery-sizing",
+      "display_name": "battery sizing",
+      "score": 0.9800000190734863
+    },
+    {
+      "id": "https://openalex.org/keywords/scheduling-optimisation",
+      "display_name": "scheduling optimisation",
+      "score": 0.8370000123977661
+    },
+    {
+      "id": "https://openalex.org/keywords/pressurized-irrigation-networks",
+      "display_name": "pressurized irrigation networks",
+      "score": 0.6949999928474426
+    },
+    {
+      "id": "https://openalex.org/keywords/seasonal-energy-demand",
+      "display_name": "seasonal energy demand",
+      "score": 0.8330000042915344
+    },
+    {
+      "id": "https://openalex.org/keywords/water-demand",
+      "display_name": "water demand",
+      "score": 0.5180000066757202
+    },
+    {
+      "id": "https://openalex.org/keywords/remote-irrigation",
+      "display_name": "remote irrigation",
+      "score": 0.44600000977516174
+    },
+    {
+      "id": "https://openalex.org/keywords/sustainable-agriculture",
+      "display_name": "sustainable agriculture",
+      "score": 0.5460000038146973
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41291067",
+      "wikidata": "https://www.wikidata.org/wiki/Q1897785",
+      "display_name": "Photovoltaic system",
+      "level": 2,
+      "score": 0.7821310758590698
+    },
+    {
+      "id": "https://openalex.org/C2777767291",
+      "wikidata": "https://www.wikidata.org/wiki/Q1080291",
+      "display_name": "Sizing",
+      "level": 2,
+      "score": 0.7484036684036255
+    },
+    {
+      "id": "https://openalex.org/C88862950",
+      "wikidata": "https://www.wikidata.org/wiki/Q11453",
+      "display_name": "Irrigation",
+      "level": 2,
+      "score": 0.6473039388656616
+    },
+    {
+      "id": "https://openalex.org/C187691185",
+      "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+      "display_name": "Grid",
+      "level": 2,
+      "score": 0.604736328125
+    },
+    {
+      "id": "https://openalex.org/C2982926626",
+      "wikidata": "https://www.wikidata.org/wiki/Q1962383",
+      "display_name": "Sustainable energy",
+      "level": 3,
+      "score": 0.5256670117378235
+    },
+    {
+      "id": "https://openalex.org/C555008776",
+      "wikidata": "https://www.wikidata.org/wiki/Q267298",
+      "display_name": "Battery (electricity)",
+      "level": 3,
+      "score": 0.4899872839450836
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.429801881313324
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.42805618047714233
+    },
+    {
+      "id": "https://openalex.org/C134560507",
+      "wikidata": "https://www.wikidata.org/wiki/Q753291",
+      "display_name": "Environmental economics",
+      "level": 1,
+      "score": 0.42009836435317993
+    },
+    {
+      "id": "https://openalex.org/C206729178",
+      "wikidata": "https://www.wikidata.org/wiki/Q2271896",
+      "display_name": "Scheduling (production processes)",
+      "level": 2,
+      "score": 0.41749852895736694
+    },
+    {
+      "id": "https://openalex.org/C2777589951",
+      "wikidata": "https://www.wikidata.org/wiki/Q6073845",
+      "display_name": "Irrigation scheduling",
+      "level": 3,
+      "score": 0.41726359724998474
+    },
+    {
+      "id": "https://openalex.org/C88463610",
+      "wikidata": "https://www.wikidata.org/wiki/Q194118",
+      "display_name": "Agricultural engineering",
+      "level": 1,
+      "score": 0.3625527620315552
+    },
+    {
+      "id": "https://openalex.org/C87717796",
+      "wikidata": "https://www.wikidata.org/wiki/Q146326",
+      "display_name": "Environmental engineering",
+      "level": 1,
+      "score": 0.3535112738609314
+    },
+    {
+      "id": "https://openalex.org/C171146098",
+      "wikidata": "https://www.wikidata.org/wiki/Q124192",
+      "display_name": "Automotive engineering",
+      "level": 1,
+      "score": 0.3339591324329376
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.3325309157371521
+    },
+    {
+      "id": "https://openalex.org/C188573790",
+      "wikidata": "https://www.wikidata.org/wiki/Q12705",
+      "display_name": "Renewable energy",
+      "level": 2,
+      "score": 0.2610306143760681
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.22793641686439514
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.18750843405723572
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.1607418656349182
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.08933651447296143
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0818982720375061
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C153349607",
+      "wikidata": "https://www.wikidata.org/wiki/Q36649",
+      "display_name": "Visual arts",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.renene.2023.119822",
+      "doi": "https://doi.org/10.1016/j.renene.2023.119822",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.renene.2023.119822",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0960148123017378",
+      "source": {
+        "id": "https://openalex.org/S815301",
+        "display_name": "Renewable Energy",
+        "issn_l": "0960-1481",
+        "issn": [
+          "0960-1481",
+          "1879-0682"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-b",
+          "jufo-2",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Renewable Energy",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.2139/ssrn.4579631",
+      "doi": "https://doi.org/10.2139/ssrn.4579631",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.4579631",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmh:oai:rua.ua.es:10045/139291",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10045/139291",
+      "pdf_url": "http://rua.ua.es/dspace/bitstream/10045/139291/3/Pardo_Navarro-Gonzalez_2024_RenewableEnergy.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400416",
+        "display_name": "Repositorio Institucional de la Universidad de Alicante (Universidad de Alicante)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I130194489",
+        "host_organization_name": "University of Alicante",
+        "host_organization_lineage": [
+          "https://openalex.org/I130194489"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:RePEc:eee:renene:v:221:y:2024:i:c:s0960148123017378",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://www.sciencedirect.com/science/article/pii/S0960148123017378",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.renene.2023.119822",
+    "doi": "https://doi.org/10.1016/j.renene.2023.119822",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.renene.2023.119822",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0960148123017378",
+    "source": {
+      "id": "https://openalex.org/S815301",
+      "display_name": "Renewable Energy",
+      "issn_l": "0960-1481",
+      "issn": [
+        "0960-1481",
+        "1879-0682"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-b",
+        "jufo-2",
+        "norway-1",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Renewable Energy",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 1.0,
+      "id": "https://metadata.un.org/sdg/7",
+      "display_name": "Affordable and clean energy"
+    },
+    {
+      "score": 0.8970999717712402,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    },
+    {
+      "score": 0.821399986743927,
+      "id": "https://metadata.un.org/sdg/13",
+      "display_name": "Climate action"
+    },
+    {
+      "score": 0.6618000268936157,
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation"
+    },
+    {
+      "score": 0.5666999816894531,
+      "id": "https://metadata.un.org/sdg/2",
+      "display_name": "Zero hunger"
+    }
+  ],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G6034257864",
+      "display_name": "Support of higher education system in a context of climate change mitigation through regional-level of carbon footprint caused by a product, building and organization",
+      "funder_award_id": "2021-1-SK01-KA220-HED-000023274",
+      "funder_id": "https://openalex.org/F4320335551",
+      "funder_display_name": "Erasmus+"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335551",
+      "display_name": "Erasmus+",
+      "ror": "https://ror.org/01v2m4n16"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4389888561.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4389888561.grobid-xml"
+  },
+  "referenced_works_count": 50,
+  "referenced_works": [
+    "https://openalex.org/W866183661",
+    "https://openalex.org/W1988078259",
+    "https://openalex.org/W1997054429",
+    "https://openalex.org/W2043868791",
+    "https://openalex.org/W2078077021",
+    "https://openalex.org/W2118930997",
+    "https://openalex.org/W2157408729",
+    "https://openalex.org/W2300947928",
+    "https://openalex.org/W2415776763",
+    "https://openalex.org/W2492975200",
+    "https://openalex.org/W2493508678",
+    "https://openalex.org/W2525457354",
+    "https://openalex.org/W2547518362",
+    "https://openalex.org/W2566737899",
+    "https://openalex.org/W2733454919",
+    "https://openalex.org/W2773957237",
+    "https://openalex.org/W2776911000",
+    "https://openalex.org/W2779182147",
+    "https://openalex.org/W2794741274",
+    "https://openalex.org/W2795812752",
+    "https://openalex.org/W2796854462",
+    "https://openalex.org/W2886809201",
+    "https://openalex.org/W2888625677",
+    "https://openalex.org/W2902104996",
+    "https://openalex.org/W2911612251",
+    "https://openalex.org/W2912148917",
+    "https://openalex.org/W2932351613",
+    "https://openalex.org/W2947534713",
+    "https://openalex.org/W2956971290",
+    "https://openalex.org/W2979582213",
+    "https://openalex.org/W2995770837",
+    "https://openalex.org/W2996419091",
+    "https://openalex.org/W3000426112",
+    "https://openalex.org/W3006407522",
+    "https://openalex.org/W3047076522",
+    "https://openalex.org/W3093918052",
+    "https://openalex.org/W3099446489",
+    "https://openalex.org/W3108366979",
+    "https://openalex.org/W3157764683",
+    "https://openalex.org/W3194982936",
+    "https://openalex.org/W4206489915",
+    "https://openalex.org/W4221005702",
+    "https://openalex.org/W4280651497",
+    "https://openalex.org/W4283162818",
+    "https://openalex.org/W4285122660",
+    "https://openalex.org/W4286275457",
+    "https://openalex.org/W4293353596",
+    "https://openalex.org/W4319336499",
+    "https://openalex.org/W4360978768",
+    "https://openalex.org/W4368351295"
+  ],
+  "related_works": [
+    "https://openalex.org/W4407246020",
+    "https://openalex.org/W4360978768",
+    "https://openalex.org/W1982957109",
+    "https://openalex.org/W2901304354",
+    "https://openalex.org/W2966683546",
+    "https://openalex.org/W3045044877",
+    "https://openalex.org/W4286203026",
+    "https://openalex.org/W4396608867",
+    "https://openalex.org/W7115180291",
+    "https://openalex.org/W3120132788"
+  ],
+  "abstract_inverted_index": {
+    "An": [
+      0
+    ],
+    "algorithm": [
+      1,
+      24
+    ],
+    "to": [
+      2,
+      12,
+      53
+    ],
+    "optimise": [
+      3
+    ],
+    "the": [
+      4,
+      14,
+      63,
+      68
+    ],
+    "number": [
+      5
+    ],
+    "of": [
+      6,
+      17
+    ],
+    "solar": [
+      7,
+      44
+    ],
+    "panels": [
+      8
+    ],
+    "and": [
+      9,
+      32,
+      39,
+      57,
+      65,
+      83,
+      89
+    ],
+    "battery": [
+      10
+    ],
+    "size": [
+      11
+    ],
+    "meet": [
+      13
+    ],
+    "water": [
+      15,
+      90
+    ],
+    "demands": [
+      16
+    ],
+    "an": [
+      18,
+      42,
+      55
+    ],
+    "installation": [
+      19
+    ],
+    "has": [
+      20
+    ],
+    "been": [
+      21
+    ],
+    "developed.": [
+      22
+    ],
+    "The": [
+      23
+    ],
+    "adjusts": [
+      25
+    ],
+    "for": [
+      26
+    ],
+    "seasonal": [
+      27
+    ],
+    "changes": [
+      28
+    ],
+    "in": [
+      29,
+      34,
+      41,
+      77,
+      87
+    ],
+    "energy": [
+      30,
+      86
+    ],
+    "use": [
+      31
+    ],
+    "production": [
+      33,
+      40
+    ],
+    "a": [
+      35
+    ],
+    "pressurized": [
+      36
+    ],
+    "irrigation": [
+      37,
+      59,
+      75
+    ],
+    "network": [
+      38
+    ],
+    "off-grid": [
+      43
+    ],
+    "panel": [
+      45
+    ],
+    "system.": [
+      46
+    ],
+    "By": [
+      47
+    ],
+    "using": [
+      48
+    ],
+    "this": [
+      49
+    ],
+    "algorithm,": [
+      50
+    ],
+    "we": [
+      51
+    ],
+    "aim": [
+      52
+    ],
+    "create": [
+      54
+    ],
+    "efficient": [
+      56
+    ],
+    "sustainable": [
+      58,
+      85
+    ],
+    "system": [
+      60
+    ],
+    "by": [
+      61
+    ],
+    "reducing": [
+      62
+    ],
+    "infrastructure": [
+      64
+    ],
+    "reliance": [
+      66
+    ],
+    "on": [
+      67
+    ],
+    "power": [
+      69
+    ],
+    "grid.": [
+      70
+    ],
+    "This": [
+      71
+    ],
+    "method": [
+      72
+    ],
+    "can": [
+      73
+    ],
+    "enhance": [
+      74
+    ],
+    "systems": [
+      76
+    ],
+    "far-off": [
+      78
+    ],
+    "regions,": [
+      79
+    ],
+    "strengthen": [
+      80
+    ],
+    "their": [
+      81
+    ],
+    "endurance,": [
+      82
+    ],
+    "promote": [
+      84
+    ],
+    "farming": [
+      88
+    ],
+    "administration.": [
+      91
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-11-10T11:39:43.021295",
+  "created_date": "2023-12-19T00:00:00"
+}

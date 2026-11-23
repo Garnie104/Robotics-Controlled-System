@@ -1,0 +1,1162 @@
+{
+  "id": "https://openalex.org/W4383721730",
+  "doi": "https://doi.org/10.3390/iot4030012",
+  "title": "IoT-Enabled Smart Drip Irrigation System Using ESP32",
+  "display_name": "IoT-Enabled Smart Drip Irrigation System Using ESP32",
+  "publication_year": 2023,
+  "publication_date": "2023-07-07",
+  "ids": {
+    "openalex": "https://openalex.org/W4383721730",
+    "doi": "https://doi.org/10.3390/iot4030012"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/iot4030012",
+    "doi": "https://doi.org/10.3390/iot4030012",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/iot4030012",
+    "pdf_url": "https://www.mdpi.com/2624-831X/4/3/12/pdf?version=1688731621",
+    "source": {
+      "id": "https://openalex.org/S4210207801",
+      "display_name": "IoT",
+      "issn_l": "2624-831X",
+      "issn": [
+        "2624-831X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj",
+        "norway-1"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IoT",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2624-831X/4/3/12/pdf?version=1688731621",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5075661004",
+        "display_name": "Gilroy Philbert Pereira",
+        "orcid": "https://orcid.org/0000-0003-2271-6379",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2271-6379"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Gilroy P. Pereira",
+      "raw_affiliation_strings": [
+        "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2271-6379",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021431830",
+        "display_name": "Mohamed Zied Chaari",
+        "orcid": "https://orcid.org/0000-0002-8770-9420",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8770-9420"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mohamed Z. Chaari",
+      "raw_affiliation_strings": [
+        "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8770-9420",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5087325609",
+        "display_name": "Fawwad Daroge",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Fawwad Daroge",
+      "raw_affiliation_strings": [
+        "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "FAB-LAB, Qatar Scientific Club, Doha P.O. Box 9769, Qatar",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5075661004"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1200,
+    "currency": "CHF",
+    "value_usd": 1335
+  },
+  "apc_paid": {
+    "value": 1200,
+    "currency": "CHF",
+    "value_usd": 1335
+  },
+  "fwci": 18.6539,
+  "has_fulltext": false,
+  "cited_by_count": 135,
+  "citation_normalized_percentile": {
+    "value": 0.99802741,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "4",
+    "issue": "3",
+    "first_page": "221",
+    "last_page": "243"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10616",
+    "display_name": "Smart Agriculture and AI",
+    "score": 0.9970999956130981,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1110",
+      "display_name": "Plant Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10616",
+      "display_name": "Smart Agriculture and AI",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13420",
+      "display_name": "Arduino and IoT Applications",
+      "score": 0.002300000051036477,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13391",
+      "display_name": "Innovations in Aquaponics and Hydroponics Systems",
+      "score": 0.00019999999494757503,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1104",
+        "display_name": "Aquatic Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/internet-of-things",
+      "display_name": "Internet of Things",
+      "score": 0.7889999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/esp32",
+      "display_name": "ESP32 microcontroller",
+      "score": 0.9369999766349792
+    },
+    {
+      "id": "https://openalex.org/keywords/blynk",
+      "display_name": "Blynk",
+      "score": 0.8450000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/soil-moisture-sensors",
+      "display_name": "soil moisture sensors",
+      "score": 0.8690000176429749
+    },
+    {
+      "id": "https://openalex.org/keywords/temperature-sensors",
+      "display_name": "temperature sensors",
+      "score": 0.7319999933242798
+    },
+    {
+      "id": "https://openalex.org/keywords/humidity-sensor",
+      "display_name": "humidity sensor",
+      "score": 0.9330000281333923
+    },
+    {
+      "id": "https://openalex.org/keywords/water-flow-sensor",
+      "display_name": "water flow sensor",
+      "score": 0.9449999928474426
+    },
+    {
+      "id": "https://openalex.org/keywords/solenoid-valve",
+      "display_name": "solenoid valve",
+      "score": 0.984000027179718
+    },
+    {
+      "id": "https://openalex.org/keywords/automated-irrigation",
+      "display_name": "irrigation automation",
+      "score": 0.6809999942779541
+    },
+    {
+      "id": "https://openalex.org/keywords/agricultural-automation",
+      "display_name": "agricultural automation",
+      "score": 0.5260000228881836
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C152453397",
+      "wikidata": "https://www.wikidata.org/wiki/Q746694",
+      "display_name": "Drip irrigation",
+      "level": 3,
+      "score": 0.7725286483764648
+    },
+    {
+      "id": "https://openalex.org/C88862950",
+      "wikidata": "https://www.wikidata.org/wiki/Q11453",
+      "display_name": "Irrigation",
+      "level": 2,
+      "score": 0.5321668386459351
+    },
+    {
+      "id": "https://openalex.org/C88463610",
+      "wikidata": "https://www.wikidata.org/wiki/Q194118",
+      "display_name": "Agricultural engineering",
+      "level": 1,
+      "score": 0.46111416816711426
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.45137327909469604
+    },
+    {
+      "id": "https://openalex.org/C118518473",
+      "wikidata": "https://www.wikidata.org/wiki/Q11451",
+      "display_name": "Agriculture",
+      "level": 2,
+      "score": 0.42887425422668457
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4261961281299591
+    },
+    {
+      "id": "https://openalex.org/C81860439",
+      "wikidata": "https://www.wikidata.org/wiki/Q251212",
+      "display_name": "Internet of Things",
+      "level": 2,
+      "score": 0.4247894287109375
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.18932631611824036
+    },
+    {
+      "id": "https://openalex.org/C6557445",
+      "wikidata": "https://www.wikidata.org/wiki/Q173113",
+      "display_name": "Agronomy",
+      "level": 1,
+      "score": 0.13653457164764404
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.10226091742515564
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.09968051314353943
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/iot4030012",
+      "doi": "https://doi.org/10.3390/iot4030012",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/iot4030012",
+      "pdf_url": "https://www.mdpi.com/2624-831X/4/3/12/pdf?version=1688731621",
+      "source": {
+        "id": "https://openalex.org/S4210207801",
+        "display_name": "IoT",
+        "issn_l": "2624-831X",
+        "issn": [
+          "2624-831X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IoT",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d87721d24c12485cb6528216ffed79d6",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/d87721d24c12485cb6528216ffed79d6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "IoT, Vol 4, Iss 3, Pp 221-243 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/iot4030012",
+    "doi": "https://doi.org/10.3390/iot4030012",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/iot4030012",
+    "pdf_url": "https://www.mdpi.com/2624-831X/4/3/12/pdf?version=1688731621",
+    "source": {
+      "id": "https://openalex.org/S4210207801",
+      "display_name": "IoT",
+      "issn_l": "2624-831X",
+      "issn": [
+        "2624-831X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "doaj",
+        "norway-1"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IoT",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Zero hunger",
+      "score": 0.875,
+      "id": "https://metadata.un.org/sdg/2"
+    },
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.651199996471405,
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4383721730.pdf"
+  },
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W2565861920",
+    "https://openalex.org/W2623378299",
+    "https://openalex.org/W2767940001",
+    "https://openalex.org/W2895892608",
+    "https://openalex.org/W2901260074",
+    "https://openalex.org/W2952482356",
+    "https://openalex.org/W2954994540",
+    "https://openalex.org/W2996035103",
+    "https://openalex.org/W3031322185",
+    "https://openalex.org/W3033305608",
+    "https://openalex.org/W3124764849",
+    "https://openalex.org/W4210241498",
+    "https://openalex.org/W4287843580",
+    "https://openalex.org/W4298021599",
+    "https://openalex.org/W4306291737",
+    "https://openalex.org/W4312411277",
+    "https://openalex.org/W4313401176",
+    "https://openalex.org/W4322771389",
+    "https://openalex.org/W4323022416",
+    "https://openalex.org/W4323528696"
+  ],
+  "related_works": [
+    "https://openalex.org/W7163913213",
+    "https://openalex.org/W7143524696",
+    "https://openalex.org/W4410886821",
+    "https://openalex.org/W7161688267",
+    "https://openalex.org/W7212366356",
+    "https://openalex.org/W7212187162",
+    "https://openalex.org/W7217001335",
+    "https://openalex.org/W7167595549",
+    "https://openalex.org/W4390695820",
+    "https://openalex.org/W4415360192"
+  ],
+  "abstract_inverted_index": {
+    "Agriculture,": [
+      0
+    ],
+    "or": [
+      1,
+      228
+    ],
+    "farming,": [
+      2
+    ],
+    "is": [
+      3,
+      112,
+      163,
+      168,
+      174,
+      198,
+      225
+    ],
+    "the": [
+      4,
+      8,
+      17,
+      20,
+      43,
+      51,
+      56,
+      97,
+      108,
+      120,
+      124,
+      133,
+      136,
+      140,
+      161,
+      166,
+      171,
+      178,
+      186,
+      194,
+      202,
+      207,
+      214,
+      220,
+      223,
+      236,
+      242,
+      254
+    ],
+    "science": [
+      5,
+      39
+    ],
+    "of": [
+      6,
+      19,
+      55,
+      58,
+      135,
+      190
+    ],
+    "cultivating": [
+      7
+    ],
+    "soil,": [
+      9
+    ],
+    "growing": [
+      10
+    ],
+    "crops,": [
+      11
+    ],
+    "and": [
+      12,
+      38,
+      53,
+      76,
+      100,
+      128,
+      152,
+      170,
+      184,
+      218,
+      248,
+      258
+    ],
+    "raising": [
+      13
+    ],
+    "livestock.": [
+      14
+    ],
+    "Ever": [
+      15
+    ],
+    "since": [
+      16
+    ],
+    "days": [
+      18
+    ],
+    "first": [
+      21
+    ],
+    "plow": [
+      22
+    ],
+    "from": [
+      23
+    ],
+    "sticks": [
+      24
+    ],
+    "over": [
+      25
+    ],
+    "ten": [
+      26
+    ],
+    "thousand": [
+      27
+    ],
+    "years": [
+      28
+    ],
+    "ago,": [
+      29
+    ],
+    "agriculture": [
+      30,
+      73
+    ],
+    "has": [
+      31
+    ],
+    "always": [
+      32
+    ],
+    "depended": [
+      33
+    ],
+    "on": [
+      34,
+      132,
+      201
+    ],
+    "technology.": [
+      35
+    ],
+    "As": [
+      36
+    ],
+    "technology": [
+      37,
+      70
+    ],
+    "improved,": [
+      40
+    ],
+    "so": [
+      41
+    ],
+    "did": [
+      42
+    ],
+    "scale": [
+      44
+    ],
+    "at": [
+      45
+    ],
+    "which": [
+      46,
+      111
+    ],
+    "farming": [
+      47
+    ],
+    "was": [
+      48,
+      259
+    ],
+    "possible.": [
+      49
+    ],
+    "With": [
+      50
+    ],
+    "popularity": [
+      52
+    ],
+    "growth": [
+      54
+    ],
+    "Internet": [
+      57
+    ],
+    "Things": [
+      59
+    ],
+    "(IoT)": [
+      60
+    ],
+    "in": [
+      61,
+      79
+    ],
+    "recent": [
+      62
+    ],
+    "years,": [
+      63
+    ],
+    "there": [
+      64
+    ],
+    "are": [
+      65
+    ],
+    "even": [
+      66
+    ],
+    "more": [
+      67,
+      74
+    ],
+    "avenues": [
+      68
+    ],
+    "for": [
+      69,
+      176
+    ],
+    "to": [
+      71,
+      95,
+      114,
+      142,
+      192,
+      241,
+      261
+    ],
+    "make": [
+      72
+    ],
+    "efficient": [
+      75
+    ],
+    "help": [
+      77
+    ],
+    "farmers": [
+      78
+    ],
+    "every": [
+      80
+    ],
+    "nation.": [
+      81
+    ],
+    "In": [
+      82,
+      245
+    ],
+    "this": [
+      83
+    ],
+    "paper,": [
+      84
+    ],
+    "we": [
+      85,
+      101,
+      251
+    ],
+    "designed": [
+      86
+    ],
+    "a": [
+      87,
+      143,
+      181
+    ],
+    "smart": [
+      88
+    ],
+    "IoT-enabled": [
+      89
+    ],
+    "drip": [
+      90,
+      195
+    ],
+    "irrigation": [
+      91,
+      98,
+      116,
+      196
+    ],
+    "system": [
+      92,
+      197,
+      239,
+      255
+    ],
+    "using": [
+      93
+    ],
+    "ESP32": [
+      94,
+      105,
+      141,
+      157,
+      179,
+      212
+    ],
+    "automate": [
+      96
+    ],
+    "process,": [
+      99
+    ],
+    "tested": [
+      102
+    ],
+    "it.": [
+      103
+    ],
+    "The": [
+      104,
+      156,
+      188,
+      211,
+      231
+    ],
+    "communicates": [
+      106
+    ],
+    "with": [
+      107
+    ],
+    "Blynk": [
+      109
+    ],
+    "app,": [
+      110
+    ],
+    "used": [
+      113
+    ],
+    "collect": [
+      115
+    ],
+    "data,": [
+      117
+    ],
+    "manually": [
+      118
+    ],
+    "water": [
+      119,
+      153,
+      208
+    ],
+    "plants,": [
+      121
+    ],
+    "switch": [
+      122,
+      234
+    ],
+    "off": [
+      123,
+      235
+    ],
+    "automatic": [
+      125,
+      237
+    ],
+    "watering": [
+      126,
+      238
+    ],
+    "function,": [
+      127
+    ],
+    "plot": [
+      129
+    ],
+    "graphs": [
+      130
+    ],
+    "based": [
+      131,
+      200
+    ],
+    "readings": [
+      134
+    ],
+    "sensors.": [
+      137
+    ],
+    "We": [
+      138
+    ],
+    "connected": [
+      139
+    ],
+    "soil": [
+      144,
+      162,
+      167,
+      172
+    ],
+    "moisture": [
+      145
+    ],
+    "sensor,": [
+      146,
+      148,
+      151
+    ],
+    "temperature": [
+      147,
+      173
+    ],
+    "air": [
+      149
+    ],
+    "humidity": [
+      150,
+      215,
+      224,
+      243
+    ],
+    "flow": [
+      154,
+      203,
+      209
+    ],
+    "sensor.": [
+      155,
+      210
+    ],
+    "regularly": [
+      158
+    ],
+    "checks": [
+      159
+    ],
+    "if": [
+      160
+    ],
+    "dry.": [
+      164
+    ],
+    "If": [
+      165
+    ],
+    "dry": [
+      169
+    ],
+    "appropriate": [
+      175
+    ],
+    "watering,": [
+      177
+    ],
+    "opens": [
+      180
+    ],
+    "solenoid": [
+      182
+    ],
+    "valve": [
+      183
+    ],
+    "waters": [
+      185
+    ],
+    "plants.": [
+      187
+    ],
+    "amount": [
+      189
+    ],
+    "time": [
+      191
+    ],
+    "run": [
+      193
+    ],
+    "determined": [
+      199
+    ],
+    "rate": [
+      204
+    ],
+    "measured": [
+      205
+    ],
+    "by": [
+      206
+    ],
+    "reads": [
+      213
+    ],
+    "sensor": [
+      216
+    ],
+    "values": [
+      217
+    ],
+    "notifies": [
+      219
+    ],
+    "user": [
+      221,
+      232
+    ],
+    "when": [
+      222
+    ],
+    "too": [
+      226,
+      229
+    ],
+    "high": [
+      227
+    ],
+    "low.": [
+      230
+    ],
+    "can": [
+      233
+    ],
+    "according": [
+      240
+    ],
+    "value.": [
+      244
+    ],
+    "both": [
+      246
+    ],
+    "primary": [
+      247
+    ],
+    "field": [
+      249
+    ],
+    "tests,": [
+      250
+    ],
+    "found": [
+      252
+    ],
+    "that": [
+      253
+    ],
+    "ran": [
+      256
+    ],
+    "well": [
+      257
+    ],
+    "able": [
+      260
+    ],
+    "grow": [
+      262
+    ],
+    "green": [
+      263
+    ],
+    "onions.": [
+      264
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 61
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2026-11-11T12:16:26.678958",
+  "created_date": "2023-07-11T00:00:00"
+}
